@@ -1,0 +1,3846 @@
+itm_no_item|无 效 项 目 
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|矛 
+itm_tutorial_spear_pl|矛 
+itm_tutorial_club|棍 棒 
+itm_tutorial_club_pl|棍 棒 
+itm_tutorial_battle_axe|战 斧 
+itm_tutorial_battle_axe_pl|战 斧 
+itm_tutorial_arrows|弓 矢 
+itm_tutorial_arrows_pl|弓 矢 
+itm_tutorial_bolts|弩 箭 
+itm_tutorial_bolts_pl|弩 箭 
+itm_tutorial_short_bow|短 弓 
+itm_tutorial_short_bow_pl|短 弓 
+itm_tutorial_crossbow|弩 
+itm_tutorial_crossbow_pl|弩 
+itm_tutorial_throwing_daggers|飞 刀 
+itm_tutorial_throwing_daggers_pl|飞 刀 
+itm_tutorial_saddle_horse|旅 行 马 
+itm_tutorial_saddle_horse_pl|旅 行 马 
+itm_tutorial_shield|筝 形 盾 牌 
+itm_tutorial_shield_pl|筝 形 盾 牌 
+itm_tutorial_staff_no_attack|杖 
+itm_tutorial_staff_no_attack_pl|杖 
+itm_tutorial_staff|杖 
+itm_tutorial_staff_pl|杖 
+itm_tutorial_sword|剑 
+itm_tutorial_sword_pl|剑 
+itm_tutorial_axe|斧 
+itm_tutorial_axe_pl|斧 
+itm_tutorial_dagger|匕 首 
+itm_tutorial_dagger_pl|匕 首 
+itm_horse_meat|马 肉 
+itm_horse_meat_pl|马 肉 
+itm_book_tactics|保 元 物 语 (战 术 )
+itm_book_tactics_pl|保 元 物 语 (战 术 )
+itm_book_persuasion|短 歌 的 构 成 (说 服 )
+itm_book_persuasion_pl|短 歌 的 构 成 (说 服 )
+itm_book_leadership|圣 德 太 子 传 (统 御 )
+itm_book_leadership_pl|圣 德 太 子 传 (统 御 )
+itm_book_intelligence|日 本 记 (侦 察 )
+itm_book_intelligence_pl|日 本 记 (侦 察 )
+itm_book_trade|五 畿 七 道 概 况 (贸 易 )
+itm_book_trade_pl|五 畿 七 道 概 况 (贸 易 )
+itm_book_weapon_mastery|剑 术 基 础 (武 器 掌 握 )
+itm_book_weapon_mastery_pl|剑 术 基 础 (武 器 掌 握 )
+itm_book_engineering|南 蛮 技 艺 (工 程 )
+itm_book_engineering_pl|南 蛮 技 艺 (工 程 )
+itm_book_wound_treatment_reference|医 心 方 (疗 伤 )
+itm_book_wound_treatment_reference_pl|医 心 方 (疗 伤 )
+itm_book_training_reference|兵 法 奥 义 (教 练 )
+itm_book_training_reference_pl|兵 法 奥 义 (教 练 )
+itm_book_surgery_reference|启 迪 集 (手 术 )
+itm_book_surgery_reference_pl|启 迪 集 (手 术 )
+itm_spice|香 料 
+itm_spice_pl|香 料 
+itm_salt|盐 
+itm_salt_pl|盐 
+itm_oil|鱼 露 
+itm_oil_pl|鱼 露 
+itm_pottery|陶 器 
+itm_pottery_pl|陶 器 
+itm_raw_flax|麻 捆 
+itm_raw_flax_pl|麻 捆 
+itm_linen|麻 布 
+itm_linen_pl|麻 布 
+itm_wool|木 棉 
+itm_wool_pl|木 棉 
+itm_wool_cloth|绢 布 
+itm_wool_cloth_pl|绢 布 
+itm_raw_silk|生 丝 
+itm_raw_silk_pl|生 丝 
+itm_raw_dyes|染 料 
+itm_raw_dyes_pl|染 料 
+itm_velvet|丝 绸 
+itm_velvet_pl|丝 绸 
+itm_iron|铁 
+itm_iron_pl|铁 
+itm_tools|工 具 
+itm_tools_pl|工 具 
+itm_raw_leather|漆 液 
+itm_raw_leather_pl|漆 液 
+itm_leatherwork|漆 器 
+itm_leatherwork_pl|漆 器 
+itm_raw_date_fruit|蘑 菇 
+itm_raw_date_fruit_pl|蘑 菇 
+itm_furs|皮 草 
+itm_furs_pl|皮 草 
+itm_wine|酱 油 
+itm_wine_pl|酱 油 
+itm_ale|酒 
+itm_ale_pl|酒 
+itm_smoked_fish|海 鱼 干 
+itm_smoked_fish_pl|海 鱼 干 
+itm_cheese|味 增 汤 
+itm_cheese_pl|味 增 汤 
+itm_honey|芥 根 粉 
+itm_honey_pl|芥 根 粉 
+itm_sausages|饭 团 
+itm_sausages_pl|饭 团 
+itm_cabbages|蜜 柑 
+itm_cabbages_pl|蜜 柑 
+itm_dried_meat|河 鱼 干 
+itm_dried_meat_pl|河 鱼 干 
+itm_apples|咸 梅 
+itm_apples_pl|咸 梅 
+itm_raw_grapes|大 豆 
+itm_raw_grapes_pl|大 豆 
+itm_raw_olives|鱼 杂 
+itm_raw_olives_pl|鱼 杂 
+itm_grain|糙 米 
+itm_grain_pl|糙 米 
+itm_cattle_meat|牛 肉 
+itm_cattle_meat_pl|牛 肉 
+itm_bread|精 米 
+itm_bread_pl|精 米 
+itm_chicken|干 昆 布 
+itm_chicken_pl|干 昆 布 
+itm_pork|大 根 
+itm_pork_pl|大 根 
+itm_butter|味 噌 
+itm_butter_pl|味 噌 
+itm_siege_supply|补 给 品 
+itm_siege_supply_pl|补 给 品 
+itm_quest_wine|酱 油 
+itm_quest_wine_pl|酱 油 
+itm_quest_ale|清 酒 
+itm_quest_ale_pl|清 酒 
+itm_practice_horse|驮 
+itm_practice_horse_pl|驮 
+itm_sumpter_horse|野 间 马 
+itm_sumpter_horse_pl|野 间 马 
+itm_saddle_horse|野 间 马 
+itm_saddle_horse_pl|野 间 马 
+itm_steppe_horse|下 总 马 
+itm_steppe_horse_pl|下 总 马 
+itm_courser|下 总 马 
+itm_courser_pl|下 总 马 
+itm_arabian_horse_a|南 部 马 
+itm_arabian_horse_a_pl|南 部 马 
+itm_arabian_horse_b|南 部 马 
+itm_arabian_horse_b_pl|南 部 马 
+itm_hunter|木 曾 马 
+itm_hunter_pl|木 曾 马 
+itm_lyre|日 本 筝 
+itm_lyre_pl|日 本 筝 
+itm_lute|日 本 琵 琶 
+itm_lute_pl|日 本 琵 琶 
+itm_wooden_stick|木 棍 
+itm_wooden_stick_pl|木 棍 
+itm_club|棍 棒 
+itm_club_pl|棍 棒 
+itm_mace_1|刺 棒 
+itm_mace_1_pl|刺 棒 
+itm_cleaver|菜 刀 
+itm_cleaver_pl|菜 刀 
+itm_knife|刀 
+itm_knife_pl|刀 
+itm_butchering_knife|屠 刀 
+itm_butchering_knife_pl|屠 刀 
+itm_stones|石 子 
+itm_stones_pl|石 子 
+itm_gekokujo_katana_1|打 刀 
+itm_gekokujo_katana_1_pl|打 刀 
+itm_gekokujo_katana_2|打 刀 
+itm_gekokujo_katana_2_pl|打 刀 
+itm_gekokujo_katana_3|打 刀 
+itm_gekokujo_katana_3_pl|打 刀 
+itm_gekokujo_katana_4|相 模 传 打 刀 
+itm_gekokujo_katana_4_pl|相 模 传 打 刀 
+itm_gekokujo_katana_5|大 和 传 打 刀 
+itm_gekokujo_katana_5_pl|大 和 传 打 刀 
+itm_gekokujo_katana_6|备 前 传 打 刀 
+itm_gekokujo_katana_6_pl|备 前 传 打 刀 
+itm_gekokujo_katana_7|山 城 传 打 刀 
+itm_gekokujo_katana_7_pl|山 城 传 打 刀 
+itm_gekokujo_katana_8|美 浓 传 打 刀 
+itm_gekokujo_katana_8_pl|美 浓 传 打 刀 
+itm_gekokujo_katana_9|正 宗 打 刀 
+itm_gekokujo_katana_9_pl|正 宗 打 刀 
+itm_gekokujo_katana_10|村 正 打 刀 
+itm_gekokujo_katana_10_pl|村 正 打 刀 
+itm_xiaoyewan_x|御 家 打 刀 
+itm_xiaoyewan_x_pl|御 家 打 刀 
+itm_gekokujo_tachi_1|太 刀 
+itm_gekokujo_tachi_1_pl|太 刀 
+itm_gekokujo_tachi_2|太 刀 
+itm_gekokujo_tachi_2_pl|太 刀 
+itm_gekokujo_tachi_3|太 刀 
+itm_gekokujo_tachi_3_pl|太 刀 
+itm_gekokujo_tachi_4|相 模 传 太 刀 
+itm_gekokujo_tachi_4_pl|相 模 传 太 刀 
+itm_gekokujo_tachi_5|大 和 传 太 刀 
+itm_gekokujo_tachi_5_pl|大 和 传 太 刀 
+itm_gekokujo_tachi_6|备 前 传 太 刀 
+itm_gekokujo_tachi_6_pl|备 前 传 太 刀 
+itm_gekokujo_tachi_7|山 城 传 太 刀 
+itm_gekokujo_tachi_7_pl|山 城 传 太 刀 
+itm_gekokujo_tachi_8|美 浓 传 太 刀 
+itm_gekokujo_tachi_8_pl|美 浓 传 太 刀 
+itm_gekokujo_tachi_9|正 宗 太 刀 
+itm_gekokujo_tachi_9_pl|正 宗 太 刀 
+itm_gekokujo_tachi_10|村 正 太 刀 
+itm_gekokujo_tachi_10_pl|村 正 太 刀 
+itm_katana_samurai21|御 家 太 刀 
+itm_katana_samurai21_pl|御 家 太 刀 
+itm_katana_samurai02|御 家 太 刀 
+itm_katana_samurai02_pl|御 家 太 刀 
+itm_tachi_spec|御 家 太 刀 
+itm_tachi_spec_pl|御 家 太 刀 
+itm_gekokujo_nodachi_1|野 太 刀 
+itm_gekokujo_nodachi_1_pl|野 太 刀 
+itm_gekokujo_nodachi_2|野 太 刀 
+itm_gekokujo_nodachi_2_pl|野 太 刀 
+itm_gekokujo_nodachi_3|野 太 刀 
+itm_gekokujo_nodachi_3_pl|野 太 刀 
+itm_gekokujo_nodachi_4|相 模 传 野 太 刀 
+itm_gekokujo_nodachi_4_pl|相 模 传 野 太 刀 
+itm_gekokujo_nodachi_5|大 和 传 野 太 刀 
+itm_gekokujo_nodachi_5_pl|大 和 传 野 太 刀 
+itm_gekokujo_nodachi_6|备 前 传 野 太 刀 
+itm_gekokujo_nodachi_6_pl|备 前 传 野 太 刀 
+itm_gekokujo_nodachi_7|山 城 传 野 太 刀 
+itm_gekokujo_nodachi_7_pl|山 城 传 野 太 刀 
+itm_gekokujo_nodachi_8|美 浓 传 野 太 刀 
+itm_gekokujo_nodachi_8_pl|美 浓 传 野 太 刀 
+itm_gekokujo_nodachi_9|正 宗 野 太 刀 
+itm_gekokujo_nodachi_9_pl|正 宗 野 太 刀 
+itm_gekokujo_nodachi_10|村 正 野 太 刀 
+itm_gekokujo_nodachi_10_pl|村 正 野 太 刀 
+itm_binbou|大 长 卷 
+itm_binbou_pl|大 长 卷 
+itm_gekokujo_nagamaki_1|长 卷 
+itm_gekokujo_nagamaki_1_pl|长 卷 
+itm_gekokujo_nagamaki_2|长 卷 
+itm_gekokujo_nagamaki_2_pl|长 卷 
+itm_gekokujo_nagamaki_3|长 卷 
+itm_gekokujo_nagamaki_3_pl|长 卷 
+itm_gekokujo_nagamaki_4|相 模 传 长 卷 
+itm_gekokujo_nagamaki_4_pl|相 模 传 长 卷 
+itm_gekokujo_nagamaki_5|大 和 传 长 卷 
+itm_gekokujo_nagamaki_5_pl|大 和 传 长 卷 
+itm_gekokujo_nagamaki_6|备 前 传 长 卷 
+itm_gekokujo_nagamaki_6_pl|备 前 传 长 卷 
+itm_gekokujo_nagamaki_7|山 城 传 长 卷 
+itm_gekokujo_nagamaki_7_pl|山 城 传 长 卷 
+itm_gekokujo_nagamaki_8|美 浓 传 长 卷 
+itm_gekokujo_nagamaki_8_pl|美 浓 传 长 卷 
+itm_gekokujo_nagamaki_9|正 宗 长 卷 
+itm_gekokujo_nagamaki_9_pl|正 宗 长 卷 
+itm_gekokujo_nagamaki_10|村 正 长 卷 
+itm_gekokujo_nagamaki_10_pl|村 正 长 卷 
+itm_gekokujo_wakizashi_1|胁 差 
+itm_gekokujo_wakizashi_1_pl|胁 差 
+itm_gekokujo_wakizashi_2|胁 差 
+itm_gekokujo_wakizashi_2_pl|胁 差 
+itm_gekokujo_wakizashi_3|胁 差 
+itm_gekokujo_wakizashi_3_pl|胁 差 
+itm_gekokujo_wakizashi_4|相 模 传 胁 差 
+itm_gekokujo_wakizashi_4_pl|相 模 传 胁 差 
+itm_gekokujo_wakizashi_5|大 和 传 胁 差 
+itm_gekokujo_wakizashi_5_pl|大 和 传 胁 差 
+itm_gekokujo_wakizashi_6|备 前 传 胁 差 
+itm_gekokujo_wakizashi_6_pl|备 前 传 胁 差 
+itm_gekokujo_wakizashi_7|山 城 传 胁 差 
+itm_gekokujo_wakizashi_7_pl|山 城 传 胁 差 
+itm_gekokujo_wakizashi_8|美 浓 传 胁 差 
+itm_gekokujo_wakizashi_8_pl|美 浓 传 胁 差 
+itm_gekokujo_wakizashi_9|正 宗 胁 差 
+itm_gekokujo_wakizashi_9_pl|正 宗 胁 差 
+itm_gekokujo_wakizashi_10|村 正 胁 差 
+itm_gekokujo_wakizashi_10_pl|村 正 胁 差 
+itm_wakizashi_samurai21|御 家 胁 差 
+itm_wakizashi_samurai21_pl|御 家 胁 差 
+itm_wakizashi_samurai02|御 家 胁 差 
+itm_wakizashi_samurai02_pl|御 家 胁 差 
+itm_gekokujo_tanto_1|短 刀 
+itm_gekokujo_tanto_1_pl|短 刀 
+itm_gekokujo_tanto_2|短 刀 
+itm_gekokujo_tanto_2_pl|短 刀 
+itm_gekokujo_tanto_3|短 刀 
+itm_gekokujo_tanto_3_pl|短 刀 
+itm_gekokujo_tanto_4|相 模 传 短 刀 
+itm_gekokujo_tanto_4_pl|相 模 传 短 刀 
+itm_gekokujo_tanto_5|大 和 传 短 刀 
+itm_gekokujo_tanto_5_pl|大 和 传 短 刀 
+itm_gekokujo_tanto_6|备 前 传 短 刀 
+itm_gekokujo_tanto_6_pl|备 前 传 短 刀 
+itm_gekokujo_tanto_7|山 城 传 短 刀 
+itm_gekokujo_tanto_7_pl|山 城 传 短 刀 
+itm_gekokujo_tanto_8|美 浓 传 短 刀 
+itm_gekokujo_tanto_8_pl|美 浓 传 短 刀 
+itm_gekokujo_tanto_9|正 宗 短 刀 
+itm_gekokujo_tanto_9_pl|正 宗 短 刀 
+itm_gekokujo_tanto_10|村 正 短 刀 
+itm_gekokujo_tanto_10_pl|村 正 短 刀 
+itm_gekokujo_ninjato_1|忍 刀 
+itm_gekokujo_ninjato_1_pl|忍 刀 
+itm_gekokujo_ninjato_2|忍 刀 
+itm_gekokujo_ninjato_2_pl|忍 刀 
+itm_gekokujo_ninjato_3|忍 刀 
+itm_gekokujo_ninjato_3_pl|忍 刀 
+itm_gekokujo_ninjato_4|忍 刀 
+itm_gekokujo_ninjato_4_pl|忍 刀 
+itm_gekokujo_shuriken|手 里 剑 
+itm_gekokujo_shuriken_pl|手 里 剑 
+itm_gekokujo_kunai|苦 无 
+itm_gekokujo_kunai_pl|苦 无 
+itm_gekokujo_sabakato_blunt|逆 刃 刀 
+itm_gekokujo_sabakato_blunt_pl|逆 刃 刀 
+itm_gekokujo_sabakato_sharp|逆 刃 刀 
+itm_gekokujo_sabakato_sharp_pl|逆 刃 刀 
+itm_gekokujo_mongol_1|蒙 古 刀 
+itm_gekokujo_mongol_1_pl|蒙 古 刀 
+itm_gekokujo_chinese_1|中 国 长 刀 
+itm_gekokujo_chinese_1_pl|中 国 长 刀 
+itm_gekokujo_chinese_2|中 国 柳 叶 刀 
+itm_gekokujo_chinese_2_pl|中 国 柳 叶 刀 
+itm_gekokujo_chinese_3|中 国 腰 刀 
+itm_gekokujo_chinese_3_pl|中 国 腰 刀 
+itm_gekokujo_chinese_4|中 国 唐 刀 
+itm_gekokujo_chinese_4_pl|中 国 倭 刀 
+itm_gekokujo_chinese_5|中 国 直 刀 
+itm_gekokujo_chinese_5_pl|中 国 直 刀 
+itm_gekokujo_ezo_sword_1|藤 刀 
+itm_gekokujo_ezo_sword_1_pl|藤 刀 
+itm_gekokujo_ezo_sword_2|蕨 手 刀 
+itm_gekokujo_ezo_sword_2_pl|蕨 手 刀 
+itm_gekokujo_ezo_sword_3|虾 夷 礼 刀 
+itm_gekokujo_ezo_sword_3_pl|虾 夷 礼 刀 
+itm_gekokujo_naginata_1|薙 刀 
+itm_gekokujo_naginata_1_pl|薙 刀 
+itm_gekokujo_naginata_2|薙 刀 
+itm_gekokujo_naginata_2_pl|薙 刀 
+itm_gekokujo_naginata_3|薙 刀 
+itm_gekokujo_naginata_3_pl|薙 刀 
+itm_gekokujo_naginata_4|相 模 传 薙 刀 
+itm_gekokujo_naginata_4_pl|相 模 传 薙 刀 
+itm_gekokujo_naginata_5|大 和 传 薙 刀 
+itm_gekokujo_naginata_5_pl|大 和 传 薙 刀 
+itm_gekokujo_naginata_6|备 前 传 薙 刀 
+itm_gekokujo_naginata_6_pl|备 前 传 薙 刀 
+itm_gekokujo_naginata_7|山 城 传 薙 刀 
+itm_gekokujo_naginata_7_pl|山 城 传 薙 刀 
+itm_gekokujo_naginata_8|美 浓 传 薙 刀 
+itm_gekokujo_naginata_8_pl|美 浓 传 薙 刀 
+itm_gekokujo_naginata_9|正 宗 薙 刀 
+itm_gekokujo_naginata_9_pl|正 宗 薙 刀 
+itm_gekokujo_naginata_10|村 正 薙 刀 
+itm_gekokujo_naginata_10_pl|村 正 薙 刀 
+itm_gekokujo_guandao_1|中 国 关 刀 
+itm_gekokujo_guandao_1_pl|中 国 关 刀 
+itm_tidao|中 国 薙 刀 
+itm_tidao_pl|中 国 薙 刀 
+itm_gekokujo_yari_bamboo_1|竹 枪 
+itm_gekokujo_yari_bamboo_1_pl|竹 枪 
+itm_gekokujo_fukuro_yari_1|大 袋 枪 
+itm_gekokujo_fukuro_yari_1_pl|大 袋 枪 
+itm_gekokujo_fukuro_yari_2|大 袋 枪 
+itm_gekokujo_fukuro_yari_2_pl|大 袋 枪 
+itm_gekokujo_fukuro_yari_3|袋 穗 枪 
+itm_gekokujo_fukuro_yari_3_pl|袋 穗 枪 
+itm_gekokujo_fukuro_yari_4|袋 穗 枪 
+itm_gekokujo_fukuro_yari_4_pl|袋 穗 枪 
+itm_gekokujo_yari_1|素 枪 
+itm_gekokujo_yari_1_pl|素 枪 
+itm_gekokujo_yari_2|素 长 枪 
+itm_gekokujo_yari_2_pl|素 长 枪 
+itm_gekokujo_yari_3|素 枪 
+itm_gekokujo_yari_3_pl|素 枪 
+itm_gekokujo_yari_4|二 间 半 长 枪 
+itm_gekokujo_yari_4_pl|二 间 半 长 枪 
+itm_gekokujo_yari_5|大 和 传 素 枪 
+itm_gekokujo_yari_5_pl|大 和 传 素 枪 
+itm_gekokujo_yari_6|山 城 传 素 枪 
+itm_gekokujo_yari_6_pl|山 城 传 素 枪 
+itm_gekokujo_omi_yari_1|大 身 枪 
+itm_gekokujo_omi_yari_1_pl|大 身 枪 
+itm_gekokujo_omi_yari_2|大 身 枪 
+itm_gekokujo_omi_yari_2_pl|大 身 枪 
+itm_gekokujo_omi_yari_3|大 身 枪 
+itm_gekokujo_omi_yari_3_pl|大 身 枪 
+itm_gekokujo_jumonji_yari_1|十 文 字 枪 
+itm_gekokujo_jumonji_yari_1_pl|十 文 字 枪 
+itm_gekokujo_jumonji_yari_2|十 文 字 枪 
+itm_gekokujo_jumonji_yari_2_pl|十 文 字 枪 
+itm_gekokujo_jumonji_yari_3|十 文 字 枪 
+itm_gekokujo_jumonji_yari_3_pl|十 文 字 枪 
+itm_gekokujo_jumonji_yari_4|十 文 字 枪 
+itm_gekokujo_jumonji_yari_4_pl|十 文 字 枪 
+itm_gekokujo_jumonji_yari_5|十 文 字 枪 
+itm_gekokujo_jumonji_yari_5_pl|十 文 字 枪 
+itm_gekokujo_katakama_yari_1|片 镰 枪 
+itm_gekokujo_katakama_yari_1_pl|片 镰 枪 
+itm_gekokujo_katakama_yari_2|片 镰 枪 
+itm_gekokujo_katakama_yari_2_pl|片 镰 枪 
+itm_gekokujo_katakama_yari_3|片 镰 枪 
+itm_gekokujo_katakama_yari_3_pl|片 镰 枪 
+itm_gekokujo_kama_1|镰 刀 
+itm_gekokujo_kama_1_pl|镰 刀 
+itm_gekokujo_kama_2|镰 刀 
+itm_gekokujo_kama_2_pl|镰 刀 
+itm_gekokujo_jo|杖 
+itm_gekokujo_jo_pl|杖 
+itm_gekokujo_bo|棍 
+itm_gekokujo_bo_pl|棍 
+itm_gekokujo_bo_iron|铁 棍 
+itm_gekokujo_bo_iron_pl|铁 棍 
+itm_gekokujo_otsuchi|挂 矢 
+itm_gekokujo_otsuchi_pl|挂 矢 
+itm_gekokujo_konsaibo_1|金 棒 
+itm_gekokujo_konsaibo_1_pl|金 棒 
+itm_gekokujo_konsaibo_2|金 棒 
+itm_gekokujo_konsaibo_2_pl|金 棒 
+itm_gekokujo_tetsubo_1|金 碎 棒 
+itm_gekokujo_tetsubo_1_pl|金 碎 棒 
+itm_gekokujo_tetsubo_2|金 碎 棒 
+itm_gekokujo_tetsubo_2_pl|金 碎 棒 
+itm_gekokujo_kanabo_practice|练 习 金 棒 
+itm_gekokujo_kanabo_practice_pl|练 习 金 棒 
+itm_gekokujo_yumi_1|漆 器 
+itm_gekokujo_yumi_1_pl|漆 器 
+itm_gekokujo_yumi_2|陶 瓷 
+itm_gekokujo_yumi_2_pl|陶 瓷 
+itm_gekokujo_yumi_3|漆 器 
+itm_gekokujo_yumi_3_pl|漆 器 
+itm_gekokujo_yumi_4|陶 瓷 
+itm_gekokujo_yumi_4_pl|陶 瓷 
+itm_gekokujo_yumi_5|漆 器 
+itm_gekokujo_yumi_5_pl|漆 器 
+itm_gekokujo_yumi_6|陶 瓷 
+itm_gekokujo_yumi_6_pl|陶 瓷 
+itm_gekokujo_yumi_7|漆 器 
+itm_gekokujo_yumi_7_pl|漆 器 
+itm_gekokujo_yumi_8|陶 瓷 
+itm_gekokujo_yumi_8_pl|陶 瓷 
+itm_gekokujo_yumi_9|漆 器 
+itm_gekokujo_yumi_9_pl|漆 器 
+itm_douran_yumi2|四 半 弓 
+itm_douran_yumi2_pl|四 半 弓 
+itm_taishen_roku|大 弓 
+itm_taishen_roku_pl|大 弓 
+itm_gekokujo_bow_ezo|虾 夷 弓 
+itm_gekokujo_bow_ezo_pl|虾 夷 弓 
+itm_gekokujo_bow_mongol|蒙 古 弓 
+itm_gekokujo_bow_mongol_pl|蒙 古 弓 
+itm_gekokujo_bow_korean|韩 国 弓 
+itm_gekokujo_bow_korean_pl|韩 国 弓 
+itm_gekokujo_arquebus_1_zutsu|漆 器 
+itm_gekokujo_arquebus_1_zutsu_pl|漆 器 
+itm_gekokujo_arquebus_2_zutsu|漆 器 
+itm_gekokujo_arquebus_2_zutsu_pl|漆 器 
+itm_gekokujo_arquebus_3_zutsu|漆 器 
+itm_gekokujo_arquebus_3_zutsu_pl|漆 器 
+itm_gekokujo_arquebus_4|漆 器 
+itm_gekokujo_arquebus_4_pl|漆 器 
+itm_gekokujo_arquebus_5_zutsu|根 来 大 筒 
+itm_gekokujo_arquebus_5_zutsu_pl|根 来 大 筒 
+itm_sam_yamabushi_zutsu|肥 前 狭 间 筒 
+itm_sam_yamabushi_zutsu_pl|肥 前 狭 间 筒 
+itm_sakai_bajojutsu_zutsu|堺 马 上 筒 
+itm_sakai_bajojutsu_zutsu_pl|堺 马 上 筒 
+itm_spanish_gift|南 蛮 马 上 筒 
+itm_spanish_gift_pl|南 蛮 马 上 筒 
+itm_dou_tanegashima_zutsu|种 子 岛 铁 炮 
+itm_dou_tanegashima_zutsu_pl|种 子 岛 铁 炮 
+itm_gekokujo_bullets_1_zutsu|子 弹 
+itm_gekokujo_bullets_1_zutsu_pl|子 弹 
+itm_gekokujo_bullets_2_zutsu|重 子 弹 
+itm_gekokujo_bullets_2_zutsu_pl|重 子 弹 
+itm_gekokujo_arrows_1|步 枪 弹 药 
+itm_gekokujo_arrows_1_pl|步 枪 弹 药 
+itm_gekokujo_arrows_2|步 枪 弹 药 
+itm_gekokujo_arrows_2_pl|步 枪 弹 药 
+itm_gekokujo_arrows_3|步 枪 弹 药 
+itm_gekokujo_arrows_3_pl|步 枪 弹 药 
+itm_gekokujo_arrows_4|步 枪 弹 药 
+itm_gekokujo_arrows_4_pl|步 枪 弹 药 
+itm_gekokujo_arrows_foreign|狩 矢 
+itm_gekokujo_arrows_foreign_pl|狩 矢 
+itm_gekokujo_practice_jo|练 习 杖 
+itm_gekokujo_practice_jo_pl|练 习 杖 
+itm_gekokujo_practice_wakizashi|练 习 胁 差 
+itm_gekokujo_practice_wakizashi_pl|练 习 胁 差 
+itm_gekokujo_practice_katana|练 习 打 刀 
+itm_gekokujo_practice_katana_pl|练 习 打 刀 
+itm_gekokujo_practice_nodachi|练 习 野 太 刀 
+itm_gekokujo_practice_nodachi_pl|练 习 野 太 刀 
+itm_gekokujo_practice_yari|练 习 枪 
+itm_gekokujo_practice_yari_pl|练 习 枪 
+itm_gekokujo_practice_naginata|练 习 薙 刀 
+itm_gekokujo_practice_naginata_pl|练 习 薙 刀 
+itm_gekokujo_practice_yumi|练 习 和 弓 
+itm_gekokujo_practice_yumi_pl|练 习 和 弓 
+itm_gekokujo_practice_arrows|练 习 箭 
+itm_gekokujo_practice_arrows_pl|练 习 箭 
+itm_gekokujo_practice_kunai|练 习 苦 无 
+itm_gekokujo_practice_kunai_pl|练 习 苦 无 
+itm_gekokujo_practice_kunai_melee|练 习 苦 无 
+itm_gekokujo_practice_kunai_melee_pl|练 习 苦 无 
+itm_gekokujo_ezo_armor_1|阿 依 努 服 饰 
+itm_gekokujo_ezo_armor_1_pl|阿 依 努 服 饰 
+itm_gekokujo_ezo_robes_1|阿 依 努 服 饰 
+itm_gekokujo_ezo_robes_1_pl|阿 依 努 服 饰 
+itm_gekokujo_ezo_robes_2|阿 依 努 服 饰 
+itm_gekokujo_ezo_robes_2_pl|阿 依 努 服 饰 
+itm_gekokujo_ezo_robes_3|阿 依 努 服 饰 
+itm_gekokujo_ezo_robes_3_pl|阿 依 努 服 饰 
+itm_nomad_armor|游 牧 甲 
+itm_nomad_armor_pl|游 牧 甲 
+itm_ragged_outfit|褶 皱 服 
+itm_ragged_outfit_pl|褶 皱 服 
+itm_nomad_vest|游 牧 背 心 
+itm_nomad_vest_pl|游 牧 背 心 
+itm_tribal_warrior_outfit|部 落 勇 士 服 
+itm_tribal_warrior_outfit_pl|部 落 勇 士 服 
+itm_pelt_coat|毛 皮 大 衣 
+itm_pelt_coat_pl|毛 皮 大 衣 
+itm_pilgrim_disguise|朝 圣 者 服 
+itm_pilgrim_disguise_pl|朝 圣 者 服 
+itm_pilgrim_hood|朝 圣 者 帽 
+itm_pilgrim_hood_pl|朝 圣 者 帽 
+itm_leather_apron|皮 围 裙 
+itm_leather_apron_pl|皮 围 裙 
+itm_leather_boots|皮 靴 
+itm_leather_boots_pl|皮 靴 
+itm_hide_boots|兽 皮 靴 
+itm_hide_boots_pl|兽 皮 靴 
+itm_nomad_boots|皮 靴 
+itm_nomad_boots_pl|皮 靴 
+itm_gekokujo_kimono_1_1|男 装 
+itm_gekokujo_kimono_1_1_pl|男 装 
+itm_gekokujo_kimono_1_2|男 装 
+itm_gekokujo_kimono_1_2_pl|男 装 
+itm_gekokujo_kimono_1_3|男 装 
+itm_gekokujo_kimono_1_3_pl|男 装 
+itm_gekokujo_kimono_2_1|野 外 服 装 
+itm_gekokujo_kimono_2_1_pl|野 外 服 装 
+itm_gekokujo_kimono_2_2|野 外 服 装 
+itm_gekokujo_kimono_2_2_pl|野 外 服 装 
+itm_gekokujo_kimono_2_3|野 外 服 装 
+itm_gekokujo_kimono_2_3_pl|野 外 服 装 
+itm_sam_pesant_jap|野 外 服 装 
+itm_sam_pesant_jap_pl|野 外 服 装 
+itm_sam_pesant_jap1|野 外 服 装 
+itm_sam_pesant_jap1_pl|野 外 服 装 
+itm_sam_pesant_jap2|野 外 服 装 
+itm_sam_pesant_jap2_pl|野 外 服 装 
+itm_sam_pesant_jap3|野 外 服 装 
+itm_sam_pesant_jap3_pl|野 外 服 装 
+itm_sugu_kimo_red|野 外 服 装 
+itm_sugu_kimo_red_pl|野 外 服 装 
+itm_sugu_kimo_green|野 外 服 装 
+itm_sugu_kimo_green_pl|野 外 服 装 
+itm_sugu_kimo_yellow|野 外 服 装 
+itm_sugu_kimo_yellow_pl|野 外 服 装 
+itm_sugu_kimo_blue|野 外 服 装 
+itm_sugu_kimo_blue_pl|野 外 服 装 
+itm_sugu_kimo_black|野 外 服 装 
+itm_sugu_kimo_black_pl|野 外 服 装 
+itm_sugu_kimo_white|野 外 服 装 
+itm_sugu_kimo_white_pl|野 外 服 装 
+itm_gekokujo_kimono_3_1|女 装 
+itm_gekokujo_kimono_3_1_pl|女 装 
+itm_gekokujo_kimono_3_2|女 装 
+itm_gekokujo_kimono_3_2_pl|女 装 
+itm_gekokujo_kimono_3_3|女 装 
+itm_gekokujo_kimono_3_3_pl|女 装 
+itm_gekokujo_kimono_3_4|女 装 
+itm_gekokujo_kimono_3_4_pl|女 装 
+itm_gekokujo_kimono_3_5|女 装 
+itm_gekokujo_kimono_3_5_pl|女 装 
+itm_gekokujo_kimono_3_6|女 装 
+itm_gekokujo_kimono_3_6_pl|女 装 
+itm_gekokujo_hakama_1|武 士 服 
+itm_gekokujo_hakama_1_pl|武 士 服 
+itm_gekokujo_hakama_2|武 士 服 
+itm_gekokujo_hakama_2_pl|武 士 服 
+itm_gekokujo_hakama_3|武 士 服 
+itm_gekokujo_hakama_3_pl|武 士 服 
+itm_gekokujo_hakama_4|武 士 服 
+itm_gekokujo_hakama_4_pl|武 士 服 
+itm_gekokujo_hakama_5|武 士 服 
+itm_gekokujo_hakama_5_pl|武 士 服 
+itm_gekokujo_hakama_6|武 士 服 
+itm_gekokujo_hakama_6_pl|武 士 服 
+itm_daimyo_hakama_new|武 士 服 
+itm_daimyo_hakama_new_pl|武 士 服 
+itm_daimyo_hakama_mori|毛 利 武 士 服 
+itm_daimyo_hakama_mori_pl|毛 利 武 士 服 
+itm_daimyo_hakama_oto|武 士 服 
+itm_daimyo_hakama_oto_pl|武 士 服 
+itm_daimyo_hakama_hojo|北 条 武 士 服 
+itm_daimyo_hakama_hojo_pl|北 条 武 士 服 
+itm_daimyo_hakama_new2|武 士 服 
+itm_daimyo_hakama_new2_pl|武 士 服 
+itm_gekokujo_haori_1|武 士 服 
+itm_gekokujo_haori_1_pl|武 士 服 
+itm_gekokujo_haori_2|武 士 服 
+itm_gekokujo_haori_2_pl|武 士 服 
+itm_gekokujo_haori_3|武 士 服 
+itm_gekokujo_haori_3_pl|武 士 服 
+itm_gekokujo_haori_4|武 士 服 
+itm_gekokujo_haori_4_pl|武 士 服 
+itm_gekokujo_haori_5|武 士 服 
+itm_gekokujo_haori_5_pl|武 士 服 
+itm_gekokujo_haori_6|武 士 服 
+itm_gekokujo_haori_6_pl|武 士 服 
+itm_gekokujo_kimono_2_monk|袈 裟 
+itm_gekokujo_kimono_2_monk_pl|袈 裟 
+itm_gekokujo_hakama_1_miko|巫 女 服 装 
+itm_gekokujo_hakama_1_miko_pl|巫 女 服 装 
+itm_sugo_monkish|袈 裟 
+itm_sugo_monkish_pl|袈 裟 
+itm_sam_monk_kamuso|斗 笠 
+itm_sam_monk_kamuso_pl|斗 笠 
+itm_gekokujo_tatami_half_1|畳 式 腹 当 
+itm_gekokujo_tatami_half_1_pl|畳 式 腹 当 
+itm_gekokujo_tatami_half_2|畳 式 腹 当 
+itm_gekokujo_tatami_half_2_pl|畳 式 腹 当 
+itm_gekokujo_tatami_half_3|畳 式 腹 当 
+itm_gekokujo_tatami_half_3_pl|畳 式 腹 当 
+itm_gekokujo_haratearuda_5|畳 式 腹 当 
+itm_gekokujo_haratearuda_5_pl|畳 式 腹 当 
+itm_gekokujo_okegawa_short_ar2|畳 式 腹 当 
+itm_gekokujo_okegawa_short_ar2_pl|畳 式 腹 当 
+itm_gekokujo_okegawa_half_1|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_1_pl|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_2|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_2_pl|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_3|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_3_pl|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_4|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_4_pl|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_5|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_5_pl|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_6|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_6_pl|桶 侧 腹 当 
+itm_gekokujo_okegawa_half_uesugi|上 杉 腹 当 
+itm_gekokujo_okegawa_half_uesugi_pl|上 杉 腹 当 
+itm_gekokujo_okegawa_half_date|伊 达 腹 当 
+itm_gekokujo_okegawa_half_date_pl|伊 达 腹 当 
+itm_gekokujo_okegawa_half_oda|织 田 腹 当 
+itm_gekokujo_okegawa_half_oda_pl|织 田 腹 当 
+itm_gekokujo_okegawa_half_mori|毛 利 腹 当 
+itm_gekokujo_okegawa_half_mori_pl|毛 利 腹 当 
+itm_gekokujo_okegawa_half_takeda|武 田 腹 当 
+itm_gekokujo_okegawa_half_takeda_pl|武 田 腹 当 
+itm_gekokujo_okegawa_half_tokugawa|德 川 腹 当 
+itm_gekokujo_okegawa_half_tokugawa_pl|德 川 腹 当 
+itm_gekokujo_mogami_half_1|最 上 腹 当 
+itm_gekokujo_mogami_half_1_pl|最 上 腹 当 
+itm_gekokujo_mogami_half_2|最 上 腹 当 
+itm_gekokujo_mogami_half_2_pl|最 上 腹 当 
+itm_gekokujo_mogami_half_3|最 上 腹 当 
+itm_gekokujo_mogami_half_3_pl|最 上 腹 当 
+itm_gekokujo_tatami_short_1|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_1_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_2|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_2_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_3|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_3_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_4|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_4_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_5|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_5_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_6|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_6_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_7|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_7_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_8|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_8_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_ito|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_ito_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_saito|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_saito_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_ashikaga|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_ashikaga_pl|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_imagawa|御 贷 畳 式 具 足 
+itm_gekokujo_tatami_short_imagawa_pl|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_1|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_1_pl|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_2|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_2_pl|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_3|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_3_pl|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_4|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_4_pl|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_5|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_5_pl|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_6|御 贷 畳 式 具 足 
+itm_gekokujo_bandit_6_pl|御 贷 畳 式 具 足 
+itm_gekokujo_okegawa_short_1|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_1_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_2|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_2_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_3|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_3_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_4|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_4_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_5|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_5_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_6|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_6_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_7|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_7_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_8|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_8_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_9|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_9_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_10|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_10_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_11|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_11_pl|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_12|御 贷 桶 侧 具 足 
+itm_gekokujo_okegawa_short_12_pl|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_takeda_ashigaru5|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_takeda_ashigaru5_pl|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_takeda_ashigaru6|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_takeda_ashigaru6_pl|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_ji_tatami|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_ji_tatami_pl|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_ji_tatami9|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_ji_tatami9_pl|御 贷 桶 侧 具 足 
+itm_blueblood_okegawa_honganji_expert_ashigaru|僧 兵 御 贷 具 足 
+itm_blueblood_okegawa_honganji_expert_ashigaru_pl|僧 兵 御 贷 具 足 
+itm_blueblood_okegawa_honganji_expert_ashigaru1|僧 兵 御 贷 具 足 
+itm_blueblood_okegawa_honganji_expert_ashigaru1_pl|僧 兵 御 贷 具 足 
+itm_gekokujo_okegawa_short_uesugi|上 杉 家 臣 具 足 
+itm_gekokujo_okegawa_short_uesugi_pl|上 杉 御 贷 具 足 
+itm_gekokujo_okegawa_short_uesugi2|上 杉 御 贷 具 足 
+itm_gekokujo_okegawa_short_uesugi2_pl|上 杉 御 贷 具 足 
+itm_gekokujo_okegawa_short_uesugi3|上 杉 御 贷 具 足 
+itm_gekokujo_okegawa_short_uesugi3_pl|上 杉 御 贷 具 足 
+itm_gekokujo_okegawa_short_mogami|最 上 御 贷 具 足 
+itm_gekokujo_okegawa_short_mogami_pl|最 上 御 贷 具 足 
+itm_gekokujo_okegawa_short_mogami2|最 上 御 贷 具 足 
+itm_gekokujo_okegawa_short_mogami2_pl|最 上 御 贷 具 足 
+itm_gekokujo_okegawa_short_date|伊 达 御 贷 具 足 
+itm_gekokujo_okegawa_short_date_pl|伊 达 御 贷 具 足 
+itm_gekokujo_okegawa_short_date2|伊 达 御 贷 具 足 
+itm_gekokujo_okegawa_short_date2_pl|伊 达 御 贷 具 足 
+itm_gekokujo_okegawa_short_ikko|一 向 宗 御 贷 具 足 
+itm_gekokujo_okegawa_short_ikko_pl|一 向 宗 御 贷 具 足 
+itm_gekokujo_okegawa_short_ikko2|一 向 宗 御 贷 具 足 
+itm_gekokujo_okegawa_short_ikko2_pl|一 向 宗 御 贷 具 足 
+itm_gekokujo_okegawa_short_ikko5|一 向 宗 御 贷 具 足 
+itm_gekokujo_okegawa_short_ikko5_pl|一 向 宗 御 贷 具 足 
+itm_gekokujo_okegawa_short_odap|织 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_odap_pl|织 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_oda|织 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_oda_pl|织 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_oda2|织 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_oda2_pl|织 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_mori|毛 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_mori_pl|毛 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_mori2|毛 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_mori2_pl|毛 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_takeda|武 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_takeda_pl|武 田 御 贷 具 足 
+itm_gekokujo_retainer_takeda|武 田 御 贷 具 足 
+itm_gekokujo_retainer_takeda_pl|武 田 御 贷 具 足 
+itm_blueblood_okegawa_takeda_ashigaru|武 田 御 贷 具 足 
+itm_blueblood_okegawa_takeda_ashigaru_pl|武 田 御 贷 具 足 
+itm_gekokujo_okegawa_short_tokugawa|德 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_tokugawa_pl|德 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_tokugawa2|德 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_tokugawa2_pl|德 川 御 贷 具 足 
+itm_blueblood_okegawa_tokugawa_ashigaru|德 川 御 贷 具 足 
+itm_blueblood_okegawa_tokugawa_ashigaru_pl|德 川 御 贷 具 足 
+itm_blueblood_okegawa_tokugawa_ashigaru2|德 川 御 贷 具 足 
+itm_blueblood_okegawa_tokugawa_ashigaru2_pl|德 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_shimazu|岛 津 御 贷 具 足 
+itm_gekokujo_okegawa_short_shimazu_pl|岛 津 御 贷 具 足 
+itm_gekokujo_okegawa_short_shimazu2|岛 津 御 贷 具 足 
+itm_gekokujo_okegawa_short_shimazu2_pl|岛 津 御 贷 具 足 
+itm_gekokujo_okegawa_short_ryuzoji|龙 造 寺 御 贷 具 足 
+itm_gekokujo_okegawa_short_ryuzoji_pl|龙 造 寺 御 贷 具 足 
+itm_gekokujo_okegawa_short_ryuzoji2|龙 造 寺 御 贷 具 足 
+itm_gekokujo_okegawa_short_ryuzoji2_pl|龙 造 寺 御 贷 具 足 
+itm_gekokujo_okegawa_short_hojo|北 条 御 贷 具 足 
+itm_gekokujo_okegawa_short_hojo_pl|北 条 御 贷 具 足 
+itm_gekokujo_okegawa_short_hojo2|北 条 御 贷 具 足 
+itm_gekokujo_okegawa_short_hojo2_pl|北 条 御 贷 具 足 
+itm_gekokujo_retainer_ashikaga|足 利 御 贷 具 足 
+itm_gekokujo_retainer_ashikaga_pl|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga_pl|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga3|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga3_pl|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga4|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga4_pl|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga5|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_ashikaga5_pl|足 利 御 贷 具 足 
+itm_gekokujo_okegawa_short_amako|尼 子 御 贷 具 足 
+itm_gekokujo_okegawa_short_amako_pl|尼 子 御 贷 具 足 
+itm_gekokujo_okegawa_short_otomo|大 友 御 贷 具 足 
+itm_gekokujo_okegawa_short_otomo_pl|大 友 御 贷 具 足 
+itm_gekokujo_okegawa_short_otomo2|大 友 御 贷 具 足 
+itm_gekokujo_okegawa_short_otomo2_pl|大 友 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito_slv|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito_slv_pl|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito_pl|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito2|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito2_pl|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito3|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_ito3_pl|伊 东 御 贷 具 足 
+itm_gekokujo_okegawa_short_imagawa|今 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_imagawa_pl|今 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_imagawa2|今 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_imagawa2_pl|今 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_imagawa_slv|今 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_imagawa_slv_pl|今 川 御 贷 具 足 
+itm_gekokujo_okegawa_short_saito|斋 藤 御 贷 具 足 
+itm_gekokujo_okegawa_short_saito_pl|斋 藤 御 贷 具 足 
+itm_gekokujo_okegawa_short_saito_slv|斋 藤 御 贷 具 足 
+itm_gekokujo_okegawa_short_saito_slv_pl|斋 藤 御 贷 具 足 
+itm_honma_retainer|本 间 御 贷 具 足 
+itm_honma_retainer_pl|本 间 御 贷 具 足 
+itm_shimazu_ashigaru|岛 津 御 贷 具 足 
+itm_shimazu_ashigaru_pl|岛 津 御 贷 具 足 
+itm_gekokujo_okegawa_short_akamatsu|赤 松 御 贷 具 足 
+itm_gekokujo_okegawa_short_akamatsu_pl|赤 松 御 贷 具 足 
+itm_gekokujo_okegawa_short_urakami|佐 竹 御 贷 具 足 
+itm_gekokujo_okegawa_short_urakami_pl|佐 竹 御 贷 具 足 
+itm_gekokujo_okegawa_short_urakami2|佐 竹 御 贷 具 足 
+itm_gekokujo_okegawa_short_urakami2_pl|佐 竹 御 贷 具 足 
+itm_gekokujo_okegawa_short_miyoshi|三 好 御 贷 具 足 
+itm_gekokujo_okegawa_short_miyoshi_pl|三 好 御 贷 具 足 
+itm_gekokujo_okegawa_short_miyoshi2|三 好 御 贷 具 足 
+itm_gekokujo_okegawa_short_miyoshi2_pl|三 好 御 贷 具 足 
+itm_gekokujo_mogami_short_1|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_1_pl|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_2|最 上 家 御 贷 具 足 
+itm_gekokujo_mogami_short_2_pl|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_3|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_3_pl|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_4|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_4_pl|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_5|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_5_pl|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_6|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_6_pl|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_ito|伊 东 最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_ito_pl|伊 东 最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_ito2|伊 东 最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_ito2_pl|伊 东 最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_miyo|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_miyo_pl|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_oto|最 上 御 贷 具 足 
+itm_gekokujo_mogami_short_oto_pl|最 上 御 贷 具 足 
+itm_ashi_kozane|御 贷 具 足 
+itm_ashi_kozane_pl|御 贷 具 足 
+itm_ashi_kozane2|御 贷 具 足 
+itm_ashi_kozane2_pl|御 贷 具 足 
+itm_ashi_kozane3|御 贷 具 足 
+itm_ashi_kozane3_pl|御 贷 具 足 
+itm_ashi_kozane4|御 贷 具 足 
+itm_ashi_kozane4_pl|御 贷 具 足 
+itm_ashi_kozane5|御 贷 具 足 
+itm_ashi_kozane5_pl|御 贷 具 足 
+itm_ashi_kozane6|御 贷 具 足 
+itm_ashi_kozane6_pl|御 贷 具 足 
+itm_ashi_kozane7|御 贷 具 足 
+itm_ashi_kozane7_pl|御 贷 具 足 
+itm_ashi_kozane8|御 贷 具 足 
+itm_ashi_kozane8_pl|御 贷 具 足 
+itm_ashi_kozane9|御 贷 具 足 
+itm_ashi_kozane9_pl|御 贷 具 足 
+itm_ashi_kozane10|御 贷 具 足 
+itm_ashi_kozane10_pl|御 贷 具 足 
+itm_ashi_kozane11|御 贷 具 足 
+itm_ashi_kozane11_pl|御 贷 具 足 
+itm_ashi_kozane12|御 贷 具 足 
+itm_ashi_kozane12_pl|御 贷 具 足 
+itm_ashi_kozane13|御 贷 具 足 
+itm_ashi_kozane13_pl|御 贷 具 足 
+itm_samurai_toku_arm2|Yoroi Armor
+itm_samurai_toku_arm2_pl|Yoroi Armor
+itm_samurai_toku_arm2_1|Yoroi Armor
+itm_samurai_toku_arm2_1_pl|Yoroi Armor
+itm_samurai_toku_arm2_2|Yoroi Armor
+itm_samurai_toku_arm2_2_pl|Yoroi Armor
+itm_samurai_toku_arm2_3|Yoroi Armor
+itm_samurai_toku_arm2_3_pl|Yoroi Armor
+itm_samurai_toku_arm2_4|Yoroi Armor
+itm_samurai_toku_arm2_4_pl|Yoroi Armor
+itm_samurai_toku_arm2_5|Yoroi Armor
+itm_samurai_toku_arm2_5_pl|Yoroi Armor
+itm_gekokujo_retainer_oda|御 贷 具 足 
+itm_gekokujo_retainer_oda_pl|御 贷 具 足 
+itm_gekokujo_retainer_arm1|御 贷 具 足 
+itm_gekokujo_retainer_arm1_pl|御 贷 具 足 
+itm_gekokujo_retainer_imagawa|御 贷 具 足 
+itm_gekokujo_retainer_imagawa_pl|御 贷 具 足 
+itm_gekokujo_retainer_ikko|御 贷 具 足 
+itm_gekokujo_retainer_ikko_pl|御 贷 具 足 
+itm_gekokujo_retainer_takeda2|御 贷 具 足 
+itm_gekokujo_retainer_takeda2_pl|御 贷 具 足 
+itm_gekokujo_retainer_mori|朱 漆 御 贷 具 足 
+itm_gekokujo_retainer_mori_pl|朱 漆 御 贷 具 足 
+itm_gekokujo_okegawa_short_slv|黑 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv_pl|黑 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv2|黑 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv2_pl|黑 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv3|桧 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv3_pl|桧 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv4|朱 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv4_pl|朱 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv5|黑 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv5_pl|黑 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv6|桧 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv6_pl|桧 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv7|朱 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv7_pl|朱 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv8|桧 漆 涂 具 足 
+itm_gekokujo_okegawa_short_slv8_pl|桧 漆 涂 具 足 
+itm_gekokujo_yukinoshita_short_1|雪 雪 下 具 足 
+itm_gekokujo_yukinoshita_short_1_pl|雪 雪 下 具 足 
+itm_gekokujo_yukinoshita_short_2|雪 雪 下 具 足 
+itm_gekokujo_yukinoshita_short_2_pl|雪 雪 下 具 足 
+itm_gekokujo_yukinoshita_short_3|雪 雪 下 具 足 
+itm_gekokujo_yukinoshita_short_3_pl|雪 雪 下 具 足 
+itm_gekokujo_yukinoshita_short_date|伊 达 雪 雪 下 具 足 
+itm_gekokujo_yukinoshita_short_date_pl|伊 达 雪 雪 下 具 足 
+itm_gekokujo_okegawa_long_1|桶 侧 胴 
+itm_gekokujo_okegawa_long_1_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_2|桶 侧 胴 
+itm_gekokujo_okegawa_long_2_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_3|桶 侧 胴 
+itm_gekokujo_okegawa_long_3_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_4|桶 侧 胴 
+itm_gekokujo_okegawa_long_4_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_5|桶 侧 胴 
+itm_gekokujo_okegawa_long_5_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_6|桶 侧 胴 
+itm_gekokujo_okegawa_long_6_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_7|桶 侧 胴 
+itm_gekokujo_okegawa_long_7_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_8|桶 侧 胴 
+itm_gekokujo_okegawa_long_8_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_9|桶 侧 胴 
+itm_gekokujo_okegawa_long_9_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_10|桶 侧 胴 
+itm_gekokujo_okegawa_long_10_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_11|桶 侧 胴 
+itm_gekokujo_okegawa_long_11_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_12|桶 侧 胴 
+itm_gekokujo_okegawa_long_12_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_13|桶 侧 胴 
+itm_gekokujo_okegawa_long_13_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_14|桶 侧 胴 
+itm_gekokujo_okegawa_long_14_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_15|桶 侧 胴 
+itm_gekokujo_okegawa_long_15_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda3|桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda3_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda4|桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda4_pl|桶 侧 胴 
+itm_daimyo_black_oke|桶 侧 胴 
+itm_daimyo_black_oke_pl|桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai6|桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai6_pl|桶 侧 胴 
+itm_gekokujo_yukinoshita_nao|桶 侧 胴 
+itm_gekokujo_yukinoshita_nao_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_moriii|桶 侧 胴 
+itm_gekokujo_okegawa_long_moriii_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_miyo|桶 侧 胴 
+itm_gekokujo_okegawa_long_miyo_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_takk|桶 侧 胴 
+itm_gekokujo_okegawa_long_takk_pl|桶 侧 胴 
+itm_ninja_okegawa|忍 甲 
+itm_ninja_okegawa_pl|忍 甲 
+itm_gekokujo_okegawa_long_allblack|桶 侧 胴 
+itm_gekokujo_okegawa_long_allblack_pl|桶 侧 胴 
+itm_ssh_yoroi13|雪 雪 下 具 足 
+itm_ssh_yoroi13_pl|雪 雪 下 具 足 
+itm_daimyo_okegawa_long_black|桶 侧 胴 
+itm_daimyo_okegawa_long_black_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_red|桶 侧 胴 
+itm_daimyo_okegawa_long_red_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_brown|桶 侧 胴 
+itm_daimyo_okegawa_long_brown_pl|桶 侧 胴 
+itm_daimyo_gusoku_blacknew|桶 侧 胴 
+itm_daimyo_gusoku_blacknew_pl|桶 侧 胴 
+itm_daimyo_gusoku_blacknew2|桶 侧 胴 
+itm_daimyo_gusoku_blacknew2_pl|桶 侧 胴 
+itm_daimyo_gusoku_blacknew3|桶 侧 胴 
+itm_daimyo_gusoku_blacknew3_pl|桶 侧 胴 
+itm_daimyo_gusoku_rednew|桶 侧 胴 
+itm_daimyo_gusoku_rednew_pl|桶 侧 胴 
+itm_daimyo_gusoku_rednew2|桶 侧 胴 
+itm_daimyo_gusoku_rednew2_pl|桶 侧 胴 
+itm_daimyo_gusoku_brown|桶 侧 胴 
+itm_daimyo_gusoku_brown_pl|桶 侧 胴 
+itm_daimyo_gusoku_brown2|桶 侧 胴 
+itm_daimyo_gusoku_brown2_pl|桶 侧 胴 
+itm_gold_samurai_armor2|桶 侧 胴 
+itm_gold_samurai_armor2_pl|桶 侧 胴 
+itm_daimyo_red_okeg|桶 侧 胴 
+itm_daimyo_red_okeg_pl|桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai4|桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai4_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_white|桶 侧 胴 
+itm_daimyo_okegawa_long_white_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_white2|桶 侧 胴 
+itm_daimyo_okegawa_long_white2_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_white3|桶 侧 胴 
+itm_daimyo_okegawa_long_white3_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_blacks2|桶 侧 胴 
+itm_daimyo_okegawa_long_blacks2_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_black2s2|桶 侧 胴 
+itm_daimyo_okegawa_long_black2s2_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_white4|桶 侧 胴 
+itm_daimyo_okegawa_long_white4_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_18|桶 侧 胴 
+itm_gekokujo_okegawa_long_18_pl|桶 侧 胴 
+itm_gekokujo_okegawa_long_19|桶 侧 胴 
+itm_gekokujo_okegawa_long_19_pl|桶 侧 胴 
+itm_ronin_okegawa_long_1|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_1_pl|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_2|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_2_pl|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_3|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_3_pl|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_4|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_4_pl|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_5|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_5_pl|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_6|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_6_pl|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_7|浪 人 桶 侧 胴 
+itm_ronin_okegawa_long_7_pl|浪 人 桶 侧 胴 
+itm_1samurai_oke|军 师 畳 式 具 足 
+itm_1samurai_oke_pl|军 师 畳 式 具 足 
+itm_2samurai_oke|军 师 畳 式 具 足 
+itm_2samurai_oke_pl|军 师 畳 式 具 足 
+itm_3samurai_oke|军 师 畳 式 具 足 
+itm_3samurai_oke_pl|军 师 畳 式 具 足 
+itm_4samurai_oke|军 师 畳 式 具 足 
+itm_4samurai_oke_pl|军 师 畳 式 具 足 
+itm_5samurai_oke|军 师 畳 式 具 足 
+itm_5samurai_oke_pl|军 师 畳 式 具 足 
+itm_6samurai_oke|军 师 畳 式 具 足 
+itm_6samurai_oke_pl|军 师 畳 式 具 足 
+itm_green_samurai_oke|军 师 畳 式 具 足 
+itm_green_samurai_oke_pl|军 师 畳 式 具 足 
+itm_red_samurai_oke2|军 师 畳 式 具 足 
+itm_red_samurai_oke2_pl|军 师 畳 式 具 足 
+itm_red_samurai_oke3|军 师 畳 式 具 足 
+itm_red_samurai_oke3_pl|军 师 畳 式 具 足 
+itm_red_samurai_oke4|军 师 畳 式 具 足 
+itm_red_samurai_oke4_pl|军 师 畳 式 具 足 
+itm_sjitiansancfu|军 师 畳 式 具 足 
+itm_sjitiansancfu_pl|军 师 畳 式 具 足 
+itm_black_do|桶 侧 胴 
+itm_black_do_pl|桶 侧 胴 
+itm_arudasamuraiokeblu|僧 兵 军 师 畳 具 足 
+itm_arudasamuraiokeblu_pl|僧 兵 军 师 畳 具 足 
+itm_arudasamuraiokered2|僧 兵 军 师 畳 具 足 
+itm_arudasamuraiokered2_pl|僧 兵 军 师 畳 具 足 
+itm_arudasamuraiokeblu2|僧 兵 军 师 畳 具 足 
+itm_arudasamuraiokeblu2_pl|僧 兵 军 师 畳 具 足 
+itm_red_dragon_armor|僧 兵 军 师 畳 具 足 
+itm_red_dragon_armor_pl|僧 兵 军 师 畳 具 足 
+itm_sohei_oke_sugu|佛 祖 畳 具 足 
+itm_sohei_oke_sugu_pl|佛 祖 畳 具 足 
+itm_blueblood_late_monk_yoroi|僧 兵 畳 具 足 
+itm_blueblood_late_monk_yoroi_pl|僧 兵 畳 具 足 
+itm_gekokujo_okegawa_long_oda|织 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_oda_pl|织 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_oda2|织 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_oda2_pl|织 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda_pl|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda2|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda2_pl|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda5|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda5_pl|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda6|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_takeda6_pl|武 田 桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai5|武 田 桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai5_pl|武 田 桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai2|武 田 桶 侧 胴 
+itm_blueblood_okegawa_sashimono_takeda_samurai2_pl|武 田 桶 侧 胴 
+itm_blueblood_okegawa_takeda|武 田 桶 侧 胴 
+itm_blueblood_okegawa_takeda_pl|武 田 桶 侧 胴 
+itm_gekokujo_okegawa_long_uesugi1|上 杉 桶 侧 胴 
+itm_gekokujo_okegawa_long_uesugi1_pl|上 杉 桶 侧 胴 
+itm_gekokujo_okegawa_long_uesugi2|上 杉 桶 侧 胴 
+itm_gekokujo_okegawa_long_uesugi2_pl|上 杉 桶 侧 胴 
+itm_daimyo_okegawa_long_uesugis2|上 杉 桶 侧 胴 
+itm_daimyo_okegawa_long_uesugis2_pl|上 杉 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo2|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo2_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo3|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo3_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo10|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo10_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo11|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo11_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_oto_blue|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_oto_blue_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo7|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo7_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo8|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_otomo8_pl|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo_pl|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo2|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo2_pl|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo3|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo3_pl|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo4|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo4_pl|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo5|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo5_pl|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo6|大 友 桶 侧 胴 
+itm_daimyo_okegawa_long_otomo6_pl|大 友 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa|今 川 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa_pl|今 川 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa2|今 川 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa2_pl|今 川 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa3|今 川 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa3_pl|今 川 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa4|今 川 桶 侧 胴 
+itm_gekokujo_okegawa_long_imagawa4_pl|今 川 桶 侧 胴 
+itm_daimyo_okegawa_long_imagawa5|今 川 桶 侧 胴 
+itm_daimyo_okegawa_long_imagawa5_pl|今 川 桶 侧 胴 
+itm_daimyo_okegawa_long_imagawa6|今 川 桶 侧 胴 
+itm_daimyo_okegawa_long_imagawa6_pl|今 川 桶 侧 胴 
+itm_shimazu_samur_sashi|岛 津 桶 侧 胴 
+itm_shimazu_samur_sashi_pl|岛 津 桶 侧 胴 
+itm_shimazu_samur_sashi_red|岛 津 桶 侧 胴 
+itm_shimazu_samur_sashi_red_pl|岛 津 桶 侧 胴 
+itm_shimazu_samurai_red|岛 津 桶 侧 胴 
+itm_shimazu_samurai_red_pl|岛 津 桶 侧 胴 
+itm_shimazu_samurai_armor|岛 津 桶 侧 胴 
+itm_shimazu_samurai_armor_pl|岛 津 桶 侧 胴 
+itm_gekokujo_okegawa_long_satomi|里 间 桶 侧 胴 
+itm_gekokujo_okegawa_long_satomi_pl|里 间 桶 侧 胴 
+itm_gekokujo_okegawa_long_satomi2|里 间 桶 侧 胴 
+itm_gekokujo_okegawa_long_satomi2_pl|里 间 桶 侧 胴 
+itm_gekokujo_okegawa_long_satomi3|里 间 桶 侧 胴 
+itm_gekokujo_okegawa_long_satomi3_pl|里 间 桶 侧 胴 
+itm_daimyo_okegawa_long_satomi|里 间 桶 侧 胴 
+itm_daimyo_okegawa_long_satomi_pl|里 间 桶 侧 胴 
+itm_gekokujo_okegawa_long_chosokabe|长 宗 我 部 桶 侧 胴 
+itm_gekokujo_okegawa_long_chosokabe_pl|长 宗 我 部 桶 侧 胴 
+itm_gekokujo_okegawa_long_chosokabe2|长 宗 我 部 桶 侧 胴 
+itm_gekokujo_okegawa_long_chosokabe2_pl|长 宗 我 部 桶 侧 胴 
+itm_gekokujo_okegawa_long_ashikaga|足 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_ashikaga_pl|足 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_ashikaga2|足 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_ashikaga2_pl|足 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_ashikaga3|足 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_ashikaga3_pl|足 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_mori|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_mori_pl|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_mori2|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_mori2_pl|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_mori3|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_mori3_pl|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_moriii2|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_moriii2_pl|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_moriii3|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_moriii3_pl|毛 利 桶 侧 胴 
+itm_daimyo_okegawa_long_mori|毛 利 桶 侧 胴 
+itm_daimyo_okegawa_long_mori_pl|毛 利 桶 侧 胴 
+itm_daimyo_okegawa_long_mori2|毛 利 桶 侧 胴 
+itm_daimyo_okegawa_long_mori2_pl|毛 利 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi|三 好 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi_pl|三 好 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi2|三 好 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi2_pl|三 好 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi3|三 好 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi3_pl|三 好 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi4|三 好 桶 侧 胴 
+itm_gekokujo_okegawa_long_miyoshi4_pl|三 好 桶 侧 胴 
+itm_so_armor|对 马 宗 氏 桶 侧 胴 
+itm_so_armor_pl|对 马 宗 氏 桶 侧 胴 
+itm_gekokujo_okegawa_long_hojo|北 条 桶 侧 胴 
+itm_gekokujo_okegawa_long_hojo_pl|北 条 桶 侧 胴 
+itm_gekokujo_okegawa_long_hojo2|北 条 桶 侧 胴 
+itm_gekokujo_okegawa_long_hojo2_pl|北 条 桶 侧 胴 
+itm_daimyo_okegawa_long_hojo3|北 条 桶 侧 胴 
+itm_daimyo_okegawa_long_hojo3_pl|北 条 桶 侧 胴 
+itm_daimyo_okegawa_long_hojo4|北 条 桶 侧 胴 
+itm_daimyo_okegawa_long_hojo4_pl|北 条 桶 侧 胴 
+itm_daimyo_okegawa_long_asakura|朝 仓 桶 侧 胴 
+itm_daimyo_okegawa_long_asakura_pl|朝 仓 桶 侧 胴 
+itm_blueblood_okegawa_tokugawa|德 川 桶 侧 胴 
+itm_blueblood_okegawa_tokugawa_pl|德 川 桶 侧 胴 
+itm_blueblood_okegawa_date|伊 达 桶 侧 胴 
+itm_blueblood_okegawa_date_pl|伊 达 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito_pl|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito2|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito2_pl|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito3|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito3_pl|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito4|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito4_pl|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito5|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito5_pl|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito6|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito6_pl|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito7|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_saito7_pl|斋 藤 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito_pl|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito2|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito2_pl|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito3|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito3_pl|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito4|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito4_pl|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito5|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito5_pl|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito6|伊 东 桶 侧 胴 
+itm_gekokujo_okegawa_long_ito6_pl|伊 东 桶 侧 胴 
+itm_daimyo_okegawa_long_itos2|伊 东 桶 侧 胴 
+itm_daimyo_okegawa_long_itos2_pl|伊 东 桶 侧 胴 
+itm_daimyo_okegawa_long_so|对 马 宗 氏 桶 侧 胴 
+itm_daimyo_okegawa_long_so_pl|对 马 宗 氏 桶 侧 胴 
+itm_honma_samurai|本 间 桶 侧 胴 
+itm_honma_samurai_pl|本 间 桶 侧 胴 
+itm_yamana_armor|山 中 桶 侧 胴 
+itm_yamana_armor_pl|山 中 桶 侧 胴 
+itm_daimyo_okegawa_long_ii|井 伊 桶 侧 胴 
+itm_daimyo_okegawa_long_ii_pl|井 伊 桶 侧 胴 
+itm_daimyo_okegawa_long_kuroda|黑 田 桶 侧 胴 
+itm_daimyo_okegawa_long_kuroda_pl|黑 田 桶 侧 胴 
+itm_daimyo_okegawa_long_urakami|桶 侧 胴 
+itm_daimyo_okegawa_long_urakami_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_urakami2|佐 竹 桶 侧 胴 
+itm_daimyo_okegawa_long_urakami2_pl|佐 竹 桶 侧 胴 
+itm_gekokujo_okegawa_long_urakami|佐 竹 桶 侧 胴 
+itm_gekokujo_okegawa_long_urakami_pl|佐 竹 桶 侧 胴 
+itm_gekokujo_okegawa_long_urakami2|佐 竹 桶 侧 胴 
+itm_gekokujo_okegawa_long_urakami2_pl|佐 竹 桶 侧 胴 
+itm_gekokujo_okegawa_long_urakami3|佐 竹 桶 侧 胴 
+itm_gekokujo_okegawa_long_urakami3_pl|佐 竹 桶 侧 胴 
+itm_daimyo_okegawa_long_toyotomis2|秀 吉 桶 侧 胴 
+itm_daimyo_okegawa_long_toyotomis2_pl|秀 吉 桶 侧 胴 
+itm_daimyo_okegawa_long_toyotomis3|秀 吉 桶 侧 胴 
+itm_daimyo_okegawa_long_toyotomis3_pl|秀 吉 桶 侧 胴 
+itm_daimyo_okegawa_long_toyotomis4|秀 吉 桶 侧 胴 
+itm_daimyo_okegawa_long_toyotomis4_pl|秀 吉 桶 侧 胴 
+itm_daimyo_okegawa_long_ikko|本 愿 寺 桶 侧 胴 
+itm_daimyo_okegawa_long_ikko_pl|本 愿 寺 桶 侧 胴 
+itm_daimyo_okegawa_long_ikko2|本 愿 寺 桶 侧 胴 
+itm_daimyo_okegawa_long_ikko2_pl|本 愿 寺 桶 侧 胴 
+itm_daimyo_okegawa_long_ikko3|本 愿 寺 桶 侧 胴 
+itm_daimyo_okegawa_long_ikko3_pl|本 愿 寺 桶 侧 胴 
+itm_gekokujo_mogami_long_1|最 上 甲 
+itm_gekokujo_mogami_long_1_pl|最 上 甲 
+itm_gekokujo_mogami_long_2|最 上 甲 
+itm_gekokujo_mogami_long_2_pl|最 上 甲 
+itm_gekokujo_mogami_long_3|最 上 甲 
+itm_gekokujo_mogami_long_3_pl|最 上 甲 
+itm_gekokujo_mogami_long_11|最 上 甲 
+itm_gekokujo_mogami_long_11_pl|最 上 甲 
+itm_gekokujo_mogami_long_12|最 上 甲 
+itm_gekokujo_mogami_long_12_pl|最 上 甲 
+itm_gekokujo_mogami_long_13|最 上 甲 
+itm_gekokujo_mogami_long_13_pl|最 上 甲 
+itm_gekokujo_mogami_long_miyo|最 上 甲 
+itm_gekokujo_mogami_long_miyo_pl|最 上 甲 
+itm_gekokujo_mogami_long_otomo|最 上 甲 
+itm_gekokujo_mogami_long_otomo_pl|最 上 甲 
+itm_gekokujo_mogami_long_otomo2|最 上 甲 
+itm_gekokujo_mogami_long_otomo2_pl|最 上 甲 
+itm_gekokujo_mogami_long_otomo3|最 上 甲 
+itm_gekokujo_mogami_long_otomo3_pl|最 上 甲 
+itm_gekokujo_mogami_long_otomo4|最 上 甲 
+itm_gekokujo_mogami_long_otomo4_pl|最 上 甲 
+itm_gekokujo_mogami_long_otomo5|最 上 甲 
+itm_gekokujo_mogami_long_otomo5_pl|最 上 甲 
+itm_gekokujo_mogami_long_otomo6|最 上 甲 
+itm_gekokujo_mogami_long_otomo6_pl|最 上 甲 
+itm_scale_gusoku|札 畳 具 足 
+itm_scale_gusoku_pl|札 畳 具 足 
+itm_scale_gusoku2|军 师 札 畳 具 足 
+itm_scale_gusoku2_pl|军 师 札 畳 具 足 
+itm_cruise_yoroi|最 上 具 足 
+itm_cruise_yoroi_pl|最 上 具 足 
+itm_cruise_yoroi2|最 上 具 足 
+itm_cruise_yoroi2_pl|最 上 具 足 
+itm_mogaminew4|最 上 具 足 
+itm_mogaminew4_pl|最 上 具 足 
+itm_mogaminew2|最 上 具 足 
+itm_mogaminew2_pl|最 上 具 足 
+itm_mogaminew3|最 上 具 足 
+itm_mogaminew3_pl|最 上 具 足 
+itm_mogaminew1|最 上 具 足 
+itm_mogaminew1_pl|最 上 具 足 
+itm_mogaminew5|最 上 具 足 
+itm_mogaminew5_pl|最 上 具 足 
+itm_mogaminew6|最 上 具 足 
+itm_mogaminew6_pl|最 上 具 足 
+itm_blueblood_early_yoroi_22|最 上 具 足 
+itm_blueblood_early_yoroi_22_pl|最 上 具 足 
+itm_blueblood_early_yoroi_21|最 上 具 足 
+itm_blueblood_early_yoroi_21_pl|最 上 具 足 
+itm_blueblood_early_yoroi_19|最 上 具 足 
+itm_blueblood_early_yoroi_19_pl|最 上 具 足 
+itm_blueblood_early_yoroi_20|最 上 具 足 
+itm_blueblood_early_yoroi_20_pl|最 上 具 足 
+itm_blueblood_early_yoroi_24|最 上 具 足 
+itm_blueblood_early_yoroi_24_pl|最 上 具 足 
+itm_blueblood_early_yoroi_23|最 上 具 足 
+itm_blueblood_early_yoroi_23_pl|最 上 具 足 
+itm_gekokujo_nuinobe_long_1|缝 延 胴 
+itm_gekokujo_nuinobe_long_1_pl|缝 延 胴 
+itm_gekokujo_nuinobe_long_2|缝 延 胴 
+itm_gekokujo_nuinobe_long_2_pl|缝 延 胴 
+itm_gekokujo_nuinobe_long_3|缝 延 胴 
+itm_gekokujo_nuinobe_long_3_pl|缝 延 胴 
+itm_gekokujo_nuinobe_long_4|缝 延 胴 
+itm_gekokujo_nuinobe_long_4_pl|缝 延 胴 
+itm_gekokujo_nuinobe_long_11|缝 延 胴 
+itm_gekokujo_nuinobe_long_11_pl|缝 延 胴 
+itm_gekokujo_nuinobe_long_12|缝 延 胴 
+itm_gekokujo_nuinobe_long_12_pl|缝 延 胴 
+itm_gekokujo_nuinobe_long_13|缝 延 胴 
+itm_gekokujo_nuinobe_long_13_pl|缝 延 胴 
+itm_gekokujo_nuinobe_long_shimazu|岛 津 缝 延 胴 
+itm_gekokujo_nuinobe_long_shimazu_pl|岛 津 缝 延 胴 
+itm_gekokujo_nuinobe_long_imagawa|今 川 缝 延 胴 
+itm_gekokujo_nuinobe_long_imagawa_pl|今 川 缝 延 胴 
+itm_gekokujo_hishinui_long_1|菱 缝 胴 
+itm_gekokujo_hishinui_long_1_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_2|菱 缝 胴 
+itm_gekokujo_hishinui_long_2_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_3|菱 缝 胴 
+itm_gekokujo_hishinui_long_3_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_11|菱 缝 胴 
+itm_gekokujo_hishinui_long_11_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_12|菱 缝 胴 
+itm_gekokujo_hishinui_long_12_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_13|菱 缝 胴 
+itm_gekokujo_hishinui_long_13_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_14|菱 缝 胴 
+itm_gekokujo_hishinui_long_14_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_ashikaga|菱 缝 胴 
+itm_gekokujo_hishinui_long_ashikaga_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_imagawa|菱 缝 胴 
+itm_gekokujo_hishinui_long_imagawa_pl|菱 缝 胴 
+itm_gekokujo_hishinui_long_ito|伊 东 菱 缝 胴 
+itm_gekokujo_hishinui_long_ito_pl|伊 东 菱 缝 胴 
+itm_gekokujo_hishinui_long_ito2|伊 东 菱 缝 胴 
+itm_gekokujo_hishinui_long_ito2_pl|伊 东 菱 缝 胴 
+itm_gekokujo_hishinui_long_saito|斋 藤 菱 缝 胴 
+itm_gekokujo_hishinui_long_saito_pl|斋 藤 菱 缝 胴 
+itm_aruda_hishinui|菱 缝 胴 
+itm_aruda_hishinui_pl|菱 缝 胴 
+itm_gekokujo_yukinoshita_long_1|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_1_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_2|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_2_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_3|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_3_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_4|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_4_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_5|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_5_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_6|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_6_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_7|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_7_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_8|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_8_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_9|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_9_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_10|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_10_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_11|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_11_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_12|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_12_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_13|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_13_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_14|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_14_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_15|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_15_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_16|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_16_pl|雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_date|伊 达 雪 雪 下 胴 
+itm_gekokujo_yukinoshita_long_date_pl|伊 达 雪 雪 下 胴 
+itm_daimyo_okegawa_long_dates3|伊 达 雪 雪 下 胴 
+itm_daimyo_okegawa_long_dates3_pl|伊 达 雪 雪 下 胴 
+itm_gekokujo_kebiki_1|仿 古 具 足 
+itm_gekokujo_kebiki_1_pl|仿 古 具 足 
+itm_gekokujo_kebiki_2|仿 古 具 足 
+itm_gekokujo_kebiki_2_pl|仿 古 具 足 
+itm_gekokujo_kebiki_3|仿 古 具 足 
+itm_gekokujo_kebiki_3_pl|仿 古 具 足 
+itm_gekokujo_kebiki_4|仿 古 具 足 
+itm_gekokujo_kebiki_4_pl|仿 古 具 足 
+itm_gekokujo_kebiki_5|仿 古 具 足 
+itm_gekokujo_kebiki_5_pl|仿 古 具 足 
+itm_gekokujo_kebiki_6|仿 古 具 足 
+itm_gekokujo_kebiki_6_pl|仿 古 具 足 
+itm_gekokujo_kebiki_7|仿 古 具 足 
+itm_gekokujo_kebiki_7_pl|仿 古 具 足 
+itm_gekokujo_kebiki_8|仿 古 具 足 
+itm_gekokujo_kebiki_8_pl|仿 古 具 足 
+itm_gekokujo_kebiki_9|仿 古 具 足 
+itm_gekokujo_kebiki_9_pl|仿 古 具 足 
+itm_gekokujo_kebiki_10|仿 古 具 足 
+itm_gekokujo_kebiki_10_pl|仿 古 具 足 
+itm_gekokujo_kebiki_11|仿 古 具 足 
+itm_gekokujo_kebiki_11_pl|仿 古 具 足 
+itm_gekokujo_kebiki_12|仿 古 具 足 
+itm_gekokujo_kebiki_12_pl|仿 古 具 足 
+itm_gekokujo_kebiki_13|仿 古 具 足 
+itm_gekokujo_kebiki_13_pl|仿 古 具 足 
+itm_gekokujo_kebiki_14|仿 古 具 足 
+itm_gekokujo_kebiki_14_pl|仿 古 具 足 
+itm_gekokujo_kebiki_15|仿 古 具 足 
+itm_gekokujo_kebiki_15_pl|仿 古 具 足 
+itm_gekokujo_kebiki_16|仿 古 具 足 
+itm_gekokujo_kebiki_16_pl|仿 古 具 足 
+itm_gekokujo_kebiki_17|仿 古 具 足 
+itm_gekokujo_kebiki_17_pl|仿 古 具 足 
+itm_gekokujo_kebiki_18|仿 古 具 足 
+itm_gekokujo_kebiki_18_pl|仿 古 具 足 
+itm_gekokujo_kebiki_19|仿 古 具 足 
+itm_gekokujo_kebiki_19_pl|仿 古 具 足 
+itm_gekokujo_kebiki_20|仿 古 具 足 
+itm_gekokujo_kebiki_20_pl|仿 古 具 足 
+itm_gekokujo_kebiki_21|仿 古 具 足 
+itm_gekokujo_kebiki_21_pl|仿 古 具 足 
+itm_gekokujo_kebiki_22|仿 古 具 足 
+itm_gekokujo_kebiki_22_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new|仿 古 具 足 
+itm_gekokujo_kebiki_new_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new2|仿 古 具 足 
+itm_gekokujo_kebiki_new2_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new3|仿 古 具 足 
+itm_gekokujo_kebiki_new3_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new4|仿 古 具 足 
+itm_gekokujo_kebiki_new4_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new5|仿 古 具 足 
+itm_gekokujo_kebiki_new5_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new6|仿 古 具 足 
+itm_gekokujo_kebiki_new6_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new7|仿 古 具 足 
+itm_gekokujo_kebiki_new7_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new8|仿 古 具 足 
+itm_gekokujo_kebiki_new8_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new9|仿 古 具 足 
+itm_gekokujo_kebiki_new9_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new10|仿 古 具 足 
+itm_gekokujo_kebiki_new10_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new11|仿 古 具 足 
+itm_gekokujo_kebiki_new11_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new12|仿 古 具 足 
+itm_gekokujo_kebiki_new12_pl|仿 古 具 足 
+itm_gekokujo_kebiki_new13|仿 古 具 足 
+itm_gekokujo_kebiki_new13_pl|仿 古 具 足 
+itm_arudakebikinew|仿 古 具 足 
+itm_arudakebikinew_pl|仿 古 具 足 
+itm_blueblood_early_yoroi_5|仿 古 具 足 
+itm_blueblood_early_yoroi_5_pl|仿 古 具 足 
+itm_blueblood_early_yoroi_8|仿 古 具 足 
+itm_blueblood_early_yoroi_8_pl|仿 古 具 足 
+itm_blueblood_early_yoroi_red|仿 古 具 足 
+itm_blueblood_early_yoroi_red_pl|仿 古 具 足 
+itm_blueblood_early_yoroi_11|仿 古 具 足 
+itm_blueblood_early_yoroi_11_pl|仿 古 具 足 
+itm_blueblood_early_yoroi_12|仿 古 具 足 
+itm_blueblood_early_yoroi_12_pl|仿 古 具 足 
+itm_blueblood_early_yoroi_15|仿 古 具 足 
+itm_blueblood_early_yoroi_15_pl|仿 古 具 足 
+itm_blueblood_early_yoroi_7|仿 古 具 足 
+itm_blueblood_early_yoroi_7_pl|仿 古 具 足 
+itm_ssh_yoroi|仿 古 具 足 
+itm_ssh_yoroi_pl|仿 古 具 足 
+itm_blueblood_early_yoroi|仿 古 具 足 
+itm_blueblood_early_yoroi_pl|仿 古 具 足 
+itm_sengoku_kanrei|镰 仓 胴 丸 铠 
+itm_sengoku_kanrei_pl|镰 仓 胴 丸 铠 
+itm_sugo_kebiki_1|仿 古 具 足 
+itm_sugo_kebiki_1_pl|仿 古 具 足 
+itm_sugo_kebiki_2|仿 古 具 足 
+itm_sugo_kebiki_2_pl|仿 古 具 足 
+itm_sugo_kebiki_3|仿 古 具 足 
+itm_sugo_kebiki_3_pl|仿 古 具 足 
+itm_sugo_kebiki_4|仿 古 具 足 
+itm_sugo_kebiki_4_pl|仿 古 具 足 
+itm_sugo_kebiki_5|仿 古 具 足 
+itm_sugo_kebiki_5_pl|仿 古 具 足 
+itm_sugo_kebiki_6|仿 古 具 足 
+itm_sugo_kebiki_6_pl|仿 古 具 足 
+itm_sugo_kebiki_7|仿 古 具 足 
+itm_sugo_kebiki_7_pl|仿 古 具 足 
+itm_sugo_kebiki_8|仿 古 具 足 
+itm_sugo_kebiki_8_pl|仿 古 具 足 
+itm_sugo_kebiki_9|仿 古 具 足 
+itm_sugo_kebiki_9_pl|仿 古 具 足 
+itm_sugo_kebiki_10|仿 古 具 足 
+itm_sugo_kebiki_10_pl|仿 古 具 足 
+itm_sugo_kebiki_11|仿 古 具 足 
+itm_sugo_kebiki_11_pl|仿 古 具 足 
+itm_sugo_kebiki_12|仿 古 具 足 
+itm_sugo_kebiki_12_pl|仿 古 具 足 
+itm_sugo_kebiki_13|仿 古 具 足 
+itm_sugo_kebiki_13_pl|仿 古 具 足 
+itm_sugo_kebiki_14|仿 古 具 足 
+itm_sugo_kebiki_14_pl|仿 古 具 足 
+itm_sugo_kebiki_15|仿 古 具 足 
+itm_sugo_kebiki_15_pl|仿 古 具 足 
+itm_sugo_kebiki_16|仿 古 具 足 
+itm_sugo_kebiki_16_pl|仿 古 具 足 
+itm_sugo_kebiki_17|仿 古 具 足 
+itm_sugo_kebiki_17_pl|仿 古 具 足 
+itm_sugo_kebiki_18|仿 古 具 足 
+itm_sugo_kebiki_18_pl|仿 古 具 足 
+itm_sugo_kebiki_19|仿 古 具 足 
+itm_sugo_kebiki_19_pl|仿 古 具 足 
+itm_sugo_kebiki_20|仿 古 具 足 
+itm_sugo_kebiki_20_pl|仿 古 具 足 
+itm_sugo_kebiki_21|仿 古 具 足 
+itm_sugo_kebiki_21_pl|仿 古 具 足 
+itm_ssugo_kebiki_1|仿 古 具 足 
+itm_ssugo_kebiki_1_pl|仿 古 具 足 
+itm_ssugo_kebiki_2|仿 古 具 足 
+itm_ssugo_kebiki_2_pl|仿 古 具 足 
+itm_ssugo_kebiki_3|仿 古 具 足 
+itm_ssugo_kebiki_3_pl|仿 古 具 足 
+itm_ssugo_kebiki_4|仿 古 具 足 
+itm_ssugo_kebiki_4_pl|仿 古 具 足 
+itm_ssugo_kebiki_5|仿 古 具 足 
+itm_ssugo_kebiki_5_pl|仿 古 具 足 
+itm_ssugo_kebiki_12|仿 古 具 足 
+itm_ssugo_kebiki_12_pl|仿 古 具 足 
+itm_ssugo_kebiki_13|仿 古 具 足 
+itm_ssugo_kebiki_13_pl|仿 古 具 足 
+itm_ssugo_kebiki_16|仿 古 具 足 
+itm_ssugo_kebiki_16_pl|仿 古 具 足 
+itm_ssugo_kebiki_19|仿 古 具 足 
+itm_ssugo_kebiki_19_pl|仿 古 具 足 
+itm_ssugo_kebiki_20|仿 古 具 足 
+itm_ssugo_kebiki_20_pl|仿 古 具 足 
+itm_ssugo_kebiki_21|仿 古 具 足 
+itm_ssugo_kebiki_21_pl|仿 古 具 足 
+itm_sugo_kebiki_22|仿 古 具 足 
+itm_sugo_kebiki_22_pl|仿 古 具 足 
+itm_sugo_kebiki_23|仿 古 具 足 
+itm_sugo_kebiki_23_pl|仿 古 具 足 
+itm_sugo_kebiki_24|仿 古 具 足 
+itm_sugo_kebiki_24_pl|仿 古 具 足 
+itm_sugo_kebiki_25|仿 古 具 足 
+itm_sugo_kebiki_25_pl|仿 古 具 足 
+itm_gekokujo_doumaru_1|胴 丸 铠 
+itm_gekokujo_doumaru_1_pl|胴 丸 铠 
+itm_gekokujo_doumaru_2|胴 丸 铠 
+itm_gekokujo_doumaru_2_pl|胴 丸 铠 
+itm_gekokujo_nanban_1|南 蛮 胴 
+itm_gekokujo_nanban_1_pl|南 蛮 胴 
+itm_gekokujo_nanban_2|南 蛮 胴 
+itm_gekokujo_nanban_2_pl|南 蛮 胴 
+itm_gekokujo_nanban_3|南 蛮 胴 
+itm_gekokujo_nanban_3_pl|南 蛮 胴 
+itm_gekokujo_nanban_4|南 蛮 胴 
+itm_gekokujo_nanban_4_pl|南 蛮 胴 
+itm_gekokujo_nanban_5|南 蛮 胴 
+itm_gekokujo_nanban_5_pl|南 蛮 胴 
+itm_gekokujo_nanban_6|南 蛮 胴 
+itm_gekokujo_nanban_6_pl|南 蛮 胴 
+itm_gekokujo_nanban_8|南 蛮 胴 
+itm_gekokujo_nanban_8_pl|南 蛮 胴 
+itm_gekokujo_nanban_9|南 蛮 胴 
+itm_gekokujo_nanban_9_pl|南 蛮 胴 
+itm_gekokujo_nanban_10|南 蛮 胴 
+itm_gekokujo_nanban_10_pl|南 蛮 胴 
+itm_gekokujo_nanban_11|南 蛮 胴 
+itm_gekokujo_nanban_11_pl|南 蛮 胴 
+itm_gekokujo_nanban_12|南 蛮 胴 
+itm_gekokujo_nanban_12_pl|南 蛮 胴 
+itm_gekokujo_nanban_13|南 蛮 胴 
+itm_gekokujo_nanban_13_pl|南 蛮 胴 
+itm_gekokujo_nanban_14|南 蛮 胴 
+itm_gekokujo_nanban_14_pl|南 蛮 胴 
+itm_blackninjaarmor|忍 甲 
+itm_blackninjaarmor_pl|忍 甲 
+itm_otani_yoshitsugu|大 谷 吉 継 甲 
+itm_otani_yoshitsugu_pl|大 谷 吉 継 甲 
+itm_tokugawa_motoyasu|德 川 家 康 甲 
+itm_tokugawa_motoyasu_pl|德 川 家 康 甲 
+itm_akechikozane|明 智 光 秀 甲 
+itm_akechikozane_pl|明 智 光 秀 甲 
+itm_takeda_shingen|武 田 信 玄 甲 
+itm_takeda_shingen_pl|武 田 信 玄 甲 
+itm_sanada_gusoku|真 田 甲 
+itm_sanada_gusoku_pl|真 田 甲 
+itm_honda_tadakatsu_armor|本 多 忠 胜 甲 
+itm_honda_tadakatsu_armor_pl|本 多 忠 胜 甲 
+itm_kobayakawa|小 早 川 甲 
+itm_kobayakawa_pl|小 早 川 甲 
+itm_shingenarmor|武 田 信 玄 甲 
+itm_shingenarmor_pl|武 田 信 玄 甲 
+itm_uesugi_nan|南 蛮 剑 士 甲 
+itm_uesugi_nan_pl|南 蛮 剑 士 甲 
+itm_daimyo_okegawa_long_dates2|政 宗 雪 雪 下 胴 
+itm_daimyo_okegawa_long_dates2_pl|政 宗 雪 雪 下 胴 
+itm_daimyo_okegawa_long_naoe|直 江 甲 
+itm_daimyo_okegawa_long_naoe_pl|直 江 甲 
+itm_daimyo_okegawa_long_moris2|毛 利 甲 
+itm_daimyo_okegawa_long_moris2_pl|毛 利 甲 
+itm_daimyo_okegawa_long_ashikagas2|足 利 甲 
+itm_daimyo_okegawa_long_ashikagas2_pl|足 利 甲 
+itm_daimyo_okegawa_long_takedas2|武 田 甲 
+itm_daimyo_okegawa_long_takedas2_pl|武 田 甲 
+itm_daimyo_okegawa_long_takedas3|桶 侧 胴 
+itm_daimyo_okegawa_long_takedas3_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_takedas4|桶 侧 胴 
+itm_daimyo_okegawa_long_takedas4_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_takedas5|桶 侧 胴 
+itm_daimyo_okegawa_long_takedas5_pl|桶 侧 胴 
+itm_daimyo_okegawa_long_motos2|桶 侧 胴 
+itm_daimyo_okegawa_long_motos2_pl|桶 侧 胴 
+itm_blueblood_early_yoroi_14|最 上 甲 
+itm_blueblood_early_yoroi_14_pl|最 上 甲 
+itm_gekokujo_okegawa_long_20|加 藤 清 正 甲 
+itm_gekokujo_okegawa_long_20_pl|加 藤 清 正 甲 
+itm_gekokujo_sugegasa_1|菅 笠 
+itm_gekokujo_sugegasa_1_pl|菅 笠 
+itm_gekokujo_monk_headwrap|白 头 巾 
+itm_gekokujo_monk_headwrap_pl|白 头 巾 
+itm_gekokujo_ninja_headwrap|黑 头 巾 
+itm_gekokujo_ninja_headwrap_pl|黑 头 巾 
+itm_monk_sugo_cap|白 头 巾 
+itm_monk_sugo_cap_pl|白 头 巾 
+itm_sam_ronin_gasa|浪 客 笠 
+itm_sam_ronin_gasa_pl|浪 客 笠 
+itm_kasa_zen_full|菅 笠 
+itm_kasa_zen_full_pl|菅 笠 
+itm_sugo_cap_white|白 头 巾 
+itm_sugo_cap_white_pl|白 头 巾 
+itm_sugo_cap_blue|蓝 头 巾 
+itm_sugo_cap_blue_pl|蓝 头 巾 
+itm_ninjahood|忍 者 头 巾 
+itm_ninjahood_pl|忍 者 头 巾 
+itm_gekokujo_jingasa_1|阵 笠 
+itm_gekokujo_jingasa_1_pl|阵 笠 
+itm_gekokujo_jingasa_2|阵 笠 
+itm_gekokujo_jingasa_2_pl|阵 笠 
+itm_gekokujo_jingasa_3|阵 笠 
+itm_gekokujo_jingasa_3_pl|阵 笠 
+itm_gekokujo_jingasa_4|阵 笠 
+itm_gekokujo_jingasa_4_pl|阵 笠 
+itm_gekokujo_jingasa_5|阵 笠 
+itm_gekokujo_jingasa_5_pl|阵 笠 
+itm_gekokujo_jingasa_6|阵 笠 
+itm_gekokujo_jingasa_6_pl|阵 笠 
+itm_gekokujo_jingasa_7|阵 笠 
+itm_gekokujo_jingasa_7_pl|阵 笠 
+itm_gekokujo_jingasa_8|阵 笠 
+itm_gekokujo_jingasa_8_pl|阵 笠 
+itm_gekokujo_jingasa_9|阵 笠 
+itm_gekokujo_jingasa_9_pl|阵 笠 
+itm_gekokujo_jingasa_uesugi|上 杉 阵 笠 
+itm_gekokujo_jingasa_uesugi_pl|上 杉 阵 笠 
+itm_gekokujo_jingasa_date|伊 达 阵 笠 
+itm_gekokujo_jingasa_date_pl|伊 达 阵 笠 
+itm_gekokujo_jingasa_oda|织 田 阵 笠 
+itm_gekokujo_jingasa_oda_pl|织 田 阵 笠 
+itm_gekokujo_jingasa_mori|毛 利 阵 笠 
+itm_gekokujo_jingasa_mori_pl|毛 利 阵 笠 
+itm_gekokujo_jingasa_takeda|武 田 阵 笠 
+itm_gekokujo_jingasa_takeda_pl|武 田 阵 笠 
+itm_gekokujo_jingasa_tokugawa|德 川 阵 笠 
+itm_gekokujo_jingasa_tokugawa_pl|德 川 阵 笠 
+itm_gekokujo_jingasa_miyoshi|三 好 阵 笠 
+itm_gekokujo_jingasa_miyoshi_pl|三 好 阵 笠 
+itm_gekokujo_jingasa_amako|尼 子 阵 笠 
+itm_gekokujo_jingasa_amako_pl|尼 子 阵 笠 
+itm_gekokujo_jingasa_otomo|大 友 阵 笠 
+itm_gekokujo_jingasa_otomo_pl|大 友 阵 笠 
+itm_gekokujo_jingasa_nanbu|南 部 阵 笠 
+itm_gekokujo_jingasa_nanbu_pl|南 部 阵 笠 
+itm_gekokujo_jingasa_asakura|朝 仓 阵 笠 
+itm_gekokujo_jingasa_asakura_pl|朝 仓 阵 笠 
+itm_gekokujo_jingasa_chosokabe|长 宗 我 部 阵 笠 
+itm_gekokujo_jingasa_chosokabe_pl|长 宗 我 部 阵 笠 
+itm_gekokujo_jingasa_hojo|北 条 阵 笠 
+itm_gekokujo_jingasa_hojo_pl|北 条 阵 笠 
+itm_gekokujo_jingasa_mogami|最 上 阵 笠 
+itm_gekokujo_jingasa_mogami_pl|最 上 阵 笠 
+itm_gekokujo_jingasa_shimazu|岛 津 阵 笠 
+itm_gekokujo_jingasa_shimazu_pl|岛 津 阵 笠 
+itm_gekokujo_jingasa_ryuzoji|龙 造 寺 阵 笠 
+itm_gekokujo_jingasa_ryuzoji_pl|龙 造 寺 阵 笠 
+itm_gekokujo_jingasa_satake|佐 竹 阵 笠 
+itm_gekokujo_jingasa_satake_pl|佐 竹 阵 笠 
+itm_gekokujo_jingasa_satomi|里 见 阵 笠 
+itm_gekokujo_jingasa_satomi_pl|里 见 阵 笠 
+itm_gekokujo_jingasa_ukita|宇 多 喜 阵 笠 
+itm_gekokujo_jingasa_ukita_pl|宇 多 喜 阵 笠 
+itm_gekokujo_jingasa_ikko|一 向 宗 阵 笠 
+itm_gekokujo_jingasa_ikko_pl|一 向 宗 阵 笠 
+itm_gekokujo_jingasa_imagawa|今 川 阵 笠 
+itm_gekokujo_jingasa_imagawa_pl|今 川 阵 笠 
+itm_gekokujo_jingasa_ito|伊 东 阵 笠 
+itm_gekokujo_jingasa_ito_pl|伊 东 阵 笠 
+itm_gekokujo_jingasa_saito|斋 藤 阵 笠 
+itm_gekokujo_jingasa_saito_pl|斋 藤 阵 笠 
+itm_gekokujo_jingasa_ashikaga|足 利 阵 笠 
+itm_gekokujo_jingasa_ashikaga_pl|足 利 阵 笠 
+itm_sam_eboshi_wom_0|张 乌 帽 子 (女 )
+itm_sam_eboshi_wom_0_pl|张 乌 帽 子 (女 )
+itm_sam_eboshi_wom|侍 乌 帽 子 (女 )
+itm_sam_eboshi_wom_pl|侍 乌 帽 子 (女 )
+itm_sam_eboshi_wom_2|立 引 乌 帽 子 (女 )
+itm_sam_eboshi_wom_2_pl|立 引 乌 帽 子 (女 )
+itm_sam_eboshi|侍 乌 帽 子 
+itm_sam_eboshi_pl|侍 乌 帽 子 
+itm_sam_eboshi1|萎 乌 帽 子 
+itm_sam_eboshi1_pl|萎 乌 帽 子 
+itm_sam_eboshi2|侍 乌 帽 子 
+itm_sam_eboshi2_pl|侍 乌 帽 子 
+itm_sam_eboshi3|立 引 乌 帽 子 
+itm_sam_eboshi3_pl|立 引 乌 帽 子 
+itm_hachimaki_sam|武 士 头 带 
+itm_hachimaki_sam_pl|武 士 头 带 
+itm_hachimaki1|钵 卷 
+itm_hachimaki1_pl|钵 卷 
+itm_eboshi_helm1|侍 乌 帽 子 带 黑 半 首 
+itm_eboshi_helm1_pl|侍 乌 帽 子 带 黑 半 首 
+itm_eboshi_helm2|萎 乌 帽 子 带 黑 面 颊 
+itm_eboshi_helm2_pl|萎 乌 帽 子 带 黑 面 颊 
+itm_eboshi_helm3|侍 乌 帽 子 带 黑 半 首 
+itm_eboshi_helm3_pl|侍 乌 帽 子 带 黑 半 首 
+itm_eboshi_helm4|立 引 乌 帽 子 带 红 面 颊 
+itm_eboshi_helm4_pl|立 引 乌 帽 子 带 红 面 颊 
+itm_eboshi_helm1_red|侍 乌 帽 子 带 红 半 首 
+itm_eboshi_helm1_red_pl|侍 乌 帽 子 带 红 半 首 
+itm_hachimaki_helm_brown|钵 卷 带 棕 面 颊 
+itm_hachimaki_helm_brown_pl|钵 卷 带 棕 面 颊 
+itm_eboshi_helm2_red|萎 乌 帽 子 带 红 面 颊 
+itm_eboshi_helm2_red_pl|萎 乌 帽 子 带 红 面 颊 
+itm_eboshi_helm2_brown|萎 乌 帽 子 带 棕 面 颊 
+itm_eboshi_helm2_brown_pl|萎 乌 帽 子 带 棕 面 颊 
+itm_eboshi_helm3_red|侍 乌 帽 子 带 红 半 首 
+itm_eboshi_helm3_red_pl|侍 乌 帽 子 带 红 半 首 
+itm_eboshi_helm3_brown|侍 乌 帽 子 带 棕 半 首 
+itm_eboshi_helm3_brown_pl|侍 乌 帽 子 带 棕 半 首 
+itm_eboshi_helm4_red|立 引 乌 帽 子 带 红 面 颊 
+itm_eboshi_helm4_red_pl|立 引 乌 帽 子 带 红 面 颊 
+itm_eboshi_helm5_brown|立 引 乌 帽 子 带 棕 面 颊 
+itm_eboshi_helm5_brown_pl|立 引 乌 帽 子 带 棕 面 颊 
+itm_hachimaki_helm_red|钵 卷 带 红 面 颊 
+itm_hachimaki_helm_red_pl|钵 卷 带 红 面 颊 
+itm_hachimaki_helm|钵 卷 带 黑 面 颊 
+itm_hachimaki_helm_pl|钵 卷 带 黑 面 颊 
+itm_saburo_jingasa_dragon|红 乱 发 额 铁 
+itm_saburo_jingasa_dragon_pl|红 乱 发 额 铁 
+itm_saburo_jingasa_dragon_bl|黑 乱 发 额 铁 
+itm_saburo_jingasa_dragon_bl_pl|黑 乱 发 额 铁 
+itm_saburo_jingasa_dragon_wh|白 乱 发 额 铁 
+itm_saburo_jingasa_dragon_wh_pl|白 乱 发 额 铁 
+itm_gekokujo_hari_o_1|御 贷 头 形 兜 
+itm_gekokujo_hari_o_1_pl|御 贷 头 形 兜 
+itm_gekokujo_hari_o_2|御 贷 头 形 兜 
+itm_gekokujo_hari_o_2_pl|御 贷 头 形 兜 
+itm_gekokujo_hari_o_3|御 贷 头 形 兜 
+itm_gekokujo_hari_o_3_pl|御 贷 头 形 兜 
+itm_gekokujo_hari_o_grey|御 贷 头 形 兜 
+itm_gekokujo_hari_o_grey_pl|御 贷 头 形 兜 
+itm_kabuto_base_greyy|御 贷 头 形 兜 
+itm_kabuto_base_greyy_pl|御 贷 头 形 兜 
+itm_kabuto_base_takeda|浪 客 头 形 兜 
+itm_kabuto_base_takeda_pl|浪 客 头 形 兜 
+itm_kabuto_base_oda|浪 客 头 形 兜 
+itm_kabuto_base_oda_pl|浪 客 头 形 兜 
+itm_shimazu_hari|御 贷 头 形 兜 
+itm_shimazu_hari_pl|御 贷 头 形 兜 
+itm_gekokujo_suji_o_1|御 贷 筋 兜 
+itm_gekokujo_suji_o_1_pl|御 贷 筋 兜 
+itm_gekokujo_suji_o_2|御 贷 筋 兜 
+itm_gekokujo_suji_o_2_pl|御 贷 筋 兜 
+itm_gekokujo_suji_o_3|御 贷 筋 兜 
+itm_gekokujo_suji_o_3_pl|御 贷 筋 兜 
+itm_gekokujo_suji_o_grey|御 贷 筋 兜 
+itm_gekokujo_suji_o_grey_pl|御 贷 筋 兜 
+itm_gekokujo_suji_o_ito|御 贷 筋 兜 
+itm_gekokujo_suji_o_ito_pl|御 贷 筋 兜 
+itm_gekokujo_suji_o_saito|御 贷 筋 兜 
+itm_gekokujo_suji_o_saito_pl|御 贷 筋 兜 
+itm_gekokujo_suji_o_imagawa|御 贷 筋 兜 
+itm_gekokujo_suji_o_imagawa_pl|御 贷 筋 兜 
+itm_gekokujo_shinomi_o_1|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_1_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_2|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_2_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_3|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_3_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_zunari_o_1|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_1_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_2|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_2_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_3|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_3_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_saito|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_saito_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_ito|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_ito_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_imagawa|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_imagawa_pl|御 贷 日 根 野 形 兜 
+itm_shimazu_okashi|御 贷 日 根 野 形 兜 
+itm_shimazu_okashi_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari1_1|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari1_1_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_kabuto3_o_1|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_1_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_2|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_2_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_3|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_3_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_1|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_1_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_2|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_2_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_3|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_3_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_saito|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_saito_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_ito|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_ito_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_imagawa|御 贷 阿 古 陀 兜 
+itm_gekokujo_shinomi_o_imagawa_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_zunari_o_h_1|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_1_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_2|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_2_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_3|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_3_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_saito|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_saito_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_ito|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_ito_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_imagawa|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_h_imagawa_pl|御 贷 日 根 野 形 兜 
+itm_gekokujo_kabuto3_o_h_1|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_h_1_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_h_2|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_h_2_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_h_3|御 贷 阿 古 陀 兜 
+itm_gekokujo_kabuto3_o_h_3_pl|御 贷 阿 古 陀 兜 
+itm_gekokujo_eboshi_h_1|官 帽 型 兜 
+itm_gekokujo_eboshi_h_1_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_3|官 帽 型 兜 
+itm_gekokujo_eboshi_h_3_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_saito|官 帽 型 兜 
+itm_gekokujo_eboshi_h_saito_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2_saito|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2_saito_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_ito|官 帽 型 兜 
+itm_gekokujo_eboshi_h_ito_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2_ito|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2_ito_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_nao|官 帽 型 兜 
+itm_gekokujo_eboshi_nao_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_imagawa|官 帽 型 兜 
+itm_gekokujo_eboshi_h_imagawa_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2_imagawa|官 帽 型 兜 
+itm_gekokujo_eboshi_h_2_imagawa_pl|官 帽 型 兜 
+itm_gekokujo_shinomi_h_1|阿 古 陀 兜 
+itm_gekokujo_shinomi_h_1_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_h_2|阿 古 陀 兜 
+itm_gekokujo_shinomi_h_2_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_h_3|阿 古 陀 兜 
+itm_gekokujo_shinomi_h_3_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_saito|阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_saito_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_ito|阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_ito_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_saito|阿 古 陀 兜 
+itm_gekokujo_shinomi_saito_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_ito|阿 古 陀 兜 
+itm_gekokujo_shinomi_ito_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_imagawa|阿 古 陀 兜 
+itm_gekokujo_shinomi_imagawa_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_imagawa|阿 古 陀 兜 
+itm_gekokujo_shinomi_o_h_imagawa_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_ashikaga|阿 古 陀 兜 
+itm_gekokujo_shinomi_ashikaga_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_blu1|阿 古 陀 兜 
+itm_gekokujo_shinomi_blu1_pl|阿 古 陀 兜 
+itm_gekokujo_zunari_h_1|日 根 野 型 兜 
+itm_gekokujo_zunari_h_1_pl|日 根 野 型 兜 
+itm_gekokujo_zunari_h_2|日 根 野 型 兜 
+itm_gekokujo_zunari_h_2_pl|日 根 野 型 兜 
+itm_gekokujo_zunari_h_3|日 根 野 型 兜 
+itm_gekokujo_zunari_h_3_pl|日 根 野 型 兜 
+itm_spk|日 根 野 型 兜 
+itm_spk_pl|日 根 野 型 兜 
+itm_spk2|日 根 野 型 兜 
+itm_spk2_pl|日 根 野 型 兜 
+itm_spk3|日 根 野 型 兜 
+itm_spk3_pl|日 根 野 型 兜 
+itm_heiyuankuic|日 根 野 型 兜 
+itm_heiyuankuic_pl|日 根 野 型 兜 
+itm_heikui|牛 角 日 根 野 型 兜 
+itm_heikui_pl|牛 角 日 根 野 型 兜 
+itm_gekokujo_eboshi_m_1|官 帽 型 兜 
+itm_gekokujo_eboshi_m_1_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_m_2|官 帽 型 兜 
+itm_gekokujo_eboshi_m_2_pl|官 帽 型 兜 
+itm_gekokujo_eboshi_m_3|官 帽 型 兜 
+itm_gekokujo_eboshi_m_3_pl|官 帽 型 兜 
+itm_eboshinew|官 帽 型 兜 
+itm_eboshinew_pl|官 帽 型 兜 
+itm_eboshinew2|官 帽 型 兜 
+itm_eboshinew2_pl|官 帽 型 兜 
+itm_gekokujo_shinomi_m_1|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_1_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_2|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_2_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_3|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_3_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_ito|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_ito_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_saito|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_saito_pl|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_imagawa|阿 古 陀 兜 
+itm_gekokujo_shinomi_m_imagawa_pl|阿 古 陀 兜 
+itm_gekokujo_zunari_m_1|日 根 野 型 兜 
+itm_gekokujo_zunari_m_1_pl|日 根 野 型 兜 
+itm_gekokujo_zunari_m_2|日 根 野 型 兜 
+itm_gekokujo_zunari_m_2_pl|日 根 野 型 兜 
+itm_gekokujo_zunari_m_3|日 根 野 型 兜 
+itm_gekokujo_zunari_m_3_pl|日 根 野 型 兜 
+itm_spk_m1|日 根 野 型 兜 
+itm_spk_m1_pl|日 根 野 型 兜 
+itm_spk_m2|日 根 野 型 兜 
+itm_spk_m2_pl|日 根 野 型 兜 
+itm_spk_m3|日 根 野 型 兜 
+itm_spk_m3_pl|日 根 野 型 兜 
+itm_zunari_new|日 根 野 型 兜 
+itm_zunari_new_pl|日 根 野 型 兜 
+itm_zunari_newbr|日 根 野 型 兜 
+itm_zunari_newbr_pl|日 根 野 型 兜 
+itm_zunari_newred|日 根 野 型 兜 
+itm_zunari_newred_pl|日 根 野 型 兜 
+itm_zunari_newpr|日 根 野 型 兜 
+itm_zunari_newpr_pl|日 根 野 型 兜 
+itm_zunari_newsai|日 根 野 型 兜 
+itm_zunari_newsai_pl|日 根 野 型 兜 
+itm_blueblood_suji_bachi_kabuto_crest1_m_tokugawa|筋 兜 
+itm_blueblood_suji_bachi_kabuto_crest1_m_tokugawa_pl|筋 兜 
+itm_blueblood_suji_bachi_kabuto_crest1_tokugawa|筋 兜 
+itm_blueblood_suji_bachi_kabuto_crest1_tokugawa_pl|筋 兜 
+itm_blueblood_suji_bachi_kabuto_crest2_tokugawa|筋 兜 
+itm_blueblood_suji_bachi_kabuto_crest2_tokugawa_pl|筋 兜 
+itm_gekokujo_kabuto1_crest1_1|筋 兜 
+itm_gekokujo_kabuto1_crest1_1_pl|筋 兜 
+itm_blueblood_suji_bachi_kabuto_crest1_honganji|筋 兜 
+itm_blueblood_suji_bachi_kabuto_crest1_honganji_pl|筋 兜 
+itm_gekokujo_kabuto_unique_grey|筋 兜 
+itm_gekokujo_kabuto_unique_grey_pl|筋 兜 
+itm_aarudakabuto3|筋 兜 
+itm_aarudakabuto3_pl|筋 兜 
+itm_aaarudakabuto2|筋 兜 
+itm_aaarudakabuto2_pl|筋 兜 
+itm_gekokujo_kabuto1_h_1|筋 兜 
+itm_gekokujo_kabuto1_h_1_pl|筋 兜 
+itm_gekokujo_kabuto1_h_2|筋 兜 
+itm_gekokujo_kabuto1_h_2_pl|筋 兜 
+itm_gekokujo_kabuto1_h_3|筋 兜 
+itm_gekokujo_kabuto1_h_3_pl|筋 兜 
+itm_gekokujo_kabuto1_m_1|筋 兜 
+itm_gekokujo_kabuto1_m_1_pl|筋 兜 
+itm_gekokujo_kabuto1_m_2|筋 兜 
+itm_gekokujo_kabuto1_m_2_pl|筋 兜 
+itm_gekokujo_kabuto1_m_3|筋 兜 
+itm_gekokujo_kabuto1_m_3_pl|筋 兜 
+itm_gekokujo_kabuto2_h_1|筋 兜 
+itm_gekokujo_kabuto2_h_1_pl|筋 兜 
+itm_gekokujo_kabuto2_h_2|筋 兜 
+itm_gekokujo_kabuto2_h_2_pl|筋 兜 
+itm_gekokujo_kabuto2_h_3|筋 兜 
+itm_gekokujo_kabuto2_h_3_pl|筋 兜 
+itm_gekokujo_kabuto_unique_ashi|筋 兜 
+itm_gekokujo_kabuto_unique_ashi_pl|筋 兜 
+itm_gekokujo_kabuto2_m_1|筋 兜 
+itm_gekokujo_kabuto2_m_1_pl|筋 兜 
+itm_gekokujo_kabuto2_m_2|筋 兜 
+itm_gekokujo_kabuto2_m_2_pl|筋 兜 
+itm_gekokujo_kabuto2_m_3|筋 兜 
+itm_gekokujo_kabuto2_m_3_pl|筋 兜 
+itm_gekokujo_kabuto3_h_1|阿 古 陀 兜 
+itm_gekokujo_kabuto3_h_1_pl|阿 古 陀 兜 
+itm_gekokujo_kabuto3_h_2|阿 古 陀 兜 
+itm_gekokujo_kabuto3_h_2_pl|阿 古 陀 兜 
+itm_gekokujo_kabuto3_h_3|阿 古 陀 兜 
+itm_gekokujo_kabuto3_h_3_pl|阿 古 陀 兜 
+itm_gekokujo_kabuto3_m_1|阿 古 陀 兜 
+itm_gekokujo_kabuto3_m_1_pl|阿 古 陀 兜 
+itm_gekokujo_kabuto3_m_2|阿 古 陀 兜 
+itm_gekokujo_kabuto3_m_2_pl|阿 古 陀 兜 
+itm_gekokujo_kabuto3_m_3|阿 古 陀 兜 
+itm_gekokujo_kabuto3_m_3_pl|阿 古 陀 兜 
+itm_gekokujo_new_shiia|阿 古 陀 兜 
+itm_gekokujo_new_shiia_pl|阿 古 陀 兜 
+itm_gekokujo_new_shiib|阿 古 陀 兜 
+itm_gekokujo_new_shiib_pl|阿 古 陀 兜 
+itm_gekokujo_new_shiic|阿 古 陀 兜 
+itm_gekokujo_new_shiic_pl|阿 古 陀 兜 
+itm_gekokujo_new_shia|阿 古 陀 兜 
+itm_gekokujo_new_shia_pl|阿 古 陀 兜 
+itm_gekokujo_new_shia_2|阿 古 陀 兜 
+itm_gekokujo_new_shia_2_pl|阿 古 陀 兜 
+itm_gekokujo_new_shia_3|阿 古 陀 兜 
+itm_gekokujo_new_shia_3_pl|阿 古 陀 兜 
+itm_gekokujo_new_shib|阿 古 陀 兜 
+itm_gekokujo_new_shib_pl|阿 古 陀 兜 
+itm_gekokujo_new_shib_2|阿 古 陀 兜 
+itm_gekokujo_new_shib_2_pl|阿 古 陀 兜 
+itm_gekokujo_new_shib_3|阿 古 陀 兜 
+itm_gekokujo_new_shib_3_pl|阿 古 陀 兜 
+itm_gekokujo_new_shic|阿 古 陀 兜 
+itm_gekokujo_new_shic_pl|阿 古 陀 兜 
+itm_gekokujo_new_shic_2|阿 古 陀 兜 
+itm_gekokujo_new_shic_2_pl|阿 古 陀 兜 
+itm_gekokujo_new_shic_3|阿 古 陀 兜 
+itm_gekokujo_new_shic_3_pl|阿 古 陀 兜 
+itm_ssh_kabuto_8|阿 古 陀 兜 
+itm_ssh_kabuto_8_pl|阿 古 陀 兜 
+itm_ssh_kabuto15|阿 古 陀 兜 
+itm_ssh_kabuto15_pl|阿 古 陀 兜 
+itm_ssh_kabuto14|阿 古 陀 兜 
+itm_ssh_kabuto14_pl|阿 古 陀 兜 
+itm_ssh_kabuto9|头 巾 形 兜 
+itm_ssh_kabuto9_pl|头 巾 形 兜 
+itm_ssh_kabuto11|头 巾 形 兜 
+itm_ssh_kabuto11_pl|头 巾 形 兜 
+itm_ssh_kabuto_5|阿 古 陀 兜 
+itm_ssh_kabuto_5_pl|阿 古 陀 兜 
+itm_ssh_kabuto_25|阿 古 陀 兜 
+itm_ssh_kabuto_25_pl|阿 古 陀 兜 
+itm_ssh_kabuto18|一 之 谷 形 兜 
+itm_ssh_kabuto18_pl|一 之 谷 形 兜 
+itm_ssh_kabuto19|一 之 谷 形 兜 
+itm_ssh_kabuto19_pl|一 之 谷 形 兜 
+itm_ssh_kabuto20|一 之 谷 形 兜 
+itm_ssh_kabuto20_pl|一 之 谷 形 兜 
+itm_ssh_kabuto17|一 之 谷 形 兜 
+itm_ssh_kabuto17_pl|一 之 谷 形 兜 
+itm_gekokujo_kabuto_nanban_h_1|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_1_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_2|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_2_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_3|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_3_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_4|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_4_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_5|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_5_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_6|桃 形 兜 
+itm_gekokujo_kabuto_nanban_h_6_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_1|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_1_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_2|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_2_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_3|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_3_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_4|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_4_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_5|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_5_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_6|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_6_pl|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_11|桃 形 兜 
+itm_gekokujo_kabuto_nanban_m_11_pl|桃 形 兜 
+itm_gekokujo_kabuto_unique_saito|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_saito_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_saito2|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_saito2_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_saito4|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_saito4_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_saito5|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_saito5_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_imagawa|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_imagawa_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_imagawa2|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_imagawa2_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_imagawa4|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_imagawa4_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_imagawa5|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_imagawa5_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_1|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_1_pl|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_ito|将 军 的 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_ito_pl|将 军 的 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_ito_2|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_ito_2_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_ito_3|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_ito_3_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_ito_4|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_ito_4_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_ito_5|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_ito_5_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_2|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_2_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_3|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_3_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_4|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_4_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_5|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_5_pl|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_6|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_6_pl|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_7|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_7_pl|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_8|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_8_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_9|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_9_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_10|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_10_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_11|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_11_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_12|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_12_pl|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_13|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_13_pl|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_14|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_14_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_15|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_15_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_16|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_16_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_17|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_17_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_18|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_18_pl|将 军 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_19|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_19_pl|将 军 官 帽 型 兜 
+itm_gekokujo_kabuto_unique_20|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_20_pl|将 军 筋 兜 
+itm_gekokujo_kabuto_unique_21|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_21_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_22|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_22_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_23|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_23_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_24|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_24_pl|将 军 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_25|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_25_pl|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_26|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_26_pl|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_27|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_27_pl|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_28|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_28_pl|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_29|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_29_pl|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_30|将 军 桃 型 兜 
+itm_gekokujo_kabuto_unique_30_pl|将 军 桃 型 兜 
+itm_ssh_kabut_koz|将 军 的 阿 古 坨 兜 
+itm_ssh_kabut_koz_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_shinomi_brr|将 军 的 阿 古 坨 兜 
+itm_gekokujo_shinomi_brr_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_shinomi_brr2|将 军 的 阿 古 坨 兜 
+itm_gekokujo_shinomi_brr2_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_shinomi_brr3|一 之 谷 形 兜 
+itm_gekokujo_shinomi_brr3_pl|一 之 谷 形 兜 
+itm_gekokujo_new_kabuto_unique_1|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_1_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_2|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_2_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_3|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_3_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_4|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_4_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_5|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_5_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_6|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_6_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_7|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_7_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_8|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_8_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_9|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_9_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_10|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_10_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_11|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_11_pl|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_12|将 军 的 头 盔 
+itm_gekokujo_new_kabuto_unique_12_pl|将 军 的 头 盔 
+itm_arudakozkab2|将 军 的 头 盔 
+itm_arudakozkab2_pl|将 军 的 头 盔 
+itm_arudakozkab|将 军 的 头 盔 
+itm_arudakozkab_pl|将 军 的 头 盔 
+itm_dajiangheikui|将 军 的 阿 古 坨 兜 
+itm_dajiangheikui_pl|将 军 的 阿 古 坨 兜 
+itm_arudazunari3|将 军 的 根 日 野 型 兜 
+itm_arudazunari3_pl|将 军 的 根 日 野 型 兜 
+itm_arudazunari5|将 军 的 根 日 野 型 兜 
+itm_arudazunari5_pl|将 军 的 根 日 野 型 兜 
+itm_baijiakui|将 军 的 官 帽 型 兜 
+itm_baijiakui_pl|将 军 的 官 帽 型 兜 
+itm_ssh_kabuto_6|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto_6_pl|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto_4|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto_4_pl|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto_3|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto_3_pl|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto13|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto13_pl|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto12|将 军 的 阿 古 坨 兜 
+itm_ssh_kabuto12_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_eboshi_m_11|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_11_pl|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_12|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_12_pl|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_13|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_13_pl|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_14|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_14_pl|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_15|将 军 的 官 帽 型 兜 
+itm_gekokujo_eboshi_m_15_pl|将 军 的 官 帽 型 兜 
+itm_horned_helm|将 军 的 阿 古 坨 兜 
+itm_horned_helm_pl|将 军 的 阿 古 坨 兜 
+itm_bear_helm|熊 形 兜 
+itm_bear_helm_pl|熊 形 兜 
+itm_red_helm|将 军 的 阿 古 坨 兜 
+itm_red_helm_pl|将 军 的 阿 古 坨 兜 
+itm_black_helm|将 军 的 桃 形 兜 
+itm_black_helm_pl|将 军 的 桃 形 兜 
+itm_brown_helm|将 军 的 桃 形 兜 
+itm_brown_helm_pl|将 军 的 桃 形 兜 
+itm_bunroku_zunari_o_h_3_1|将 军 的 日 野 根 型 兜 
+itm_bunroku_zunari_o_h_3_1_pl|将 军 的 日 野 根 型 兜 
+itm_gekokujo_kabuto_unique_33|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_33_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_32|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_32_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_31|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_unique_31_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_ar2|将 军 的 阿 古 坨 兜 
+itm_gekokujo_kabuto_ar2_pl|将 军 的 阿 古 坨 兜 
+itm_horned_helm_3|将 军 的 阿 古 坨 兜 
+itm_horned_helm_3_pl|将 军 的 阿 古 坨 兜 
+itm_ito_kawari|将 军 的 阿 古 坨 兜 
+itm_ito_kawari_pl|将 军 的 阿 古 坨 兜 
+itm_saito_kawari|将 军 的 阿 古 坨 兜 
+itm_saito_kawari_pl|将 军 的 阿 古 坨 兜 
+itm_gekokujo_eboshi_h_long1|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long1_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long2|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long2_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long3|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long3_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_imagawa_long|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_imagawa_long_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_saito_long|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_saito_long_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_ito_long|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_ito_long_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_purple|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_purple_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_yel|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_yel_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_yel2|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_yel2_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_saito|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_saito_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_saito2|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_saito2_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_gr|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_gr_pl|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_gr2|长 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_gr2_pl|长 乌 帽 子 兜 
+itm_samuraihelm11|星 兜 
+itm_samuraihelm11_pl|星 兜 
+itm_samurhelmb|星 兜 
+itm_samurhelmb_pl|星 兜 
+itm_samurhelmb1|星 兜 
+itm_samurhelmb1_pl|星 兜 
+itm_samurhelmb2|星 兜 
+itm_samurhelmb2_pl|星 兜 
+itm_samurhelmb3|星 兜 
+itm_samurhelmb3_pl|星 兜 
+itm_samurhelmb4|星 兜 
+itm_samurhelmb4_pl|星 兜 
+itm_tada|多 田 满 赖 盔 
+itm_tada_pl|多 田 满 赖 盔 
+itm_akechikab|明 智 盔 
+itm_akechikab_pl|明 智 盔 
+itm_samurtakeda|武 田 信 玄 盔 
+itm_samurtakeda_pl|武 田 信 玄 盔 
+itm_samuraruda1|星 兜 
+itm_samuraruda1_pl|星 兜 
+itm_samurred|星 兜 
+itm_samurred_pl|星 兜 
+itm_samurhelma|星 兜 
+itm_samurhelma_pl|星 兜 
+itm_samuraihelm|星 兜 
+itm_samuraihelm_pl|星 兜 
+itm_samuraikabutoblack|星 兜 
+itm_samuraikabutoblack_pl|星 兜 
+itm_samuraikabuto|星 兜 
+itm_samuraikabuto_pl|星 兜 
+itm_samuraikabut|星 兜 
+itm_samuraikabut_pl|星 兜 
+itm_samurblack|星 兜 
+itm_samurblack_pl|星 兜 
+itm_samurkab|星 兜 
+itm_samurkab_pl|星 兜 
+itm_samuraruda|星 兜 
+itm_samuraruda_pl|星 兜 
+itm_hashiba|秀 吉 盔 
+itm_hashiba_pl|秀 吉 盔 
+itm_toyotomi1|秀 吉 盔 
+itm_toyotomi1_pl|秀 吉 盔 
+itm_arudasun|秀 吉 盔 
+itm_arudasun_pl|秀 吉 盔 
+itm_honda_tadakatsu_kabuto|本 多 忠 胜 盔 
+itm_honda_tadakatsu_kabuto_pl|本 多 忠 胜 盔 
+itm_ishidazunari2|石 田 盔 
+itm_ishidazunari2_pl|石 田 盔 
+itm_gekokujo_kabuto_masamune|政 宗 盔 
+itm_gekokujo_kabuto_masamune_pl|政 宗 盔 
+itm_aruda_shino|牛 角 阿 古 坨 兜 
+itm_aruda_shino_pl|牛 角 阿 古 坨 兜 
+itm_gekokujo_shinomi_blu|牛 角 阿 古 坨 兜 
+itm_gekokujo_shinomi_blu_pl|牛 角 阿 古 坨 兜 
+itm_gekokujo_shinomi_blu2|兜 盔 
+itm_gekokujo_shinomi_blu2_pl|兜 盔 
+itm_gekokujo_shinomi_blu3|兜 盔 
+itm_gekokujo_shinomi_blu3_pl|兜 盔 
+itm_uesugizunari|谦 信 盔 
+itm_uesugizunari_pl|谦 信 盔 
+itm_uesugizunari2|阿 古 坨 兜 
+itm_uesugizunari2_pl|阿 古 坨 兜 
+itm_uesugizunari3|阿 古 坨 兜 
+itm_uesugizunari3_pl|阿 古 坨 兜 
+itm_uesugizunari4|阿 古 坨 兜 
+itm_uesugizunari4_pl|阿 古 坨 兜 
+itm_sanada_kabuto|阿 古 坨 兜 
+itm_sanada_kabuto_pl|阿 古 坨 兜 
+itm_sanada_kabuto2|阿 古 坨 兜 
+itm_sanada_kabuto2_pl|阿 古 坨 兜 
+itm_deer_helm|真 田 盔 
+itm_deer_helm_pl|真 田 盔 
+itm_red_helm5|井 伊 直 政 阿 古 陀 兜 
+itm_red_helm5_pl|井 伊 直 政 阿 古 陀 兜 
+itm_gekokujo_eboshi_h_long_spec|加 藤 清 正 乌 帽 子 兜 
+itm_gekokujo_eboshi_h_long_spec_pl|加 藤 清 正 乌 帽 子 兜 
+itm_arudakabuto1|金 大 名 盔 
+itm_arudakabuto1_pl|金 大 名 盔 
+itm_arudakabuto2|黑 大 名 盔 
+itm_arudakabuto2_pl|黑 大 名 盔 
+itm_arudakabuto3|红 大 名 盔 
+itm_arudakabuto3_pl|红 大 名 盔 
+itm_otani|黑 半 首 
+itm_otani_pl|黑 半 首 
+itm_uesugihelm2|头 巾 
+itm_uesugihelm2_pl|头 巾 
+itm_uesugihelm|头 巾 带 面 颊 
+itm_uesugihelm_pl|头 巾 带 面 颊 
+itm_nninja_headwrap1|忍 者 面 
+itm_nninja_headwrap1_pl|忍 者 面 
+itm_arudazunari|德 川 盔 
+itm_arudazunari_pl|德 川 盔 
+itm_ssh_kabuto27|德 川 盔 
+itm_ssh_kabuto27_pl|德 川 盔 
+itm_nobunaga_kabuto|织 田 盔 
+itm_nobunaga_kabuto_pl|织 田 盔 
+itm_uesuginanbankabuto|剑 客 桃 型 兜 
+itm_uesuginanbankabuto_pl|剑 客 桃 型 兜 
+itm_kobayakawakab|小 早 川 盔 
+itm_kobayakawakab_pl|小 早 川 盔 
+itm_ito_shino|伊 东 阿 古 坨 兜 
+itm_ito_shino_pl|伊 东 阿 古 坨 兜 
+itm_saito_shino|斋 藤 阿 古 坨 兜 
+itm_saito_shino_pl|斋 藤 阿 古 坨 兜 
+itm_gekokujo_tabi|足 袋 
+itm_gekokujo_tabi_pl|足 袋 
+itm_gekokujo_sandal_1|草 屐 
+itm_gekokujo_sandal_1_pl|草 屐 
+itm_gekokujo_sandal_2|草 屐 
+itm_gekokujo_sandal_2_pl|草 屐 
+itm_gekokujo_sandal_3|草 屐 
+itm_gekokujo_sandal_3_pl|草 屐 
+itm_suguroku_geta1|木 屐 
+itm_suguroku_geta1_pl|木 屐 
+itm_suguroku_geta|木 屐 
+itm_suguroku_geta_pl|木 屐 
+itm_invalid_item|轻 筱 臑 当 
+itm_invalid_item_pl|轻 筱 臑 当 
+itm_gekokujo_shino_suneate_1|筱 臑 当 
+itm_gekokujo_shino_suneate_1_pl|筱 臑 当 
+itm_gekokujo_shino_suneate_2|筱 臑 当 
+itm_gekokujo_shino_suneate_2_pl|筱 臑 当 
+itm_gekokujo_shino_suneate_3|筱 臑 当 
+itm_gekokujo_shino_suneate_3_pl|筱 臑 当 
+itm_gekokujo_tsubo_suneate_1|壶 臑 当 
+itm_gekokujo_tsubo_suneate_1_pl|壶 臑 当 
+itm_gekokujo_tsubo_suneate_2|壶 臑 当 
+itm_gekokujo_tsubo_suneate_2_pl|壶 臑 当 
+itm_gekokujo_tsubo_suneate_3|壶 臑 当 
+itm_gekokujo_tsubo_suneate_3_pl|壶 臑 当 
+itm_ssh_suneate|壶 臑 当 
+itm_ssh_suneate_pl|壶 臑 当 
+itm_aruda_boots|壶 臑 当 
+itm_aruda_boots_pl|壶 臑 当 
+itm_blackninjaboots|忍 靴 
+itm_blackninjaboots_pl|忍 靴 
+itm_gekokujo_sashimono_1|足 轻 指 物 
+itm_gekokujo_sashimono_1_pl|足 轻 指 物 
+itm_gekokujo_sashimono_2|武 士 指 物 
+itm_gekokujo_sashimono_2_pl|武 士 指 物 
+itm_gekokujo_sashimono_3|长 指 物 
+itm_gekokujo_sashimono_3_pl|长 指 物 
+itm_gekokujo_sashimono_4|宽 指 物 
+itm_gekokujo_sashimono_4_pl|宽 指 物 
+itm_gekokujo_sashimono_5|方 指 物 
+itm_gekokujo_sashimono_5_pl|方 指 物 
+itm_gekokujo_sashimono_uesugi_1|上 杉 足 轻 指 物 
+itm_gekokujo_sashimono_uesugi_1_pl|上 杉 足 轻 指 物 
+itm_gekokujo_sashimono_date_1|伊 达 足 轻 指 物 
+itm_gekokujo_sashimono_date_1_pl|伊 达 足 轻 指 物 
+itm_gekokujo_sashimono_oda_1|织 田 足 轻 指 物 
+itm_gekokujo_sashimono_oda_1_pl|织 田 足 轻 指 物 
+itm_gekokujo_sashimono_mori_1|毛 利 足 轻 指 物 
+itm_gekokujo_sashimono_mori_1_pl|毛 利 足 轻 指 物 
+itm_gekokujo_sashimono_takeda_1|武 田 足 轻 指 物 
+itm_gekokujo_sashimono_takeda_1_pl|武 田 足 轻 指 物 
+itm_gekokujo_sashimono_tokugawa_1|德 川 足 轻 指 物 
+itm_gekokujo_sashimono_tokugawa_1_pl|德 川 足 轻 指 物 
+itm_gekokujo_sashimono_miyoshi_1|三 好 足 轻 指 物 
+itm_gekokujo_sashimono_miyoshi_1_pl|三 好 足 轻 指 物 
+itm_gekokujo_sashimono_amako_1|尼 子 足 轻 指 物 
+itm_gekokujo_sashimono_amako_1_pl|尼 子 足 轻 指 物 
+itm_gekokujo_sashimono_otomo_1|大 友 足 轻 指 物 
+itm_gekokujo_sashimono_otomo_1_pl|大 友 足 轻 指 物 
+itm_gekokujo_sashimono_nanbu_1|南 部 足 轻 指 物 
+itm_gekokujo_sashimono_nanbu_1_pl|南 部 足 轻 指 物 
+itm_gekokujo_sashimono_asakura_1|朝 仓 足 轻 指 物 
+itm_gekokujo_sashimono_asakura_1_pl|朝 仓 足 轻 指 物 
+itm_gekokujo_sashimono_chosokabe_1|长 宗 我 部 足 轻 指 物 
+itm_gekokujo_sashimono_chosokabe_1_pl|长 宗 我 部 足 轻 指 物 
+itm_gekokujo_sashimono_hojo_1|北 条 足 轻 指 物 
+itm_gekokujo_sashimono_hojo_1_pl|北 条 足 轻 指 物 
+itm_gekokujo_sashimono_mogami_1|最 上 足 轻 指 物 
+itm_gekokujo_sashimono_mogami_1_pl|最 上 足 轻 指 物 
+itm_gekokujo_sashimono_shimazu_1|岛 津 足 轻 指 物 
+itm_gekokujo_sashimono_shimazu_1_pl|岛 津 足 轻 指 物 
+itm_gekokujo_sashimono_ryuzoji_1|龙 造 寺 足 轻 指 物 
+itm_gekokujo_sashimono_ryuzoji_1_pl|龙 造 寺 足 轻 指 物 
+itm_gekokujo_sashimono_satake_1|佐 竹 足 轻 指 物 
+itm_gekokujo_sashimono_satake_1_pl|佐 竹 足 轻 指 物 
+itm_gekokujo_sashimono_satomi_1|里 间 足 轻 指 物 
+itm_gekokujo_sashimono_satomi_1_pl|里 间 足 轻 指 物 
+itm_gekokujo_sashimono_ukita_1|浦 上 足 轻 指 物 
+itm_gekokujo_sashimono_ukita_1_pl|浦 上 足 轻 指 物 
+itm_gekokujo_sashimono_ikko_1|一 向 宗 足 轻 指 物 
+itm_gekokujo_sashimono_ikko_1_pl|一 向 宗 足 轻 指 物 
+itm_gekokujo_sashimono_uesugi_2|上 杉 武 士 指 物 
+itm_gekokujo_sashimono_uesugi_2_pl|上 杉 武 士 指 物 
+itm_gekokujo_sashimono_date_2|伊 达 武 士 指 物 
+itm_gekokujo_sashimono_date_2_pl|伊 达 武 士 指 物 
+itm_gekokujo_sashimono_oda_2|织 田 武 士 指 物 
+itm_gekokujo_sashimono_oda_2_pl|织 田 武 士 指 物 
+itm_gekokujo_sashimono_mori_2|毛 利 武 士 指 物 
+itm_gekokujo_sashimono_mori_2_pl|毛 利 武 士 指 物 
+itm_gekokujo_sashimono_takeda_2|武 田 武 士 指 物 
+itm_gekokujo_sashimono_takeda_2_pl|武 田 武 士 指 物 
+itm_gekokujo_sashimono_tokugawa_2|德 川 武 士 指 物 
+itm_gekokujo_sashimono_tokugawa_2_pl|德 川 武 士 指 物 
+itm_gekokujo_sashimono_miyoshi_2|三 好 武 士 指 物 
+itm_gekokujo_sashimono_miyoshi_2_pl|三 好 武 士 指 物 
+itm_gekokujo_sashimono_amako_2|尼 子 武 士 指 物 
+itm_gekokujo_sashimono_amako_2_pl|尼 子 武 士 指 物 
+itm_gekokujo_sashimono_otomo_2|大 友 武 士 指 物 
+itm_gekokujo_sashimono_otomo_2_pl|大 友 武 士 指 物 
+itm_gekokujo_sashimono_nanbu_2|南 部 武 士 指 物 
+itm_gekokujo_sashimono_nanbu_2_pl|南 部 武 士 指 物 
+itm_gekokujo_sashimono_asakura_2|朝 仓 武 士 指 物 
+itm_gekokujo_sashimono_asakura_2_pl|朝 仓 武 士 指 物 
+itm_gekokujo_sashimono_chosokabe_2|长 宗 我 部 武 士 指 物 
+itm_gekokujo_sashimono_chosokabe_2_pl|长 宗 我 部 武 士 指 物 
+itm_gekokujo_sashimono_hojo_2|北 条 武 士 指 物 
+itm_gekokujo_sashimono_hojo_2_pl|北 条 武 士 指 物 
+itm_gekokujo_sashimono_mogami_2|最 上 武 士 指 物 
+itm_gekokujo_sashimono_mogami_2_pl|最 上 武 士 指 物 
+itm_gekokujo_sashimono_shimazu_2|岛 津 武 士 指 物 
+itm_gekokujo_sashimono_shimazu_2_pl|岛 津 武 士 指 物 
+itm_gekokujo_sashimono_ryuzoji_2|龙 造 寺 武 士 指 物 
+itm_gekokujo_sashimono_ryuzoji_2_pl|龙 造 寺 武 士 指 物 
+itm_gekokujo_sashimono_satake_2|佐 竹 武 士 指 物 
+itm_gekokujo_sashimono_satake_2_pl|佐 竹 武 士 指 物 
+itm_gekokujo_sashimono_satomi_2|里 见 武 士 指 物 
+itm_gekokujo_sashimono_satomi_2_pl|里 见 武 士 指 物 
+itm_gekokujo_sashimono_ukita_2|宇 多 喜 武 士 指 物 
+itm_gekokujo_sashimono_ukita_2_pl|宇 多 喜 武 士 指 物 
+itm_gekokujo_sashimono_ikko_2|一 向 宗 武 士 指 物 
+itm_gekokujo_sashimono_ikko_2_pl|一 向 宗 武 士 指 物 
+itm_sashimono_new_rd1|红 马 回 指 物 
+itm_sashimono_new_rd1_pl|红 马 回 指 物 
+itm_sashimono_new_rd2|红 马 回 指 物 
+itm_sashimono_new_rd2_pl|红 马 回 指 物 
+itm_sashimono_new_rd3|红 马 回 指 物 
+itm_sashimono_new_rd3_pl|红 马 回 指 物 
+itm_sashimono_new_bl1|青 马 回 指 物 
+itm_sashimono_new_bl1_pl|青 马 回 指 物 
+itm_sashimono_new_bl2|青 马 回 指 物 
+itm_sashimono_new_bl2_pl|青 马 回 指 物 
+itm_sashimono_new_bl3|青 马 回 指 物 
+itm_sashimono_new_bl3_pl|青 马 回 指 物 
+itm_sashimono_new_gr1|绿 马 回 指 物 
+itm_sashimono_new_gr1_pl|绿 马 回 指 物 
+itm_sashimono_new_gr2|绿 马 回 指 物 
+itm_sashimono_new_gr2_pl|绿 马 回 指 物 
+itm_sashimono_new_gr3|绿 马 回 指 物 
+itm_sashimono_new_gr3_pl|绿 马 回 指 物 
+itm_necklace|项 链 
+itm_necklace_pl|项 链 
+itm_modern_tachi|太 刀 
+itm_modern_tachi_pl|太 刀 
+itm_ryuzoji_teppo|鸟 铳 
+itm_ryuzoji_teppo_pl|鸟 铳 
+itm_ryuzoji_teppo_melee|鸟 铳 
+itm_ryuzoji_teppo_melee_pl|鸟 铳 
+itm_fake_tachi|装 饰 太 刀 
+itm_fake_tachi_pl|装 饰 太 刀 
+itm_fake_katana|饰 品 打 刀 
+itm_fake_katana_pl|饰 品 打 刀 
+itm_fake_wakizashi|饰 品 胁 差 
+itm_fake_wakizashi_pl|饰 品 胁 差 
+itm_long_jinbaori1|将 军 阵 羽 织 
+itm_long_jinbaori1_pl|将 军 阵 羽 织 
+itm_long_jinbaori2|将 军 阵 羽 织 
+itm_long_jinbaori2_pl|将 军 阵 羽 织 
+itm_kuwa|锄 
+itm_kuwa_pl|锄 
+itm_nagigama|薙 镰 
+itm_nagigama_pl|薙 镰 
+itm_dou_knife|刀 
+itm_dou_knife_pl|刀 
+itm_dou_nata|锤 
+itm_dou_nata_pl|锤 
+itm_gekokujo_sandal_4|草 履 
+itm_gekokujo_sandal_4_pl|草 履 
+itm_heavy_ezo_armor|阿 依 努 扎 甲 
+itm_heavy_ezo_armor_pl|阿 依 努 扎 甲 
+itm_heavy_ezo_armor_2|阿 依 努 扎 甲 
+itm_heavy_ezo_armor_2_pl|阿 依 努 扎 甲 
+itm_henry_repeater|亨 利 连 发 步 枪 
+itm_henry_repeater_pl|亨 利 连 发 步 枪 
+itm_henry_repeater_melee|亨 利 连 发 步 枪 
+itm_henry_repeater_melee_pl|亨 利 连 发 步 枪 
+itm_coachgun|D双 管 燧 发 霰 弹 枪 
+itm_coachgun_pl|D双 管 燧 发 霰 弹 枪 
+itm_coachgun_m|D双 管 燧 发 霰 弹 枪 
+itm_coachgun_m_pl|D双 管 燧 发 霰 弹 枪 
+itm_player_nobori2|旗 
+itm_player_nobori2_pl|旗 
+itm_placeholders|PLACEHOLDER
+itm_placeholders_pl|PLACEHOLDER
+itm_jinbaori_black_white|阵 羽 织 
+itm_jinbaori_black_white_pl|阵 羽 织 
+itm_jinbaori_imperial|阵 羽 织 
+itm_jinbaori_imperial_pl|阵 羽 织 
+itm_jinbaori_shogunate|德 川 阵 羽 织 
+itm_jinbaori_shogunate_pl|德 川 阵 羽 织 
+itm_gekokujo_jinbaori_1|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_1_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_2|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_2_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_3|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_3_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_4|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_4_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_5|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_5_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_6|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_6_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_7|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_7_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_8|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_8_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_9|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_9_pl|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_aruda|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda_pl|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda2|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda2_pl|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda3|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda3_pl|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda4|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda4_pl|将 军 的 阵 羽 织 
+itm_rs_hapants_1_4a|裤 子 
+itm_rs_hapants_1_4a_pl|裤 子 
+itm_gekokujo_jinbaori_aruda6|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_aruda6_pl|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_11|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_11_pl|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_12|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_12_pl|将 军 的 阵 羽 织 
+itm_gekokujo_jinbaori_sanada|真 田 阵 羽 织 
+itm_gekokujo_jinbaori_sanada_pl|真 田 阵 羽 织 
+itm_gekokujo_jinbaori_yamamoto|山 字 阵 羽 织 
+itm_gekokujo_jinbaori_yamamoto_pl|山 字 阵 羽 织 
+itm_gekokujo_jinbaori_murakami|村 上 阵 羽 织 
+itm_gekokujo_jinbaori_murakami_pl|村 上 阵 羽 织 
+itm_gekokujo_jinbaori_honda|本 多 阵 羽 织 
+itm_gekokujo_jinbaori_honda_pl|本 多 阵 羽 织 
+itm_gekokujo_jinbaori_nagao|巴 纹 阵 羽 织 
+itm_gekokujo_jinbaori_nagao_pl|巴 纹 阵 羽 织 
+itm_gekokujo_jinbaori_uesugi|毗 沙 门 天 阵 羽 织 
+itm_gekokujo_jinbaori_uesugi_pl|毗 沙 门 天 阵 羽 织 
+itm_gekokujo_jinbaori_toyotomi|五 七 桐 阵 羽 织 
+itm_gekokujo_jinbaori_toyotomi_pl|五 七 桐 阵 羽 织 
+itm_gekokujo_jinbaori_kuroda|黑 田 阵 羽 织 
+itm_gekokujo_jinbaori_kuroda_pl|黑 田 阵 羽 织 
+itm_gekokujo_jinbaori_tokugawa|德 川 阵 羽 织 
+itm_gekokujo_jinbaori_tokugawa_pl|德 川 阵 羽 织 
+itm_gekokujo_jinbaori_takeda|武 田 阵 羽 织 
+itm_gekokujo_jinbaori_takeda_pl|武 田 阵 羽 织 
+itm_gekokujo_jinbaori_mori|毛 利 阵 羽 织 
+itm_gekokujo_jinbaori_mori_pl|毛 利 阵 羽 织 
+itm_gekokujo_jinbaori_date|伊 达 阵 羽 织 
+itm_gekokujo_jinbaori_date_pl|伊 达 阵 羽 织 
+itm_gekokujo_jinbaori_oda|织 田 阵 羽 织 
+itm_gekokujo_jinbaori_oda_pl|织 田 阵 羽 织 
+itm_gekokujo_jinbaori_asakura|朝 仓 阵 羽 织 
+itm_gekokujo_jinbaori_asakura_pl|朝 仓 阵 羽 织 
+itm_gekokujo_jinbaori_kobayakawa|小 早 川 阵 羽 织 
+itm_gekokujo_jinbaori_kobayakawa_pl|小 早 川 阵 羽 织 
+itm_gekokujo_jinbaori_ashikaga|足 利 阵 羽 织 
+itm_gekokujo_jinbaori_ashikaga_pl|足 利 阵 羽 织 
+itm_gekokujo_jinbaori_amako|尼 子 阵 羽 织 
+itm_gekokujo_jinbaori_amako_pl|尼 子 阵 羽 织 
+itm_gekokujo_jinbaori_miyoshi|三 好 阵 羽 织 
+itm_gekokujo_jinbaori_miyoshi_pl|三 好 阵 羽 织 
+itm_gekokujo_jinbaori_otomo|大 友 阵 羽 织 
+itm_gekokujo_jinbaori_otomo_pl|大 友 阵 羽 织 
+itm_gekokujo_jinbaori_hojo|北 条 阵 羽 织 
+itm_gekokujo_jinbaori_hojo_pl|北 条 阵 羽 织 
+itm_gekokujo_jinbaori_choso|长 宗 我 部 阵 羽 织 
+itm_gekokujo_jinbaori_choso_pl|长 宗 我 部 阵 羽 织 
+itm_gekokujo_jinbaori_mogami|最 上 阵 羽 织 
+itm_gekokujo_jinbaori_mogami_pl|最 上 阵 羽 织 
+itm_gekokujo_jinbaori_oda2|织 田 阵 羽 织 
+itm_gekokujo_jinbaori_oda2_pl|织 田 阵 羽 织 
+itm_gekokujo_jinbaori_shimazu|岛 津 阵 羽 织 
+itm_gekokujo_jinbaori_shimazu_pl|岛 津 阵 羽 织 
+itm_gekokujo_jinbaori_ryuzo|龙 造 寺 阵 羽 织 
+itm_gekokujo_jinbaori_ryuzo_pl|龙 造 寺 阵 羽 织 
+itm_gekokujo_jinbaori_sato|里 见 阵 羽 织 
+itm_gekokujo_jinbaori_sato_pl|里 见 阵 羽 织 
+itm_gekokujo_jinbaori_ura|宇 多 喜 阵 羽 织 
+itm_gekokujo_jinbaori_ura_pl|宇 多 喜 阵 羽 织 
+itm_gekokujo_jinbaori_imagawa|今 川 阵 羽 织 
+itm_gekokujo_jinbaori_imagawa_pl|今 川 阵 羽 织 
+itm_gekokujo_jinbaori_saito|斋 藤 阵 羽 织 
+itm_gekokujo_jinbaori_saito_pl|斋 藤 阵 羽 织 
+itm_gekokujo_jinbaori_ito|伊 东 阵 羽 织 
+itm_gekokujo_jinbaori_ito_pl|伊 东 阵 羽 织 
+itm_gekokujo_jinbaori_take2|将 军 的 筱 臑 当 
+itm_gekokujo_jinbaori_take2_pl|将 军 的 筱 臑 当 
+itm_sugo_gen_clothes|袈 裟 
+itm_sugo_gen_clothes_pl|袈 裟 
+itm_sugo_sohe_clothes|袈 裟 
+itm_sugo_sohe_clothes_pl|袈 裟 
+itm_cloak_sugu|蓑 衣 
+itm_cloak_sugu_pl|蓑 衣 
+itm_gekokujo_tekko_1|小 笼 手 
+itm_gekokujo_tekko_1_pl|小 笼 手 
+itm_gekokujo_tekko_2|皮 手 套 
+itm_gekokujo_tekko_2_pl|皮 手 套 
+itm_gekokujo_tekko_3_1|片 笼 手 
+itm_gekokujo_tekko_3_1_pl|片 笼 手 
+itm_gekokujo_tekko_3_2|片 笼 手 
+itm_gekokujo_tekko_3_2_pl|片 笼 手 
+itm_gekokujo_tekko_3_3|片 笼 手 
+itm_gekokujo_tekko_3_3_pl|片 笼 手 
+itm_gekokujo_tekko_4_1|片 笼 手 
+itm_gekokujo_tekko_4_1_pl|片 笼 手 
+itm_gekokujo_tekko_4_2|锁 笼 手 
+itm_gekokujo_tekko_4_2_pl|锁 笼 手 
+itm_gekokujo_tekko_4_3|锁 笼 手 
+itm_gekokujo_tekko_4_3_pl|锁 笼 手 
+itm_gf_tekko_nao_l|片 笼 手 
+itm_gf_tekko_nao_l_pl|片 笼 手 
+itm_gekokujo_domaru_old|桶 川 甲 
+itm_gekokujo_domaru_old_pl|桶 川 甲 
+itm_gekokujo_kabuto_mempo_old|带 面 颊 的 头 盔 
+itm_gekokujo_kabuto_mempo_old_pl|带 面 颊 的 头 盔 
+itm_gekokujo_suneate_old|护 足 
+itm_gekokujo_suneate_old_pl|护 足 
+itm_gekokujo_mongol_boots|胫 甲 
+itm_gekokujo_mongol_boots_pl|胫 甲 
+itm_gekokujo_mongol_helmet_1|元 寇 盔 
+itm_gekokujo_mongol_helmet_1_pl|元 寇 盔 
+itm_gekokujo_mongol_helmet_2|元 寇 盔 
+itm_gekokujo_mongol_helmet_2_pl|元 寇 盔 
+itm_gekokujo_mongol_helmet_3|元 寇 盔 
+itm_gekokujo_mongol_helmet_3_pl|元 寇 盔 
+itm_hujiama|锁 具 足 马 
+itm_hujiama_pl|锁 具 足 马 
+itm_hongma4|木 曾 马 
+itm_hongma4_pl|木 曾 马 
+itm_hongma3|对 州 马 
+itm_hongma3_pl|对 州 马 
+itm_hongma2|对 州 马 
+itm_hongma2_pl|对 州 马 
+itm_heima4|鹿 儿 岛 马 
+itm_heima4_pl|鹿 儿 岛 马 
+itm_heima3|鹿 儿 岛 马 
+itm_heima3_pl|鹿 儿 岛 马 
+itm_heima2|秋 田 马 
+itm_heima2_pl|秋 田 马 
+itm_huangma4|秋 田 马 
+itm_huangma4_pl|秋 田 马 
+itm_huangma3|三 河 马 
+itm_huangma3_pl|三 河 马 
+itm_huangma2|三 河 马 
+itm_huangma2_pl|三 河 马 
+itm_limaoma4|甲 斐 驹 
+itm_limaoma4_pl|甲 斐 驹 
+itm_limaoma3|甲 斐 驹 
+itm_limaoma3_pl|甲 斐 驹 
+itm_limaoma2|御 马 
+itm_limaoma2_pl|御 马 
+itm_heavysong|大 将 马 
+itm_heavysong_pl|大 将 马 
+itm_raikiri|大 将 马 
+itm_raikiri_pl|大 将 马 
+itm_horo_blue_yellow|黄 蓝 母 衣 
+itm_horo_blue_yellow_pl|黄 蓝 母 衣 
+itm_horo_red_black|黑 红 母 衣 
+itm_horo_red_black_pl|黑 红 母 衣 
+itm_horo_grey_black|黑 灰 母 衣 
+itm_horo_grey_black_pl|黑 灰 母 衣 
+itm_horo_yellow_blue|黑 黄 母 衣 
+itm_horo_yellow_blue_pl|黑 黄 母 衣 
+itm_horo_green_black|黑 绿 母 衣 
+itm_horo_green_black_pl|黑 绿 母 衣 
+itm_horo_yellow_black|黑 黄 母 衣 
+itm_horo_yellow_black_pl|黑 黄 母 衣 
+itm_2horo_blue_yellow|黄 蓝 母 衣 
+itm_2horo_blue_yellow_pl|黄 蓝 母 衣 
+itm_2horo_red_black|黑 红 母 衣 
+itm_2horo_red_black_pl|黑 红 母 衣 
+itm_2horo_yellow_black|黑 黄 母 衣 
+itm_2horo_yellow_black_pl|黑 黄 母 衣 
+itm_2horo_purple|紫 母 衣 
+itm_2horo_purple_pl|紫 母 衣 
+itm_2horo_brown|棕 母 衣 
+itm_2horo_brown_pl|棕 母 衣 
+itm_2horo_red_white|白 红 母 衣 
+itm_2horo_red_white_pl|白 红 母 衣 
+itm_tessen|扇 子 
+itm_tessen_pl|扇 子 
+itm_tessen2|扇 子 
+itm_tessen2_pl|扇 子 
+itm_tessen3|军 扇 
+itm_tessen3_pl|军 扇 
+itm_dual_ninjato|忍 刀 
+itm_dual_ninjato_pl|忍 刀 
+itm_dual_katana|打 刀 
+itm_dual_katana_pl|打 刀 
+itm_dual_wakizashi|胁 差 
+itm_dual_wakizashi_pl|胁 差 
+itm_bigbanner_bun0|三 好 织 
+itm_bigbanner_bun0_pl|三 好 织 
+itm_bigbanner_bun1|武 田 织 
+itm_bigbanner_bun1_pl|武 田 织 
+itm_bigbanner_bun2|上 杉 织 
+itm_bigbanner_bun2_pl|上 杉 织 
+itm_bigbanner_bun3|新 选 组 幡 旗 
+itm_bigbanner_bun3_pl|新 选 组 幡 旗 
+itm_otomo_bigbanner1_bun3|大 友 织 
+itm_otomo_bigbanner1_bun3_pl|大 友 织 
+itm_bigbanner_bun4|佐 竹 织 
+itm_bigbanner_bun4_pl|佐 竹 织 
+itm_bigbanner_bun5|里 见 织 
+itm_bigbanner_bun5_pl|里 见 织 
+itm_bigbanner_bun6|尼 子 织 
+itm_bigbanner_bun6_pl|尼 子 织 
+itm_bigbanner_bun7|织 田 织 
+itm_bigbanner_bun7_pl|织 田 织 
+itm_bigbanner_bun8|伊 达 织 
+itm_bigbanner_bun8_pl|伊 达 织 
+itm_bigbanner_bun9|毛 利 织 
+itm_bigbanner_bun9_pl|毛 利 织 
+itm_bigbanner_bun10|龙 造 寺 织 
+itm_bigbanner_bun10_pl|龙 造 寺 织 
+itm_bigbanner_bun11|朝 仓 织 
+itm_bigbanner_bun11_pl|朝 仓 织 
+itm_bigbanner_bun12|一 向 宗 织 
+itm_bigbanner_bun12_pl|一 向 宗 织 
+itm_bigbanner_bun13|北 条 织 
+itm_bigbanner_bun13_pl|北 条 织 
+itm_bigbanner_bun14|南 部 织 
+itm_bigbanner_bun14_pl|南 部 织 
+itm_bigbanner_bun16|德 川 织 
+itm_bigbanner_bun16_pl|德 川 织 
+itm_bigbanner_bun17|长 宗 我 部 织 
+itm_bigbanner_bun17_pl|长 宗 我 部 织 
+itm_bigbanner_bun18|浦 上 织 
+itm_bigbanner_bun18_pl|浦 上 织 
+itm_bigbanner_bun19|最 上 织 
+itm_bigbanner_bun19_pl|最 上 织 
+itm_bigbanner_bun20|岛 津 织 
+itm_bigbanner_bun20_pl|岛 津 织 
+itm_bigbanner1_bun12|御 旗 
+itm_bigbanner1_bun12_pl|御 旗 
+itm_bigbanner1_bun10|今 川 织 
+itm_bigbanner1_bun10_pl|今 川 织 
+itm_bigbanner1_bun9|斋 藤 织 
+itm_bigbanner1_bun9_pl|斋 藤 织 
+itm_bigbanner1_bun5|伊 东 织 
+itm_bigbanner1_bun5_pl|伊 东 织 
+itm_ashikaga_bigbanner2_bun9|足 利 织 
+itm_ashikaga_bigbanner2_bun9_pl|足 利 织 
+itm_ashikaga_bigbanner2_bun3|足 利 织 
+itm_ashikaga_bigbanner2_bun3_pl|足 利 织 
+itm_bigbanner1_bun4|赤 松 织 
+itm_bigbanner1_bun4_pl|赤 松 织 
+itm_gekokujo_jinbaori_aruda5|将 军 阵 羽 织 
+itm_gekokujo_jinbaori_aruda5_pl|将 军 阵 羽 织 
+itm_items_end|Items End
+itm_items_end_pl|Items End{
+itm_tane1|种 子 岛 铁 炮 
+itm_tane1_pl|种 子 岛 铁 炮 
+itm_tane2|种 子 岛 铁 炮 
+itm_tane2_pl|种 子 岛 铁 炮 
+itm_tane3|种 子 岛 铁 炮 
+itm_tane3_pl|种 子 岛 铁 炮 
+itm_enfield|恩 菲 尔 德 步 枪 
+itm_enfield_pl|恩 菲 尔 德 步 枪 
+itm_enfield_melee|恩 菲 尔 德 步 枪 
+itm_enfield_melee_pl|恩 菲 尔 德 步 枪 
+itm_enfield_m|恩 菲 尔 德 步 枪 
+itm_enfield_m_pl|恩 菲 尔 德 步 枪 
+itm_enfield_m_melee|恩 菲 尔 德 步 枪 
+itm_enfield_m_melee_pl|恩 菲 尔 德 步 枪 
+itm_enfield2band|恩 菲 尔 德 步 枪 
+itm_enfield2band_pl|恩 菲 尔 德 步 枪 
+itm_enfield2band_melee|恩 菲 尔 德 步 枪 
+itm_enfield2band_melee_pl|恩 菲 尔 德 步 枪 
+itm_enfield2band_s|恩 菲 尔 德 步 枪 
+itm_enfield2band_s_pl|恩 菲 尔 德 步 枪 
+itm_enfield2band_s_melee|恩 菲 尔 德 步 枪 
+itm_enfield2band_s_melee_pl|恩 菲 尔 德 步 枪 
+itm_enfield2short|恩 菲 尔 德 卡 宾 枪 
+itm_enfield2short_pl|恩 菲 尔 德 卡 宾 枪 
+itm_enfield2short_melee|恩 菲 尔 德 卡 宾 枪 
+itm_enfield2short_melee_pl|恩 菲 尔 德 卡 宾 枪 
+itm_enfield2short_s|恩 菲 尔 德 卡 宾 枪 
+itm_enfield2short_s_pl|恩 菲 尔 德 卡 宾 枪 
+itm_enfield2short_s_melee|恩 菲 尔 德 卡 宾 枪 
+itm_enfield2short_s_melee_pl|恩 菲 尔 德 卡 宾 枪 
+itm_spring61|斯 普 林 菲 尔 德 步 枪 
+itm_spring61_pl|斯 普 林 菲 尔 德 步 枪 
+itm_spring61_melee|斯 普 林 菲 尔 德 步 枪 
+itm_spring61_melee_pl|斯 普 林 菲 尔 德 步 枪 
+itm_spring61_m|斯 普 林 菲 尔 德 步 枪 
+itm_spring61_m_pl|斯 普 林 菲 尔 德 步 枪 
+itm_spring61_m_melee|斯 普 林 菲 尔 德 步 枪 
+itm_spring61_m_melee_pl|斯 普 林 菲 尔 德 步 枪 
+itm_spring22|斯 普 林 菲 尔 德 步 枪 
+itm_spring22_pl|斯 普 林 菲 尔 德 步 枪 
+itm_spring22_melee|斯 普 林 菲 尔 德 步 枪 
+itm_spring22_melee_pl|斯 普 林 菲 尔 德 步 枪 
+itm_spring22_m|斯 普 林 菲 尔 德 步 枪 
+itm_spring22_m_pl|斯 普 林 菲 尔 德 步 枪 
+itm_spring22_m_melee|斯 普 林 菲 尔 德 步 枪 
+itm_spring22_m_melee_pl|斯 普 林 菲 尔 德 步 枪 
+itm_gewehr|德 式 步 枪 (燧 发 )
+itm_gewehr_pl|德 式 步 枪 (燧 发 )
+itm_gewehr_melee|德 式 步 枪 (燧 发 )
+itm_gewehr_melee_pl|德 式 步 枪 (燧 发 )
+itm_gewehr_m|德 式 步 枪 (燧 发 )
+itm_gewehr_m_pl|德 式 步 枪 (燧 发 )
+itm_gewehr_m_melee|德 式 步 枪 (燧 发 )
+itm_gewehr_m_melee_pl|德 式 步 枪 (燧 发 )
+itm_gewehrc|德 式 步 枪 (击 发 )
+itm_gewehrc_pl|德 式 步 枪 (击 发 )
+itm_gewehrc_melee|德 式 步 枪 (击 发 )
+itm_gewehrc_melee_pl|德 式 步 枪 (击 发 )
+itm_gewehrc_m|德 式 步 枪 (击 发 )
+itm_gewehrc_m_pl|德 式 步 枪 (击 发 )
+itm_gewehrc_m_melee|德 式 步 枪 (击 发 )
+itm_gewehrc_m_melee_pl|德 式 步 枪 (击 发 )
+itm_charle|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charle_pl|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charle_melee|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charle_melee_pl|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charle_m|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charle_m_pl|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charle_m_melee|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charle_m_melee_pl|沙 勒 维 尔 火 枪 (燧 发 )
+itm_charlec|沙 勒 维 尔 火 枪 (击 发 )
+itm_charlec_pl|沙 勒 维 尔 火 枪 (击 发 )
+itm_charlec_melee|沙 勒 维 尔 火 枪 (击 发 )
+itm_charlec_melee_pl|沙 勒 维 尔 火 枪 (击 发 )
+itm_charlec_m|沙 勒 维 尔 火 枪 (击 发 )
+itm_charlec_m_pl|沙 勒 维 尔 火 枪 (击 发 )
+itm_charlec_m_melee|沙 勒 维 尔 火 枪 (击 发 )
+itm_charlec_m_melee_pl|沙 勒 维 尔 火 枪 (击 发 )
+itm_etienne|艾 蒂 安 火 枪 
+itm_etienne_pl|艾 蒂 安 火 枪 
+itm_etienne_melee|艾 蒂 安 火 枪 
+itm_etienne_melee_pl|艾 蒂 安 火 枪 
+itm_etienne_m|艾 蒂 安 火 枪 
+itm_etienne_m_pl|艾 蒂 安 火 枪 
+itm_etienne_m_melee|艾 蒂 安 火 枪 
+itm_etienne_m_melee_pl|艾 蒂 安 火 枪 
+itm_minie|米 尼 步 枪 
+itm_minie_pl|米 尼 步 枪 
+itm_minie_melee|米 尼 步 枪 
+itm_minie_melee_pl|米 尼 步 枪 
+itm_minie_m|米 尼 步 枪 
+itm_minie_m_pl|米 尼 步 枪 
+itm_minie_m_melee|米 尼 步 枪 
+itm_minie_m_melee_pl|米 尼 步 枪 
+itm_chatt|猎 兵 步 枪 
+itm_chatt_pl|猎 兵 步 枪 
+itm_chatt_melee|猎 兵 步 枪 
+itm_chatt_melee_pl|猎 兵 步 枪 
+itm_chatt_s|猎 兵 步 枪 
+itm_chatt_s_pl|猎 兵 步 枪 
+itm_chatt_s_melee|猎 兵 步 枪 
+itm_chatt_s_melee_pl|猎 兵 步 枪 
+itm_chass|夏 塞 波 步 枪 
+itm_chass_pl|夏 塞 波 步 枪 
+itm_chass_melee|夏 塞 波 步 枪 
+itm_chass_melee_pl|夏 塞 波 步 枪 
+itm_chass_s|夏 塞 波 步 枪 
+itm_chass_s_pl|夏 塞 波 步 枪 
+itm_chass_s_melee|夏 塞 波 步 枪 
+itm_chass_s_melee_pl|夏 塞 波 步 枪 
+itm_dreyse|德 莱 赛 针 发 枪 
+itm_dreyse_pl|德 莱 赛 针 发 枪 
+itm_dreyse_melee|德 莱 赛 针 发 枪 
+itm_dreyse_melee_pl|德 莱 赛 针 发 枪 
+itm_dreyse_m|德 莱 赛 针 发 枪 
+itm_dreyse_m_pl|德 莱 赛 针 发 枪 
+itm_dreyse_m_melee|德 莱 赛 针 发 枪 
+itm_dreyse_m_melee_pl|德 莱 赛 针 发 枪 
+itm_an9mosquiton|短 管 卡 宾 枪 
+itm_an9mosquiton_pl|短 管 卡 宾 枪 
+itm_an9mosquiton_melee|短 管 卡 宾 枪 
+itm_an9mosquiton_melee_pl|短 管 卡 宾 枪 
+itm_mosquitonc|短 管 卡 宾 枪 
+itm_mosquitonc_pl|短 管 卡 宾 枪 
+itm_starrcarbine|斯 塔 尔 卡 宾 枪 
+itm_starrcarbine_pl|斯 塔 尔 卡 宾 枪 
+itm_spencerrifle|斯 宾 塞 连 发 步 枪 
+itm_spencerrifle_pl|斯 宾 塞 连 发 步 枪 
+itm_spencerrifle_melee|斯 宾 塞 连 发 步 枪 
+itm_spencerrifle_melee_pl|斯 宾 塞 连 发 步 枪 
+itm_spencercarbine|斯 宾 塞 连 发 卡 宾 枪 
+itm_spencercarbine_pl|斯 宾 塞 连 发 卡 宾 枪 
+itm_npc_coltnavy|科 尔 特 海 军 转 轮 手 枪 
+itm_npc_coltnavy_pl|科 尔 特 海 军 转 轮 手 枪 
+itm_npc_savage|萨 维 奇 海 军 转 轮 手 枪 
+itm_npc_savage_pl|萨 维 奇 海 军 转 轮 手 枪 
+itm_npc_starr|斯 塔 尔 双 动 转 轮 手 枪 
+itm_npc_starr_pl|斯 塔 尔 双 动 转 轮 手 枪 
+itm_npc_lef1|勒 福 舍 转 轮 手 枪 
+itm_npc_lef1_pl|勒 福 舍 转 轮 手 枪 
+itm_npc_lef2|勒 福 舍 转 轮 手 枪 
+itm_npc_lef2_pl|勒 福 舍 转 轮 手 枪 
+itm_npc_sw32|史 密 斯 和 韦 森 2 型 转 轮 手 枪 
+itm_npc_sw32_pl|史 密 斯 和 韦 森 2 型 转 轮 手 枪 
+itm_snider|斯 奈 德 步 枪 
+itm_snider_pl|斯 奈 德 步 枪 
+itm_snider_melee|斯 奈 德 步 枪 
+itm_snider_melee_pl|斯 奈 德 步 枪 
+itm_snider_m|斯 奈 德 步 枪 
+itm_snider_m_pl|斯 奈 德 步 枪 
+itm_snider_m_melee|斯 奈 德 步 枪 
+itm_snider_m_melee_pl|斯 奈 德 步 枪 
+itm_snider2band|斯 奈 德 步 枪 
+itm_snider2band_pl|斯 奈 德 步 枪 
+itm_snider2band_melee|斯 奈 德 步 枪 
+itm_snider2band_melee_pl|斯 奈 德 步 枪 
+itm_snider2band_s|斯 奈 德 步 枪 
+itm_snider2band_s_pl|斯 奈 德 步 枪 
+itm_snider2band_s_melee|斯 奈 德 步 枪 
+itm_snider2band_s_melee_pl|斯 奈 德 步 枪 
+itm_snider2short|斯 奈 德 卡 宾 枪 
+itm_snider2short_pl|斯 奈 德 卡 宾 枪 
+itm_snider2short_melee|斯 奈 德 卡 宾 枪 
+itm_snider2short_melee_pl|斯 奈 德 卡 宾 枪 
+itm_snider2short_s|斯 奈 德 卡 宾 枪 
+itm_snider2short_s_pl|斯 奈 德 卡 宾 枪 
+itm_snider2short_s_melee|斯 奈 德 卡 宾 枪 
+itm_snider2short_s_melee_pl|斯 奈 德 卡 宾 枪 
+itm_paperhat_1_1|阵 笠 
+itm_paperhat_1_1_pl|阵 笠 
+itm_paperhat_1_2|阵 笠 
+itm_paperhat_1_2_pl|阵 笠 
+itm_paperhat_1_3|阵 笠 
+itm_paperhat_1_3_pl|阵 笠 
+itm_paperhat_1_4|阵 笠 
+itm_paperhat_1_4_pl|阵 笠 
+itm_paperhat_2_1|阵 笠 
+itm_paperhat_2_1_pl|阵 笠 
+itm_paperhat_2_2|阵 笠 
+itm_paperhat_2_2_pl|阵 笠 
+itm_paperhat_2_3|阵 笠 
+itm_paperhat_2_3_pl|阵 笠 
+itm_paperhat_2_4|阵 笠 
+itm_paperhat_2_4_pl|阵 笠 
+itm_paperhat_3_1|阵 笠 
+itm_paperhat_3_1_pl|阵 笠 
+itm_paperhat_3_2|阵 笠 
+itm_paperhat_3_2_pl|阵 笠 
+itm_paperhat_3_3|阵 笠 
+itm_paperhat_3_3_pl|阵 笠 
+itm_paperhat_3_4|阵 笠 
+itm_paperhat_3_4_pl|阵 笠 
+itm_paperhat_3_0|阵 笠 
+itm_paperhat_3_0_pl|阵 笠 
+itm_paperhat_straw|笠 
+itm_paperhat_straw_pl|笠 
+itm_jing_t_off_1|阵 笠 
+itm_jing_t_off_1_pl|阵 笠 
+itm_jing_r_off_1|阵 笠 
+itm_jing_r_off_1_pl|阵 笠 
+itm_jing_t_off_2|阵 笠 
+itm_jing_t_off_2_pl|阵 笠 
+itm_jing_r_off_2|阵 笠 
+itm_jing_r_off_2_pl|阵 笠 
+itm_jing_t_off_3|阵 笠 
+itm_jing_t_off_3_pl|阵 笠 
+itm_jing_r_off_3|阵 笠 
+itm_jing_r_off_3_pl|阵 笠 
+itm_jing_t_off_4|阵 笠 
+itm_jing_t_off_4_pl|阵 笠 
+itm_jing_r_off_4|阵 笠 
+itm_jing_r_off_4_pl|阵 笠 
+itm_jing_suge|阵 笠 
+itm_jing_suge_pl|阵 笠 
+itm_jing_flat|阵 笠 
+itm_jing_flat_pl|阵 笠 
+itm_jing_arty|阵 笠 
+itm_jing_arty_pl|阵 笠 
+itm_jing_batt_1|阵 笠 
+itm_jing_batt_1_pl|阵 笠 
+itm_jing_batt_2|阵 笠 
+itm_jing_batt_2_pl|阵 笠 
+itm_jing_type|阵 笠 
+itm_jing_type_pl|阵 笠 
+itm_jing_t_naga|阵 笠 
+itm_jing_t_naga_pl|阵 笠 
+itm_jing_r_naga|阵 笠 
+itm_jing_r_naga_pl|阵 笠 
+itm_jing_t_toku2|阵 笠 
+itm_jing_t_toku2_pl|阵 笠 
+itm_jing_r_toku2|阵 笠 
+itm_jing_r_toku2_pl|阵 笠 
+itm_jing_t_imp|阵 笠 
+itm_jing_t_imp_pl|阵 笠 
+itm_jing_r_imp|阵 笠 
+itm_jing_r_imp_pl|阵 笠 
+itm_jing_t_toku|阵 笠 
+itm_jing_t_toku_pl|阵 笠 
+itm_jing_r_toku|阵 笠 
+itm_jing_r_toku_pl|阵 笠 
+itm_jing_t_hachi|阵 笠 
+itm_jing_t_hachi_pl|阵 笠 
+itm_jing_r_hachi|阵 笠 
+itm_jing_r_hachi_pl|阵 笠 
+itm_jing_t_satsu|阵 笠 
+itm_jing_t_satsu_pl|阵 笠 
+itm_jing_r_satsu|阵 笠 
+itm_jing_r_satsu_pl|阵 笠 
+itm_jing_t_mori|阵 笠 
+itm_jing_t_mori_pl|阵 笠 
+itm_jing_r_mori|阵 笠 
+itm_jing_r_mori_pl|阵 笠 
+itm_jing_t|阵 笠 
+itm_jing_t_pl|阵 笠 
+itm_jing_r|阵 笠 
+itm_jing_r_pl|阵 笠 
+itm_jing_cone|阵 笠 
+itm_jing_cone_pl|阵 笠 
+itm_bear_red|赤 熊 队 头 饰 
+itm_bear_red_pl|赤 熊 队 头 饰 
+itm_bear_white|白 熊 队 头 饰 
+itm_bear_white_pl|白 熊 队 头 饰 
+itm_bear_black|黑 熊 队 头 饰 
+itm_bear_black_pl|黑 熊 队 头 饰 
+itm_bandana_heian|头 带 
+itm_bandana_heian_pl|头 带 
+itm_bandana|头 带 
+itm_bandana_pl|头 带 
+itm_bandana2|头 带 
+itm_bandana2_pl|头 带 
+itm_cap_1_1|帽 子 
+itm_cap_1_1_pl|帽 子 
+itm_cap_1_2|帽 子 
+itm_cap_1_2_pl|帽 子 
+itm_cap_1_3|帽 子 
+itm_cap_1_3_pl|帽 子 
+itm_cap_1_4|帽 子 
+itm_cap_1_4_pl|帽 子 
+itm_cap_2_1|帽 子 
+itm_cap_2_1_pl|帽 子 
+itm_cap_2_2|帽 子 
+itm_cap_2_2_pl|帽 子 
+itm_cap_2_3|帽 子 
+itm_cap_2_3_pl|帽 子 
+itm_cap_3_2|帽 子 
+itm_cap_3_2_pl|帽 子 
+itm_cap_3_3|帽 子 
+itm_cap_3_3_pl|帽 子 
+itm_koteheadwrap|锁 兜 
+itm_koteheadwrap_pl|锁 兜 
+itm_koteheadwrap2|锁 兜 
+itm_koteheadwrap2_pl|锁 兜 
+itm_koteheadwrap3|锁 兜 
+itm_koteheadwrap3_pl|锁 兜 
+itm_gekokujo_kotesuit|锁 帷 子 
+itm_gekokujo_kotesuit_pl|锁 帷 子 
+itm_rs_hakama_1_1|军 装 
+itm_rs_hakama_1_1_pl|军 装 
+itm_rs_hakama_1_2|军 装 
+itm_rs_hakama_1_2_pl|军 装 
+itm_rs_hakama_1_3|军 装 
+itm_rs_hakama_1_3_pl|军 装 
+itm_rs_hakama_1_4|军 装 
+itm_rs_hakama_1_4_pl|军 装 
+itm_rs_hakama_1_5|军 装 
+itm_rs_hakama_1_5_pl|军 装 
+itm_rs_hakama_1_5bag|军 装 
+itm_rs_hakama_1_5bag_pl|军 装 
+itm_rs_hakama_1_1stripe|军 装 
+itm_rs_hakama_1_1stripe_pl|军 装 
+itm_rs_hakama_1_3stripe|军 装 
+itm_rs_hakama_1_3stripe_pl|军 装 
+itm_rs_hakama_2_1|军 装 
+itm_rs_hakama_2_1_pl|军 装 
+itm_rs_hakama_2_2|军 装 
+itm_rs_hakama_2_2_pl|军 装 
+itm_rs_hakama_2_3|军 装 
+itm_rs_hakama_2_3_pl|军 装 
+itm_rs_hakama_2_4|军 装 
+itm_rs_hakama_2_4_pl|军 装 
+itm_rs_hakama_2_5|军 装 
+itm_rs_hakama_2_5_pl|军 装 
+itm_rs_hapants_1_1|长 裤 
+itm_rs_hapants_1_1_pl|长 裤 
+itm_rs_hapants_1_2|长 裤 
+itm_rs_hapants_1_2_pl|长 裤 
+itm_rs_hapants_1_3|长 裤 
+itm_rs_hapants_1_3_pl|长 裤 
+itm_rs_hapants_1_4|长 裤 
+itm_rs_hapants_1_4_pl|长 裤 
+itm_rs_hapants_1_5|长 裤 
+itm_rs_hapants_1_5_pl|长 裤 
+itm_rs_pants_1_1|长 裤 
+itm_rs_pants_1_1_pl|长 裤 
+itm_rs_pants_1_2|长 裤 
+itm_rs_pants_1_2_pl|长 裤 
+itm_rs_pants_1_3|长 裤 
+itm_rs_pants_1_3_pl|长 裤 
+itm_rs_pants_1_4|长 裤 
+itm_rs_pants_1_4_pl|长 裤 
+itm_rs_pants_1_6|长 裤 
+itm_rs_pants_1_6_pl|长 裤 
+itm_rs_pants_2_1|长 裤 
+itm_rs_pants_2_1_pl|长 裤 
+itm_rs_pants_2_2|长 裤 
+itm_rs_pants_2_2_pl|长 裤 
+itm_rs_pants_2_3|长 裤 
+itm_rs_pants_2_3_pl|长 裤 
+itm_rs_pants_2_4|长 裤 
+itm_rs_pants_2_4_pl|长 裤 
+itm_rs_pants_2_6|长 裤 
+itm_rs_pants_2_6_pl|长 裤 
+itm_rs_pants_3_1|长 裤 
+itm_rs_pants_3_1_pl|长 裤 
+itm_rs_pants_3_2|长 裤 
+itm_rs_pants_3_2_pl|长 裤 
+itm_rs_pants_3_3|长 裤 
+itm_rs_pants_3_3_pl|长 裤 
+itm_rs_pants_3_4|长 裤 
+itm_rs_pants_3_4_pl|长 裤 
+itm_rs_guard_pants|长 裤 
+itm_rs_guard_pants_pl|长 裤 
+itm_rs_lancer_pants|骑 兵 靴 
+itm_rs_lancer_pants_pl|骑 兵 靴 
+itm_rs_lancer|骑 兵 靴 
+itm_rs_lancer_pl|骑 兵 靴 
+itm_rs_hakshirt|军 装 
+itm_rs_hakshirt_pl|军 装 
+itm_rs_hakshirt1|军 装 
+itm_rs_hakshirt1_pl|军 装 
+itm_rs_hakshirt2|军 装 
+itm_rs_hakshirt2_pl|军 装 
+itm_rs_hakshirt3|军 装 
+itm_rs_hakshirt3_pl|军 装 
+itm_rs_hakshirt6|军 装 
+itm_rs_hakshirt6_pl|军 装 
+itm_rs_inf_sats_1|军 装 
+itm_rs_inf_sats_1_pl|军 装 
+itm_rs_inf_sats_2|军 装 
+itm_rs_inf_sats_2_pl|军 装 
+itm_rs_inf_chos_1|军 装 
+itm_rs_inf_chos_1_pl|军 装 
+itm_rs_inf_chos_2|军 装 
+itm_rs_inf_chos_2_pl|军 装 
+itm_sendai_gaku_1|军 装 
+itm_sendai_gaku_1_pl|军 装 
+itm_sendai_gaku_2|军 装 
+itm_sendai_gaku_2_pl|军 装 
+itm_sendai_guard|军 装 
+itm_sendai_guard_pl|军 装 
+itm_sendai_kepi|法 式 军 帽 
+itm_sendai_kepi_pl|法 式 军 帽 
+itm_gekokujo_su_yari_lance|素 枪 
+itm_gekokujo_su_yari_lance_pl|素 枪 
+itm_jap_infantry_guard|传 习 队 装 束 
+itm_jap_infantry_guard_pl|传 习 队 装 束 
+itm_jap_infantry_guard2|传 习 队 装 束 
+itm_jap_infantry_guard2_pl|传 习 队 装 束 
+itm_rs_bullets_1|步 枪 弹 药 
+itm_rs_bullets_1_pl|步 枪 弹 药 
+itm_rs_bullets_2|步 枪 弹 药 
+itm_rs_bullets_2_pl|步 枪 弹 药 
+itm_rs_spencer_ammo|斯 宾 塞 弹 药 
+itm_rs_spencer_ammo_pl|斯 宾 塞 弹 药 
+itm_rs_spencer_ammo2|斯 宾 塞 弹 药 
+itm_rs_spencer_ammo2_pl|斯 宾 塞 弹 药 
+itm_rs_inf_imp_1|军 装 
+itm_rs_inf_imp_1_pl|军 装 
+itm_rs_inf_imp_2|军 装 
+itm_rs_inf_imp_2_pl|军 装 
+itm_rs_inf_aizu_1|军 装 
+itm_rs_inf_aizu_1_pl|军 装 
+itm_rs_inf_aizu_2|军 装 
+itm_rs_inf_aizu_2_pl|军 装 
+itm_sendai_guard_pants|长 裤 
+itm_sendai_guard_pants_pl|长 裤 
+itm_rs_inf_send_1|军 装 
+itm_rs_inf_send_1_pl|军 装 
+itm_rs_inf_send_2|军 装 
+itm_rs_inf_send_2_pl|军 装 
+itm_rs_hakshirt5|军 装 
+itm_rs_hakshirt5_pl|军 装 
+itm_rs_pants_1_5|长 裤 
+itm_rs_pants_1_5_pl|长 裤 
+itm_rs_pants_2_5|长 裤 
+itm_rs_pants_2_5_pl|长 裤 
+itm_rs_pants_3_5|长 裤 
+itm_rs_pants_3_5_pl|长 裤 
+itm_rs_inf_baku_1|军 装 
+itm_rs_inf_baku_1_pl|军 装 
+itm_rs_inf_baku_2|军 装 
+itm_rs_inf_baku_2_pl|军 装 
+itm_tane3_pistol|短 筒 
+itm_tane3_pistol_pl|短 筒 
+itm_tane2_chuzutsu|种 子 岛 筒 
+itm_tane2_chuzutsu_pl|种 子 岛 筒 
+itm_newhak1|武 士 装 
+itm_newhak1_pl|武 士 装 
+itm_newhak2|武 士 装 
+itm_newhak2_pl|武 士 装 
+itm_newhak3|武 士 装 
+itm_newhak3_pl|武 士 装 
+itm_newhak4|武 士 装 
+itm_newhak4_pl|武 士 装 
+itm_newhao1|武 士 装 
+itm_newhao1_pl|武 士 装 
+itm_newhao2|武 士 装 
+itm_newhao2_pl|武 士 装 
+itm_newhao3|武 士 装 
+itm_newhao3_pl|武 士 装 
+itm_newhao4|武 士 装 
+itm_newhao4_pl|武 士 装 
+itm_rs_hao_1|军 官 服 
+itm_rs_hao_1_pl|军 官 服 
+itm_rs_hao_2|军 官 服 
+itm_rs_hao_2_pl|军 官 服 
+itm_rs_hao_3|军 官 服 
+itm_rs_hao_3_pl|军 官 服 
+itm_haoriarmor1|甲 胄 装 
+itm_haoriarmor1_pl|甲 胄 装 
+itm_haoriarmor2|甲 胄 装 
+itm_haoriarmor2_pl|甲 胄 装 
+itm_haoriarmor3|甲 胄 装 
+itm_haoriarmor3_pl|甲 胄 装 
+itm_haoriarmor4|甲 胄 装 
+itm_haoriarmor4_pl|甲 胄 装 
+itm_haoriarmor5|甲 胄 装 
+itm_haoriarmor5_pl|甲 胄 装 
+itm_haoriarmor6|甲 胄 装 
+itm_haoriarmor6_pl|甲 胄 装 
+itm_haoriarmor7|甲 胄 装 
+itm_haoriarmor7_pl|甲 胄 装 
+itm_haoriarmor8|甲 胄 装 
+itm_haoriarmor8_pl|甲 胄 装 
+itm_haoriarmor9|甲 胄 装 
+itm_haoriarmor9_pl|甲 胄 装 
+itm_haorishinsengumi|新 选 组 服 装 
+itm_haorishinsengumi_pl|新 选 组 服 装 
+itm_rs_hao_0|军 官 服 
+itm_rs_hao_0_pl|军 官 服 
+itm_bandana_shog|头 带 
+itm_bandana_shog_pl|头 带 
+itm_bandana_shin|头 带 
+itm_bandana_shin_pl|头 带 
+itm_rs_frock1|军 装 
+itm_rs_frock1_pl|军 装 
+itm_rs_frock2|军 装 
+itm_rs_frock2_pl|军 装 
+itm_rs_frock3|军 装 
+itm_rs_frock3_pl|军 装 
+itm_rs_frock4|军 装 
+itm_rs_frock4_pl|军 装 
+itm_rs_dragoon|军 装 
+itm_rs_dragoon_pl|军 装 
+itm_rs_dragoon2|军 装 
+itm_rs_dragoon2_pl|军 装 
+itm_jap_infantry_officer_pants|骑 兵 靴 
+itm_jap_infantry_officer_pants_pl|骑 兵 靴 
+itm_rs_cavalry_officer_pants|骑 兵 靴 
+itm_rs_cavalry_officer_pants_pl|骑 兵 靴 
+itm_rs_officer1|军 装 
+itm_rs_officer1_pl|军 装 
+itm_rs_katana_1|打 刀 
+itm_rs_katana_1_pl|打 刀 
+itm_rs_katana_2|打 刀 
+itm_rs_katana_2_pl|打 刀 
+itm_rs_katana_3|打 刀 
+itm_rs_katana_3_pl|打 刀 
+itm_rs_katana_5|打 刀 
+itm_rs_katana_5_pl|打 刀 
+itm_rs_katana_6|打 刀 
+itm_rs_katana_6_pl|打 刀 
+itm_rs_katana_7|打 刀 
+itm_rs_katana_7_pl|打 刀 
+itm_rs_katana_8|打 刀 
+itm_rs_katana_8_pl|打 刀 
+itm_rs_katana_9|打 刀 
+itm_rs_katana_9_pl|打 刀 
+itm_british_light_cav_sabre|轻 骑 兵 军 刀 
+itm_british_light_cav_sabre_pl|轻 骑 兵 军 刀 
+itm_french_light_cav_sabre|轻 骑 兵 军 刀 
+itm_french_light_cav_sabre_pl|轻 骑 兵 军 刀 
+itm_french_light_cav_sabre2|轻 骑 兵 军 刀 
+itm_french_light_cav_sabre2_pl|轻 骑 兵 军 刀 
+itm_french_line_cav_sabre|轻 骑 兵 军 刀 
+itm_french_line_cav_sabre_pl|轻 骑 兵 军 刀 
+itm_gekokujo_jinbaori_10|将 军 臑 当 
+itm_gekokujo_jinbaori_10_pl|将 军 臑 当 
+itm_rs_jin1|阵 羽 织 
+itm_rs_jin1_pl|阵 羽 织 
+itm_rs_jin2|阵 羽 织 
+itm_rs_jin2_pl|阵 羽 织 
+itm_newhak5|武 士 装 
+itm_newhak5_pl|武 士 装 
+itm_newhak6|武 士 装 
+itm_newhak6_pl|武 士 装 
+itm_newhak7|武 士 装 
+itm_newhak7_pl|武 士 装 
+itm_paperhat_4_1|阵 笠 
+itm_paperhat_4_1_pl|阵 笠 
+itm_paperhat_4_2|阵 笠 
+itm_paperhat_4_2_pl|阵 笠 
+itm_paperhat_4_3|阵 笠 
+itm_paperhat_4_3_pl|阵 笠 
+itm_paperhat_4_4|阵 笠 
+itm_paperhat_4_4_pl|阵 笠 
+itm_rs_wakizashi_1|肋 差 
+itm_rs_wakizashi_1_pl|肋 差 
+itm_rs_wakizashi_2|肋 差 
+itm_rs_wakizashi_2_pl|肋 差 
+itm_rs_wakizashi_3|肋 差 
+itm_rs_wakizashi_3_pl|肋 差 
+itm_rs_wakizashi_5|肋 差 
+itm_rs_wakizashi_5_pl|肋 差 
+itm_rs_wakizashi_6|肋 差 
+itm_rs_wakizashi_6_pl|肋 差 
+itm_rs_wakizashi_7|肋 差 
+itm_rs_wakizashi_7_pl|肋 差 
+itm_rs_wakizashi_8|肋 差 
+itm_rs_wakizashi_8_pl|肋 差 
+itm_rs_wakizashi_9|肋 差 
+itm_rs_wakizashi_9_pl|肋 差 
+itm_newhao5|武 士 装 
+itm_newhao5_pl|武 士 装 
+itm_newhao6|武 士 装 
+itm_newhao6_pl|武 士 装 
+itm_newhao7|武 士 装 
+itm_newhao7_pl|武 士 装 
+itm_newhao8|武 士 装 
+itm_newhao8_pl|武 士 装 
+itm_newhao9|武 士 装 
+itm_newhao9_pl|武 士 装 
+itm_newhao10|武 士 装 
+itm_newhao10_pl|武 士 装 
+itm_jing_ogaki|阵 笠 
+itm_jing_ogaki_pl|阵 笠 
+itm_yamacoat|鸟 取 服 饰 
+itm_yamacoat_pl|鸟 取 服 饰 
+itm_yamacoat2|鸟 取 服 饰 
+itm_yamacoat2_pl|鸟 取 服 饰 
+itm_jing_t_hair|阵 笠 
+itm_jing_t_hair_pl|阵 笠 
+itm_sharps|夏 普 斯 步 枪 
+itm_sharps_pl|夏 普 斯 步 枪 
+itm_sharps_melee|夏 普 斯 步 枪 
+itm_sharps_melee_pl|夏 普 斯 步 枪 
+itm_sharpscarbine|夏 普 斯 卡 宾 枪 
+itm_sharpscarbine_pl|夏 普 斯 卡 宾 枪 
+itm_rs_coat|军 装 
+itm_rs_coat_pl|军 装 
+itm_jap_infantry_tosa_pants|大 衣 靴 
+itm_jap_infantry_tosa_pants_pl|大 衣 靴 
+itm_bowler1|圆 顶 礼 帽 
+itm_bowler1_pl|圆 顶 礼 帽 
+itm_bowler2|圆 顶 礼 帽 
+itm_bowler2_pl|圆 顶 礼 帽 
+itm_bowler3|圆 顶 礼 帽 
+itm_bowler3_pl|圆 顶 礼 帽 
+itm_abowler1|圆 顶 礼 帽 
+itm_abowler1_pl|圆 顶 礼 帽 
+itm_abowler2|圆 顶 礼 帽 
+itm_abowler2_pl|圆 顶 礼 帽 
+itm_abowler3|圆 顶 礼 帽 
+itm_abowler3_pl|圆 顶 礼 帽 
+itm_rs_cavalry_officer_pants2|骑 兵 靴 
+itm_rs_cavalry_officer_pants2_pl|骑 兵 靴 
+itm_frock1red|长 礼 服 
+itm_frock1red_pl|长 礼 服 
+itm_frock2black|长 礼 服 
+itm_frock2black_pl|长 礼 服 
+itm_frock3plaid|长 礼 服 
+itm_frock3plaid_pl|长 礼 服 
+itm_frock4grey|长 礼 服 
+itm_frock4grey_pl|长 礼 服 
+itm_frock5green|长 礼 服 
+itm_frock5green_pl|长 礼 服 
+itm_frock6beige|长 礼 服 
+itm_frock6beige_pl|长 礼 服 
+itm_frock7darkgrey|长 礼 服 
+itm_frock7darkgrey_pl|长 礼 服 
+itm_frock8brown|长 礼 服 
+itm_frock8brown_pl|长 礼 服 
+itm_generic_priest|牧 师 服 
+itm_generic_priest_pl|牧 师 服 
+itm_fran_sailor|水 手 服 
+itm_fran_sailor_pl|水 手 服 
+itm_rs_mariner2|水 手 服 
+itm_rs_mariner2_pl|水 手 服 
+itm_british_seaman_hat_1|水 手 服 
+itm_british_seaman_hat_1_pl|水 手 服 
+itm_fr_naval_hat_01|水 手 帽 
+itm_fr_naval_hat_01_pl|水 手 帽 
+itm_yoshinobu|将 军 服 
+itm_yoshinobu_pl|将 军 服 
+itm_fr_general|将 军 制 服 
+itm_fr_general_pl|将 军 制 服 
+itm_fr_naval_hat_officer|军 官 帽 
+itm_fr_naval_hat_officer_pl|军 官 帽 
+itm_scopedsharps|带 瞄 准 镜 的 夏 普 斯 步 枪 
+itm_scopedsharps_pl|带 瞄 准 镜 的 夏 普 斯 步 枪 
+itm_new_item1|练 习 弓 
+itm_new_item1_pl|练 习 弓 
+itm_gekokujo_light_suneate_1|轻 筱 臑 当 
+itm_gekokujo_light_suneate_1_pl|轻 筱 臑 当 
+itm_gekokujo_light_suneate_2|轻 筱 臑 当 
+itm_gekokujo_light_suneate_2_pl|轻 筱 臑 当 
+itm_gekokujo_light_suneate_3|轻 筱 臑 当 
+itm_gekokujo_light_suneate_3_pl|轻 筱 臑 当 
+itm_royal_marine_forage_cap1|便 帽 
+itm_royal_marine_forage_cap1_pl|便 帽 
+itm_m|德 莱 赛 针 发 枪 
+itm_m_pl|德 莱 赛 针 发 枪 
+itm_cm|德 式 步 枪 
+itm_cm_pl|德 式 步 枪 
+itm_bs|斯 奈 德 步 枪 
+itm_bs_pl|斯 奈 德 步 枪 
+itm_ts|猎 兵 步 枪 
+itm_ts_pl|猎 兵 步 枪 
+itm_player_nobori|旗 
+itm_player_nobori_pl|旗 
+itm_gekokujo_bullets_2|子 弹 
+itm_gekokujo_bullets_2_pl|子 弹 
+itm_Beaumont_Adams_Revolver|博 蒙 德 亚 当 斯 转 轮 手 枪 
+itm_Beaumont_Adams_Revolver_pl|博 蒙 德 亚 当 斯 转 轮 手 枪 
+itm_npc_Beaumont_Adams_Revolver_melee|博 蒙 德 亚 当 斯 转 轮 手 枪 
+itm_npc_Beaumont_Adams_Revolver_melee_pl|博 蒙 德 亚 当 斯 转 轮 手 枪 
+itm_Hizen_Teppo|肥 前 铁 炮 
+itm_Hizen_Teppo_pl|肥 前 铁 炮 
+itm_Sakai_Teppo|堺 筒 
+itm_Sakai_Teppo_pl|堺 筒 
+itm_Kunitomo_Teppo|国 友 铁 炮 
+itm_Kunitomo_Teppo_pl|国 友 铁 炮 
+itm_Nanban_Teppo|南 蛮 铁 炮 
+itm_Nanban_Teppo_pl|南 蛮 铁 炮 
+itm_fr_general_long|将 军 服 
+itm_fr_general_long_pl|将 军 服 
+itm_rs_cavalry_officer_pants_white|骑 兵 靴 
+itm_rs_cavalry_officer_pants_white_pl|骑 兵 靴 
+itm_emperor_courser|北 海 道 马 
+itm_emperor_courser_pl|北 海 道 马 
+itm_rs_hakshirt5a|军 服 
+itm_rs_hakshirt5a_pl|军 服 
+itm_wooden_cannon_inv|老 式 加 农 炮 
+itm_wooden_cannon_inv_pl|老 式 加 农 炮 
+itm_parrot_gun_inv|帕 罗 特 炮 
+itm_parrot_gun_inv_pl|帕 罗 特 炮 
+itm_armstrong_gun_inv|阿 姆 斯 特 朗 炮 
+itm_armstrong_gun_inv_pl|阿 姆 斯 特 朗 炮 
+itm_gatling_gun_inv|加 特 林 机 枪 
+itm_gatling_gun_inv_pl|加 特 林 机 枪 
+itm_box_of_ammunition|加 特 林 弹 药 
+itm_box_of_ammunition_pl|加 特 林 弹 药 
+itm_ramrod|推 弹 杆 
+itm_ramrod_pl|推 弹 杆 
+itm_cannonball|炮 弹 
+itm_cannonball_pl|炮 弹 
+itm_cannonball_10lb|10磅 炮 弹 
+itm_cannonball_10lb_pl|10磅 炮 弹 
+itm_cannonball_12lb|12磅 炮 弹 
+itm_cannonball_12lb_pl|12磅 炮 弹 
+itm_cannon_shoot1|*Cannonhoot*
+itm_cannon_shoot1_pl|*Cannonhoot*
+itm_cannon_shoot2|*Cannonhoot*
+itm_cannon_shoot2_pl|*Cannonhoot*
+itm_cannon_shoot3|*Cannonhoot*
+itm_cannon_shoot3_pl|*Cannonhoot*
+itm_Gatling_Shoot|*Gatlinghoot*
+itm_Gatling_Shoot_pl|*Gatlinghoot*
+itm_invisible_head|Invisible Head
+itm_invisible_head_pl|Invisible Head
+itm_invisible_hand|Invisible Hand
+itm_invisible_hand_pl|Invisible Hands
+itm_invisible_foot|Invisible Leg
+itm_invisible_foot_pl|Invisible Legs
+itm_nanban_shoes|鞋 
+itm_nanban_shoes_pl|鞋 
+itm_british_seaman_hat_2|水 手 帽 
+itm_british_seaman_hat_2_pl|水 手 帽 
+itm_british_seaman_hat_3|水 手 帽 
+itm_british_seaman_hat_3_pl|水 手 帽 
+itm_lef1a|勒 福 舍 转 轮 手 枪 
+itm_lef1a_pl|勒 福 舍 转 轮 手 枪 
+itm_npc_lef1a_melee|勒 福 舍 转 轮 手 枪 
+itm_npc_lef1a_melee_pl|勒 福 舍 转 轮 手 枪 
+itm_lef2a|勒 福 舍 转 轮 手 枪 
+itm_lef2a_pl|勒 福 舍 转 轮 手 枪 
+itm_npc_lef2a_melee|勒 福 舍 转 轮 手 枪 
+itm_npc_lef2a_melee_pl|勒 福 舍 转 轮 手 枪 
+itm_rs_pistol_ammo|手 枪 子 弹 
+itm_rs_pistol_ammo_pl|手 枪 子 弹 
+itm_bag_of_ammunition_1|弹 药 袋 
+itm_bag_of_ammunition_1_pl|弹 药 袋 
+itm_bag_of_ammunition_2|弹 药 袋 
+itm_bag_of_ammunition_2_pl|弹 药 袋 
+itm_gekokujo_zunari_o_Y|御 贷 日 根 野 形 兜 
+itm_gekokujo_zunari_o_Y_pl|御 贷 日 根 野 形 兜 
+itm_cartridges_revolver|.44口 径 转 轮 手 枪 圆 弹 
+itm_cartridges_revolver_pl|.44口 径 转 轮 手 枪 圆 弹 
+itm_cartridges_musket|.69口 径 滑 膛 枪 圆 弹 
+itm_cartridges_musket_pl|.69口 径 滑 膛 枪 圆 弹 
+itm_cartridges_musketoon|.69口 径 卡 宾 枪 圆 弹 
+itm_cartridges_musketoon_pl|.69口 径 卡 宾 枪 圆 弹 
+itm_cartridges_rifle|.58口 径 步 枪 米 尼 弹 
+itm_cartridges_rifle_pl|.58口 径 步 枪 米 尼 弹 
+itm_cartridges_carbine|.52口 径 卡 宾 枪 环 尾 弹 
+itm_cartridges_carbine_pl|.52口 径 卡 宾 枪 环 尾 弹 
+itm_cartridges_sharps|.52口 径 夏 普 斯 步 枪 弹 药 
+itm_cartridges_sharps_pl|.52口 径 夏 普 斯 步 枪 弹 药 
+itm_cartridges_buck|12号 鹿 弹 (霰 弹 )
+itm_cartridges_buck_pl|12号 鹿 弹 (霰 弹 )
+itm_cartridges_spencer|.56口 径 缘 发 式 斯 宾 塞 弹 药 
+itm_cartridges_spencer_pl|.56口 径 缘 发 式 斯 宾 塞 弹 药 
+itm_cartridges_henry|.44口 径 缘 发 式 亨 利 弹 药 
+itm_cartridges_henry_pl|.44口 径 缘 发 式 亨 利 弹 药 
+itm_coltnavy|科 尔 特 海 军 转 轮 手 枪 
+itm_coltnavy_pl|科 尔 特 海 军 转 轮 手 枪 
+itm_Colt_Navy_melee|科 尔 特 海 军 转 轮 手 枪 
+itm_Colt_Navy_melee_pl|科 尔 特 海 军 转 轮 手 枪 
+itm_savage|萨 维 奇 海 军 转 轮 手 枪 
+itm_savage_pl|萨 维 奇 海 军 转 轮 手 枪 
+itm_Savage_Navy_melee|萨 维 奇 海 军 转 轮 手 枪 
+itm_Savage_Navy_melee_pl|萨 维 奇 海 军 转 轮 手 枪 
+itm_starr|斯 塔 尔 双 动 转 轮 手 枪 
+itm_starr_pl|斯 塔 尔 双 动 转 轮 手 枪 
+itm_Starr_Double_Action_melee|斯 塔 尔 双 动 转 轮 手 枪 
+itm_Starr_Double_Action_melee_pl|斯 塔 尔 双 动 转 轮 手 枪 
+itm_lef1|勒 福 舍 转 轮 手 枪 
+itm_lef1_pl|勒 福 舍 转 轮 手 枪 
+itm_Lefaucheux_melee|勒 福 舍 转 轮 手 枪 
+itm_Lefaucheux_melee_pl|勒 福 舍 转 轮 手 枪 
+itm_lef2|勒 福 舍 转 轮 手 枪 
+itm_lef2_pl|勒 福 舍 转 轮 手 枪 
+itm_sw32|史 密 斯 和 韦 森 2 型 转 轮 手 枪 
+itm_sw32_pl|史 密 斯 和 韦 森 2 型 转 轮 手 枪 
+itm_Smith_&_Wesson_Model_2_melee|史 密 斯 和 韦 森 2 型 转 轮 手 枪 
+itm_Smith_&_Wesson_Model_2_melee_pl|史 密 斯 和 韦 森 2 型 转 轮 手 枪 
+itm_Beaumont_Adams_Revolver_melee|博 蒙 德 亚 当 斯 转 轮 手 枪 
+itm_Beaumont_Adams_Revolver_melee_pl|博 蒙 德 亚 当 斯 转 轮 手 枪 
+itm_Bowie_Knife|Bowie Knife
+itm_Bowie_Knife_pl|Bowie Knife
+itm_forage_cap_imperial|便 帽 
+itm_forage_cap_imperial_pl|便 帽 
+itm_forage_cap_choshu|便 帽 
+itm_forage_cap_choshu_pl|便 帽 
+itm_forage_cap_satsuma|便 帽 
+itm_forage_cap_satsuma_pl|便 帽 
+itm_forage_cap_aizu|便 帽 
+itm_forage_cap_aizu_pl|便 帽 
+itm_forage_cap_aizu_yellow|便 帽 
+itm_forage_cap_aizu_yellow_pl|便 帽 
+itm_forage_cap_tokugawa|便 帽 
+itm_forage_cap_tokugawa_pl|便 帽 
+itm_forage_cap_nagaoka|便 帽 
+itm_forage_cap_nagaoka_pl|便 帽 
+itm_forage_cap_nagaoka_yellow|便 帽 
+itm_forage_cap_nagaoka_yellow_pl|便 帽 
+itm_forage_cap_blue|便 帽 
+itm_forage_cap_blue_pl|便 帽 
+itm_satsuma_kepi|法 式 军 帽 
+itm_satsuma_kepi_pl|法 式 军 帽 
+itm_choshu_officer_kepi|法 式 军 帽 
+itm_choshu_officer_kepi_pl|法 式 军 帽 
+itm_aizu_kepi|法 式 军 帽 
+itm_aizu_kepi_pl|法 式 军 帽 
+itm_tosa_riflemen1|军 服 
+itm_tosa_riflemen1_pl|军 服 
+itm_tosa_riflemen2|裤 子 
+itm_tosa_riflemen2_pl|裤 子 
+itm_usa_kepi|法 式 军 帽 
+itm_usa_kepi_pl|法 式 军 帽 
+itm_usa_marines|军 服 
+itm_usa_marines_pl|军 服 
+itm_usa_marines_pants|裤 子 
+itm_usa_marines_pants_pl|裤 子 
+itm_royal_marines_kepi1|法 式 军 帽 
+itm_royal_marines_kepi1_pl|法 式 军 帽 
+itm_royal_marines_outfit|军 服 
+itm_royal_marines_outfit_pl|军 服 
+itm_royal_marines_pants|裤 子 
+itm_royal_marines_pants_pl|裤 子 
+itm_french_kepi|法 式 军 帽 
+itm_french_kepi_pl|法 式 军 帽 
+itm_french_marines_outfit|军 服 
+itm_french_marines_outfit_pl|军 服 
+itm_french_marines_pants|裤 子 
+itm_french_marines_pants_pl|裤 子 
+itm_jap_infantry_choshu_01|军 服 
+itm_jap_infantry_choshu_01_pl|军 服 
+itm_jap_infantry_choshu_02|军 服 
+itm_jap_infantry_choshu_02_pl|军 服 
+itm_royal_marine_forage_cap2|便 帽 
+itm_royal_marine_forage_cap2_pl|便 帽 
+itm_usa_general_hat|军 帽 
+itm_usa_general_hat_pl|军 帽 
+itm_usa_general_outfit|军 服 
+itm_usa_general_outfit_pl|军 服 
+itm_colt1855|柯 尔 特 M1855式 转 轮 步 枪 
+itm_colt1855_pl|柯 尔 特 M1855式 转 轮 步 枪 
+itm_Remington_New_Model_Army_Revolver|雷 明 顿 新 型 陆 军 左 轮 手 枪 
+itm_Remington_New_Model_Army_Revolver_pl|雷 明 顿 新 型 陆 军 左 轮 手 枪 
+itm_Remington_New_Model_Army_Revolver_melee|雷 明 顿 新 型 陆 军 左 轮 手 枪 
+itm_Remington_New_Model_Army_Revolver_melee_pl|雷 明 顿 新 型 陆 军 左 轮 手 枪 
+itm_american_saddlebred_horse|美 国 骑 乘 种 马 
+itm_american_saddlebred_horse_pl|美 国 骑 乘 种 马 
+itm_Officer's_Sword|军 官 配 剑 
+itm_Officer's_Sword_pl|军 官 配 剑 
+itm_jap_infantry_aizu_guard|军 服 
+itm_jap_infantry_aizu_guard_pl|军 服 
+itm_jap_aizu_vermillion_outfit|军 服 
+itm_jap_aizu_vermillion_outfit_pl|军 服 
+itm_jap_aizu_vermillion_pants|裤 子 
+itm_jap_aizu_vermillion_pants_pl|裤 子 
+itm_Half_Hakama1|半 袴 
+itm_Half_Hakama1_pl|半 袴 
+itm_Half_Hakama2|半 袴 
+itm_Half_Hakama2_pl|半 袴 
+itm_Half_Hakama3|半 袴 
+itm_Half_Hakama3_pl|半 袴 
+itm_Half_Hakama4|半 袴 
+itm_Half_Hakama4_pl|半 袴 
+itm_Half_Hakama4a|半 袴 
+itm_Half_Hakama4a_pl|半 袴 
+itm_Half_Hakama4b|半 袴 
+itm_Half_Hakama4b_pl|半 袴 
+itm_minie_aizu|米 尼 步 枪 
+itm_minie_aizu_pl|米 尼 步 枪 
+itm_fire_bomb|燃 烧 弹 
+itm_fire_bomb_pl|燃 烧 弹 
+itm_enfield_choshu|恩 菲 尔 德 步 枪 
+itm_enfield_choshu_pl|E恩 菲 尔 德 步 枪 
+itm_bag_of_ammunition_3|新 式 弹 药 
+itm_bag_of_ammunition_3_pl|新 式 弹 药 
+itm_Miyako_Horse_Hojo|宫 古 马 
+itm_Miyako_Horse_Hojo_pl|宫 古 马 
+itm_Dosanko_Horse_Hojo|北 海 道 马 
+itm_Dosanko_Horse_Hojo_pl|北 海 道 马 
+itm_Nanbu_Horse_Hojo|南 部 马 
+itm_Nanbu_Horse_Hojo_pl|南 部 马 
+itm_Kagoshima_Horse_Hojo|鹿 儿 岛 马 
+itm_Kagoshima_Horse_Hojo_pl|鹿 儿 岛 马 
+itm_shinsengumi_hakama2|新 选 组 服 
+itm_shinsengumi_hakama2_pl|新 选 组 服 
+itm_shinsengumi_hakama4|新 选 组 服 
+itm_shinsengumi_hakama4_pl|新 选 组 服 
+itm_shogitai_outfit|彰 义 队 服 
+itm_shogitai_outfit_pl|彰 义 队 服 
+itm_shogitai_outfit_inverted|彰 义 队 服 
+itm_shogitai_outfit_inverted_pl|彰 义 队 服 
+itm_shinsengumi_outfit_elite|新 选 组 服 
+itm_shinsengumi_outfit_elite_pl|新 选 组 服 
+itm_jap_aizu_officer_yellow|军 服 
+itm_jap_aizu_officer_yellow_pl|军 服 
+itm_jap_aizu_officer_white|军 服 
+itm_jap_aizu_officer_white_pl|军 服 
+itm_jap_green_officer|军 服 
+itm_jap_green_officer_pl|军 服 
+itm_rs_dragoon3|军 服 
+itm_rs_dragoon3_pl|军 服 
+itm_rs_dragoon4|军 服 
+itm_rs_dragoon4_pl|军 服 
+itm_Trousers_with_jinbaori_Tosa|骑 兵 靴 
+itm_Trousers_with_jinbaori_Tosa_pl|骑 兵 靴 
+itm_Tosa_Cavalry_Boots|骑 兵 靴 
+itm_Tosa_Cavalry_Boots_pl|骑 兵 靴 
+itm_jingasa_custom1|阵 笠 
+itm_jingasa_custom1_pl|阵 笠 
+itm_jingasa_custom2|阵 笠 
+itm_jingasa_custom2_pl|阵 笠 
+itm_jingasa_custom3|阵 笠 
+itm_jingasa_custom3_pl|阵 笠 
+itm_jingasa_custom4|阵 笠 
+itm_jingasa_custom4_pl|阵 笠 
+itm_jingasa_custom5|阵 笠 
+itm_jingasa_custom5_pl|阵 笠 
+itm_jingasa_custom6|阵 笠 
+itm_jingasa_custom6_pl|阵 笠 
+itm_jingasa_custom7|阵 笠 
+itm_jingasa_custom7_pl|阵 笠 
+itm_jingasa_custom8|阵 笠 
+itm_jingasa_custom8_pl|阵 笠 
+itm_jingasa_custom9|阵 笠 
+itm_jingasa_custom9_pl|阵 笠 
+itm_jingasa_custom10|阵 笠 
+itm_jingasa_custom10_pl|阵 笠 
+itm_jingasa_custom11|阵 笠 
+itm_jingasa_custom11_pl|阵 笠 
+itm_jingasa_custom12|阵 笠 
+itm_jingasa_custom12_pl|阵 笠 
+itm_jingasa_custom13|阵 笠 
+itm_jingasa_custom13_pl|阵 笠 
+itm_jingasa_custom14|阵 笠 
+itm_jingasa_custom14_pl|阵 笠 
+itm_jingasa_custom15|阵 笠 
+itm_jingasa_custom15_pl|阵 笠 
+itm_jingasa_custom16|阵 笠 
+itm_jingasa_custom16_pl|阵 笠 
+itm_jingasa_custom17|阵 笠 
+itm_jingasa_custom17_pl|阵 笠 
+itm_jingasa_custom18|阵 笠 
+itm_jingasa_custom18_pl|阵 笠 
+itm_jingasa_custom19|阵 笠 
+itm_jingasa_custom19_pl|阵 笠 
+itm_jingasa_custom20|阵 笠 
+itm_jingasa_custom20_pl|阵 笠 
+itm_jingasa_custom22|阵 笠 
+itm_jingasa_custom22_pl|阵 笠 
+itm_jingasa_custom23|阵 笠 
+itm_jingasa_custom23_pl|阵 笠 
+itm_jingasa_custom24|阵 笠 
+itm_jingasa_custom24_pl|阵 笠 
+itm_uniform_custom26|军 服 
+itm_uniform_custom26_pl|军 服 
+itm_uniform_custom1|军 服 
+itm_uniform_custom1_pl|军 服 
+itm_uniform_custom2|军 服 
+itm_uniform_custom2_pl|军 服 
+itm_uniform_custom3|军 服 
+itm_uniform_custom3_pl|军 服 
+itm_uniform_custom4|军 服 
+itm_uniform_custom4_pl|军 服 
+itm_uniform_custom5|军 服 
+itm_uniform_custom5_pl|军 服 
+itm_uniform_custom6|军 服 
+itm_uniform_custom6_pl|军 服 
+itm_uniform_custom7|军 服 
+itm_uniform_custom7_pl|军 服 
+itm_uniform_custom8|军 服 
+itm_uniform_custom8_pl|军 服 
+itm_uniform_custom9|军 服 
+itm_uniform_custom9_pl|军 服 
+itm_uniform_custom10|军 服 
+itm_uniform_custom10_pl|军 服 
+itm_uniform_custom11|军 服 
+itm_uniform_custom11_pl|军 服 
+itm_uniform_custom12|军 服 
+itm_uniform_custom12_pl|军 服 
+itm_uniform_custom13|军 服 
+itm_uniform_custom13_pl|军 服 
+itm_uniform_custom14|军 服 
+itm_uniform_custom14_pl|军 服 
+itm_uniform_custom15|军 服 
+itm_uniform_custom15_pl|军 服 
+itm_uniform_custom16|军 服 
+itm_uniform_custom16_pl|军 服 
+itm_uniform_custom17|军 服 
+itm_uniform_custom17_pl|军 服 
+itm_uniform_custom18|军 服 
+itm_uniform_custom18_pl|军 服 
+itm_uniform_custom19|军 服 
+itm_uniform_custom19_pl|军 服 
+itm_uniform_custom20|军 服 
+itm_uniform_custom20_pl|军 服 
+itm_uniform_custom22|军 服 
+itm_uniform_custom22_pl|军 服 
+itm_uniform_custom23|军 服 
+itm_uniform_custom23_pl|军 服 
+itm_uniform_custom24|军 服 
+itm_uniform_custom24_pl|军 服 
+itm_jing_cone2|阵 笠 
+itm_jing_cone2_pl|阵 笠 
+itm_rs_inf_aizu_3|军 服 
+itm_rs_inf_aizu_3_pl|军 服 
+itm_rs_inf_aizu_4|军 服 
+itm_rs_inf_aizu_4_pl|军 服 
+itm_Katamori_Eboshi|松 平 容 保 帽 
+itm_Katamori_Eboshi_pl|松 平 容 保 帽
