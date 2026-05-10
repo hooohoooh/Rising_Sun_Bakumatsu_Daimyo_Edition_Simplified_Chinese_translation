@@ -1,0 +1,1 @@
+# Rising_Sun_Bakumatsu_Daimyo_Edition_Simplified_Chinese_translation
