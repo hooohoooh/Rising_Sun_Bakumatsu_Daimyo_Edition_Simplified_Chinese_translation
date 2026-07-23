@@ -564,8 +564,18 @@ mno_town_dungeon|勿 点 ， 进 入 地 牢 。
 mno_town_dungeon_door|地 牢 大 门 。 
 mno_castle_inspect|视 察 城 。 
 mno_castle_inspect_door|去 城 内 部 。 
-mno_town_purchasable_troops|雇 佣 特 殊 兵 种 。 
-mno_town_purchasable_troops_end|雇 佣 特 殊 兵 种 。 
+mno_town_purchasable_troops1|招 募 法 国 海 军 陆 战 队 (1430 文 )
+mno_town_purchasable_troops2|招 募 英 国 海 军 陆 战 队 (1370 文 )
+mno_town_purchasable_troops3|招 募 美 国 海 军 陆 战 队 (1340 文 )
+mno_town_purchasable_troops4|招 募 游 击 队 (1070 文 )
+mno_town_purchasable_troops5|招 募 奇 兵 队 (1030 文 )
+mno_town_purchasable_troops6|招 募 京 都 巡 捕 队 (750 文 )
+mno_town_purchasable_troops7|招 募 新 选 组 (1110 文 )
+mno_town_purchasable_troops8|招 募 土 佐 步 枪 兵 (1030 文 )
+mno_town_purchasable_troops9|雇 佣 特 殊 兵 种 
+mno_town_purchasable_troops10|雇 佣 纪 州 忍 者 (1420 文 )
+mno_town_purchasable_troops_end|雇 佣 特 殊 兵 种 
+mno_town_purchasable_troopsNO|招 募 英 国 海 军 陆 战 队 (1370 文 )
 mno_town_enterprise|访 问 你 的 {s3}。 
 mno_town_enterprise_door|访 问 你 的 作 坊 。 
 mno_visit_lady|尝 试 拜 访 一 位 女 士 。 
@@ -957,15 +967,116 @@ mno_foreign_rifled_musket|购 买 线 膛 火 枪 。
 mno_foreign_rifles|购 买 步 枪 。 
 mno_foreign_repeaters|购 买 连 发 枪 。 
 mno_foreign_ammunition2|你 想 购 买 哪 种 类 型 的 弹 药 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
-mno_purchasable_weapons|购 买 .44口 径 锥 形 弹 左 轮 手 枪 弹 药 。 花 费 ： 100
-mno_purchasable_weapons_disabled|你 无 法 负 担 .44口 径 锥 形 弹 左 轮 手 枪 弹 药 。 花 费 ： 100
+mno_purchasable_weapons1|购 买 .44 口 径 锥 形 弹 左 轮 手 枪 弹 药 。 花 费 ： 100
+mno_purchasable_weapons1_disabled|你 无 法 负 担 .44 口 径 锥 形 弹 左 轮 手 枪 弹 药 。 花 费 ： 100 文 。 
+mno_purchasable_weapons2|购 买 .69 口 径 圆 形 弹 火 枪 弹 药 。 花 费 ： 250文 。 
+mno_purchasable_weapons2_disabled|你 无 法 负 担 .69 口 径 圆 形 弹 火 枪 弹 药 。 花 费 ： 250文 。 
+mno_purchasable_weapons3|购 买 .69 口 径 圆 形 弹 卡 宾 枪 弹 药 。 花 费 ： 200文 。 
+mno_purchasable_weapons3_disabled|你 无 法 负 担 .69 口 径 圆 形 弹 卡 宾 枪 弹 药 。 花 费 ： 200文 。 
+mno_purchasable_weapons4|购 买 .58 口 径 米 涅 弹 步 枪 弹 药 。 花 费 ： 350文 。 
+mno_purchasable_weapons4_disabled|你 无 法 负 担 .58 口 径 米 涅 弹 步 枪 弹 药 。 花 费 ： 350文 。 
+mno_purchasable_weapons5|购 买 .52 口 径 环 尾 卡 宾 枪 弹 药 。 花 费 ： 300文 。 
+mno_purchasable_weapons5_disabled|你 无 法 负 担 .52 口 径 环 尾 卡 宾 枪 弹 药 。 花 费 ： 300文 。 
+mno_purchasable_weapons6|购 买 .52 口 径 步 枪 弹 药 。 花 费 ： 400文 。 
+mno_purchasable_weapons7_disabled|你 无 法 负 担 .52 口 径 步 枪 弹 药 。 花 费 ： 400文 。 
 mno_ammunition_next|下 一 页 。 
 mno_foreign_revolvers2|你 想 购 买 哪 种 左 轮 手 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
+mno_purchasable_weapons8|购 买 柯 尔 特 海 军 型 。 花 费 ： 2100文 。 
+mno_purchasable_weapons8_disabled|你 无 法 负 担 柯 尔 特 海 军 型 。 花 费 ： 2100文 。 
+mno_purchasable_weapons9|购 买 萨 维 奇 海 军 型 。 花 费 ： 2000文 。 
+mno_purchasable_weapons9_disabled|你 无 法 负 担 萨 维 奇 海 军 型 。 花 费 ： 2000文 。 
+mno_purchasable_weapons10|购 买 斯 塔 尔 双 动 型 。 花 费 ： 2350文 。 
+mno_purchasable_weapons10_disabled|你 无 法 负 担 斯 塔 尔 双 动 型 。 花 费 ： 2350文 。 
+mno_purchasable_weapons11|购 买 勒 福 舍 ( A ) 。 花 费 ： 2400文 。 
+mno_purchasable_weapons11_disabled|你 无 法 负 担 勒 福 舍 ( A ) 。 花 费 ： 2400文 。 
+mno_purchasable_weapons12|购 买 勒 福 舍 ( B ) 。 花 费 ： 2400文 。 
+mno_purchasable_weapons12_disabled|你 无 法 负 担 勒 福 舍 ( B ) 。 花 费 ： 2400文 。 
+mno_purchasable_weapons13|购 买 史 密 斯 韦 森 2 型 。 花 费 ： 2050文 。 
+mno_purchasable_weapons13_disabled|你 无 法 负 担 史 密 斯 韦 森 2 型 。 花 费 ： 2050文 。 
+mno_purchasable_weapons14|购 买 博 蒙 特 亚 当 斯 左 轮 手 枪 。 花 费 ： 2800文 。 
+mno_purchasable_weapons14_disabled|你 无 法 负 担 博 蒙 特 亚 当 斯 左 轮 手 枪 。 花 费 ： 2800文 。 
 mno_foreign_rifled_musket1|你 想 购 买 哪 种 线 膛 火 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
+mno_purchasable_weapons15|购 买 恩 菲 尔 德 步 枪 带 刺 刀 。 花 费 ： {reg10}文 。 
+mno_purchasable_weapons15_disabled|你 无 法 负 担 恩 菲 尔 德 步 枪 带 刺 刀 。 花 费 ： {reg10}文 。 
+mno_purchasable_weapons16|购 买 恩 菲 尔 德 步 枪 。 花 费 ： {reg11}文 。 
+mno_purchasable_weapons16_disabled|你 无 法 负 担 恩 菲 尔 德 步 枪 。 花 费 ： {reg11}文 。 
+mno_purchasable_weapons17|购 买 恩 菲 尔 德 卡 宾 枪 。 花 费 ： 3000文 。 
+mno_purchasable_weapons17_disabled|你 无 法 负 担 恩 菲 尔 德 卡 宾 枪 。 花 费 ： 3000文 。 
+mno_purchasable_weapons18|购 买 斯 普 林 菲 尔 德 步 枪 带 刺 刀 。 花 费 ： 3550文 。 
+mno_purchasable_weapons18_disabled|你 无 法 负 担 斯 普 林 菲 尔 德 步 枪 带 刺 刀 。 花 费 ： 3550文 。 
+mno_purchasable_weapons19|购 买 斯 普 林 菲 尔 德 步 枪 。 花 费 ： 3300文 。 
+mno_purchasable_weapons19_disabled|你 无 法 负 担 斯 普 林 菲 尔 德 步 枪 。 花 费 ： 3300文 。 
+mno_purchasable_weapons20|购 买 斯 普 林 菲 尔 德 火 枪 。 花 费 ： 1550文 。 
+mno_purchasable_weapons20_disabled|你 无 法 负 担 斯 普 林 菲 尔 德 火 枪 。 花 费 ： 1550文 。 
+mno_purchasable_weapons21|购 买 格 韦 尔 步 枪 带 刺 刀 。 花 费 ： 2100文 。 
+mno_purchasable_weapons21_disabled|你 无 法 负 担 格 韦 尔 步 枪 带 刺 刀 。 花 费 ： 2100文 。 
+mno_purchasable_weapons22|购 买 格 韦 尔 步 枪 。 花 费 ： 1850文 。 
+mno_purchasable_weapons22_disabled|你 无 法 负 担 格 韦 尔 步 枪 。 花 费 ： 1850文 。 
 mno_rifled_musket_next|下 一 页 。 
-mno_foreign_rifles1|你 想 购 买 哪 种 来 复 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。
-mno_foreign_repeaters1|你 想 购 买 哪 种 连 发 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。
+mno_foreign_rifles1|你 想 购 买 哪 种 来 复 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
+mno_purchasable_weapons23|购 买 夏 塞 波 步 枪 带 刺 刀 。 花 费 ： 4100文 。 
+mno_purchasable_weapons23_disabled|你 无 法 负 担 夏 塞 波 步 枪 带 刺 刀 。 花 费 ： 4100文 。 
+mno_purchasable_weapons24|购 买 夏 塞 波 步 枪 。 花 费 ： 3850文 。 
+mno_purchasable_weapons24_disabled|你 无 法 负 担 夏 塞 波 步 枪 。 花 费 ： 3850文 。 
+mno_purchasable_weapons25|购 买 德 莱 赛 针 发 枪 带 刺 刀 。 花 费 ： 4500文 。 
+mno_purchasable_weapons25_disabled|你 无 法 负 担 德 莱 赛 针 发 枪 带 刺 刀 。 花 费 ： 4500文 。 
+mno_purchasable_weapons26|购 买 德 莱 赛 针 发 枪 。 花 费 ： 4250文 。 
+mno_purchasable_weapons26_disabled|你 无 法 负 担 德 莱 赛 针 发 枪 。 花 费 ： 4250文 。 
+mno_purchasable_weapons27|购 买 史 奈 德 步 枪 带 刺 刀 。 花 费 ： 4800文 。 
+mno_purchasable_weapons27_disabled|你 无 法 负 担 史 奈 德 步 枪 带 刺 刀 。 花 费 ： 4800文 。 
+mno_purchasable_weapons28|购 买 史 奈 德 步 枪 。 花 费 ： 4600文 。 
+mno_purchasable_weapons28_disabled|你 无 法 负 担 史 奈 德 步 枪 。 花 费 ： 4600文 。 
+mno_purchasable_weapons29|购 买 带 瞄 准 镜 的 夏 普 斯 步 枪 。 花 费 ： 5600文 。 
+mno_purchasable_weapons29_disabled|你 无 法 负 担 带 瞄 准 镜 的 夏 普 斯 步 枪 。 花 费 ： 5600文 。 
+mno_purchasable_weapons30|购 买 斯 塔 尔 卡 宾 枪 。 花 费 ： 2200文 。 
+mno_purchasable_weapons30_disabled|你 无 法 负 担 斯 塔 尔 卡 宾 枪 。 花 费 ： 2200文 。 
+mno_foreign_repeaters1|你 想 购 买 哪 种 连 发 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
+mno_purchasable_weapons31|购 买 斯 宾 塞 连 发 步 枪 。 花 费 ： {reg10}文 。 
+mno_purchasable_weapons31_disabled|你 无 法 负 担 斯 宾 塞 连 发 步 枪 。 花 费 ： {reg10}文 。 
+mno_purchasable_weapons32|购 买 斯 宾 塞 连 发 卡 宾 枪 。 花 费 ： {reg11}文 。 
+mno_purchasable_weapons32_disabled|你 无 法 负 担 斯 宾 塞 连 发 卡 宾 枪 。 花 费 ： {reg11}文 。 
+mno_purchasable_weapons33|购 买 亨 利 连 发 步 枪 。 花 费 ： {reg12}文 。 
+mno_purchasable_weapons33_disabled|你 无 法 负 担 亨 利 连 发 步 枪 。 花 费 ： {reg12}文 。 
 mno_foreign_rifled_musket2|你 想 购 买 哪 种 线 膛 火 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
+mno_purchasable_weapons34|购 买 查 尔 维 尔 火 枪 带 刺 刀 。 花 费 ： 2150文 。 
+mno_purchasable_weapons34_disabled|你 无 法 负 担 查 尔 维 尔 火 枪 带 刺 刀 。 花 费 ： 2150文 。 
+mno_purchasable_weapons35|购 买 查 尔 维 尔 火 枪 。 花 费 ： 1900文 。 
+mno_purchasable_weapons35_disabled|你 无 法 负 担 查 尔 维 尔 火 枪 。 花 费 ： 1900文 。 
+mno_purchasable_weapons36|购 买 埃 蒂 安 火 枪 带 刺 刀 。 花 费 ： 2300文 。 
+mno_purchasable_weapons36_disabled|你 无 法 负 担 埃 蒂 安 火 枪 带 刺 刀 。 花 费 ： 2300文 。 
+mno_purchasable_weapons37|购 买 埃 蒂 安 火 枪 。 花 费 ： 2000文 。 
+mno_purchasable_weapons37_disabled|你 无 法 负 担 埃 蒂 安 火 枪 。 花 费 ： 2000文 。 
+mno_purchasable_weapons38|购 买 米 涅 步 枪 带 刺 刀 。 花 费 ： 3750文 。 
+mno_purchasable_weapons38_disabled|你 无 法 负 担 米 涅 步 枪 带 刺 刀 。 花 费 ： 3750文 。 
+mno_purchasable_weapons39|购 买 米 涅 步 枪 。 花 费 ： 3500文 。 
+mno_purchasable_weapons39_disabled|你 无 法 负 担 米 涅 步 枪 。 花 费 ： 3500文 。 
+mno_purchasable_weapons40|购 买 沙 瑟 尔 步 枪 带 刺 刀 。 花 费 ： 3800文 。 
+mno_purchasable_weapons40_disabled|你 无 法 负 担 沙 瑟 尔 步 枪 带 刺 刀 。 花 费 ： 3800文 。 
+mno_purchasable_weapons41|购 买 沙 瑟 尔 步 枪 。 花 费 ： 3550文 。 
+mno_purchasable_weapons41_disabled|你 无 法 负 担 沙 瑟 尔 步 枪 。 花 费 ： 3550文 。 
 mno_foreign_rifled_musket3|你 想 购 买 哪 种 线 膛 火 枪 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
+mno_purchasable_weapons42|购 买 短 管 火 枪 ( A ) 。 花 费 ： 1400文 。 
+mno_purchasable_weapons42_disabled|你 无 法 负 担 短 管 火 枪 ( A ) 。 花 费 ： 1400文 。 
+mno_purchasable_weapons43|购 买 短 管 火 枪 ( B ) 。 花 费 ： 1450文 。 
+mno_purchasable_weapons43_disabled|你 无 法 负 担 短 管 火 枪 ( B ) 。 花 费 ： 1450文 。 
+mno_purchasable_weapons44|购 买 史 奈 德 短 管 火 枪 带 刺 刀 。 花 费 ： 3500文 。 
+mno_purchasable_weapons44_disabled|你 无 法 负 担 史 奈 德 短 管 火 枪 带 刺 刀 。 花 费 ： 3500文 。 
+mno_purchasable_weapons45|购 买 史 奈 德 短 管 火 枪 。 花 费 ： 3250文 。 
+mno_purchasable_weapons45_disabled|你 无 法 负 担 史 奈 德 短 管 火 枪 。 花 费 ： 3250文 。 
+mno_purchasable_weapons46|购 买 双 管 雷 管 霰 弹 枪 。 花 费 ： 4000文 。 
+mno_purchasable_weapons46_disabled|你 无 法 负 担 双 管 雷 管 霰 弹 枪 。 花 费 ： 4000文 。 
 mno_foreign_ammunition3|你 想 购 买 哪 种 类 型 的 弹 药 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
-mno_aizu_specialist|你 想 招 募 哪 种 特 殊 部 队 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。
+mno_purchasable_weapons47|购 买 .12 号 鹿 弹 霰 弹 枪 弹 药 。 花 费 ： 500文 。 
+mno_purchasable_weapons47_disabled|你 无 法 负 担 .12 号 鹿 弹 霰 弹 枪 弹 药 。 花 费 ： 500文 。 
+mno_purchasable_weapons48|购 买 .56 口 径 边 缘 发 火 斯 宾 塞 弹 药 。 花 费 ： 700文 。 
+mno_purchasable_weapons48_disabled|你 无 法 负 担 .56 口 径 边 缘 发 火 斯 宾 塞 弹 药 。 花 费 ： 700文 。 
+mno_purchasable_weapons49|购 买 .44 口 径 边 缘 发 火 亨 利 弹 药 。 花 费 ： 750文 。 
+mno_purchasable_weapons49_disabled|你 无 法 负 担 .44 口 径 边 缘 发 火 亨 利 弹 药 。 花 费 ： 750文 。 
+mno_aizu_specialist|你 想 招 募 哪 种 特 殊 部 队 ？ ^^^你 当 前 的 余 额 是 {reg0}文 钱 。 
+mno_town_purchasable_troops11|白 虎 队 ( 610 文 )
+mno_town_purchasable_troops12|玄 武 队 ( 770 文 )
+mno_town_purchasable_troops13|青 龙 队 ( 880 文 )
+mno_town_purchasable_troops14|朱 雀 队 ( 990 文 )
+menu_start_female2_0|重 要 提 示 ： 新 的 女 性 皮 肤 仍 处 于 实 验 阶 段 ， 因 为 我 无 法 修 复 字 符 串 问 题 。 因 此 ， 你 会 遇 到 各 种 对 话 ， 其 中 NPC 会 称 呼 你 的 角 色 为 男 性 。 {***}
+mno_start_female1|女 性 (下 克 上 原 版 脸 模 )
+mno_start_female2|女 性 (FCO v2脸 模 )

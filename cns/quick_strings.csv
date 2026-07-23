@@ -504,7 +504,7 @@ qstr_{s1}__minister|{s1}( 家 老 )
 qstr_{s1}__under_arms_|{s1}( 备 战 中 )
 qstr_{s1}__attempting_to_|{s1}( 尝 试 归 队 )
 qstr_{s1}__separated_afte|{s1}( 战 后 失 散 )
-qstr_{s4}|{s4}{***}
+qstr_{s4}|{s4}
 qstr__knows_of_you.|听 说 过 你 。 
 qstr__has_no_opinion_abou|对 你 无 特 定 看 法 。 
 qstr_{s57}_and_{s50}|{s57}与 {s50}
@@ -570,12 +570,12 @@ qstr_castle|城 堡
 qstr_{s0}|{s0}
 qstr_{s18}_{s0}|{s18}, {s0}
 qstr_No_improvements|无 在 升 级 的 建 筑 
-qstr_MNR|MNR{***}
-qstr_MIL|MIL{***}
-qstr_WT|WT{***}
-qstr_SCH|SCH{***}
-qstr_MP|MP{***}
-qstr_PT|PT{***}
+qstr_MNR|MNR
+qstr_MIL|MIL
+qstr_WT|WT
+qstr_SCH|SCH
+qstr_MP|MP
+qstr_PT|PT
 qstr_ERROR|错 误 
 qstr_You_have_been_enlist|您 已 入 伍 ！ 
 qstr_Current_rank:_{s5}|当 前 排 名 ， {s5}
@@ -857,190 +857,190 @@ qstr_Find_and_speak_with_|找 到 {s3}的 {s4}并 与 之 交 谈 ， 向 {reg4?
 qstr_Find_and_speak_with_{|找 到 {s3}的 {s4}并 与 之 交 谈 ， 向 {reg4?她 :他 }宣 誓 效 忠 。 
 qstr_There_has_been_an_al|有 涉 嫌 边 境 事 件 ， {s9}
 qstr_Ashina_Clan|芦 名 氏 
-qstr_Ashina_Spearman|Ashina Spearman{***}
-qstr_Ashina_Skirmisher|Ashina Skirmisher{***}
-qstr_Ashina_Trained_Spear|Ashina Trained Spearman{***}
-qstr_Ashina_Trained_Skirm|Ashina Trained Skirmisher{***}
-qstr_Ashina_Veteran_Spear|Ashina Veteran Spearman{***}
-qstr_Ashina_Veteran_Skirm|Ashina Veteran Skirmisher{***}
-qstr_Ashina_Elite_Spearma|Ashina Elite Spearman*{***}
-qstr_Ashina_Retainer|Ashina Retainer{***}
-qstr_Ashina_Marksman|Ashina Marksman{***}
-qstr_Ashina_Veteran_Retai|Ashina Veteran Retainer{***}
-qstr_Ashina_Mounted_Retai|Ashina Mounted Retainer{***}
-qstr_Ashina_Samurai_Gunne|Ashina Samurai Gunner{***}
-qstr_Ashina_Samurai_Arche|Ashina Samurai Archer{***}
-qstr_Ashina_Officer|Ashina Officer{***}
-qstr_Ashina_Mounted_Offic|Ashina Mounted Officer{***}
-qstr_Ashina_Master_Gunner|Ashina Master Gunner{***}
-qstr_Ashina_Master_Archer|Ashina Master Archer{***}
-qstr_Ashina_Hatamoto_Guar|Ashina Hatamoto Guard{***}
-qstr_Ashina_Hatamoto_Cava|Ashina Hatamoto Cavalry{***}
-qstr_Ashina_Messenger|Ashina Messenger{***}
-qstr_Ashina_Deserter|Ashina Deserter{***}
-qstr_Ashina_Prison_Guard|Ashina Prison Guard{***}
-qstr_Ashina_Castle_Guard|Ashina Castle Guard{***}
-qstr_Ashina_Spearmen|Ashina Spearmen{***}
-qstr_Ashina_Skirmishers|Ashina Skirmishers{***}
-qstr_Ashina_Trained_Spearm|Ashina Trained Spearmen{***}
-qstr_Ashina_Trained_Skirmi|Ashina Trained Skirmishers{***}
-qstr_Ashina_Veteran_Spearm|Ashina Veteran Spearmen{***}
-qstr_Ashina_Veteran_Skirmi|Ashina Veteran Skirmishers{***}
-qstr_Ashina_Elite_Spearme|Ashina Elite Spearmen{***}
-qstr_Ashina_Retainers|Ashina Retainers{***}
-qstr_Ashina_Marksmen|Ashina Marksmen{***}
-qstr_Ashina_Veteran_Retain|Ashina Veteran Retainers{***}
-qstr_Ashina_Mounted_Retain|Ashina Mounted Retainers{***}
-qstr_Ashina_Samurai_Gunner|Ashina Samurai Gunners{***}
-qstr_Ashina_Samurai_Archer|Ashina Samurai Archers{***}
-qstr_Ashina_Officers|Ashina Officers{***}
-qstr_Ashina_Mounted_Office|Ashina Mounted Officers{***}
-qstr_Ashina_Master_Gunners|Ashina Master Gunners{***}
-qstr_Ashina_Master_Archers|Ashina Master Archers{***}
-qstr_Ashina_Hatamoto_Guard|Ashina Hatamoto Guards{***}
-qstr_Ashina_Messengers|Ashina Messengers{***}
-qstr_Ashina_Deserters|Ashina Deserters{***}
-qstr_Ashina_Prison_Guards|Ashina Prison Guards{***}
-qstr_Ashina_Castle_Guards|Ashina Castle Guards{***}
-qstr_Motoyama_Clan|Motoyama Clan{***}
-qstr_Motoyama_Spearman|Motoyama Spearman{***}
-qstr_Motoyama_Skirmisher|Motoyama Skirmisher{***}
-qstr_Motoyama_Trained_Spe|Motoyama Trained Spearman{***}
-qstr_Motoyama_Trained_Ski|Motoyama Trained Skirmisher{***}
-qstr_Motoyama_Veteran_Spe|Motoyama Veteran Spearman{***}
-qstr_Motoyama_Veteran_Ski|Motoyama Veteran Skirmisher{***}
-qstr_Motoyama_Elite_Skirm|Motoyama Elite Skirmisher{***}
-qstr_Motoyama_Retainer|Motoyama Retainer{***}
-qstr_Motoyama_Marksman|Motoyama Marksman{***}
-qstr_Motoyama_Veteran_Ret|Motoyama Veteran Retainer{***}
-qstr_Motoyama_Mounted_Ret|Motoyama Mounted Retainer{***}
-qstr_Motoyama_Samurai_Gun|Motoyama Samurai Gunner{***}
-qstr_Motoyama_Samurai_Arc|Motoyama Samurai Archer{***}
-qstr_Motoyama_Officer|Motoyama Officer{***}
-qstr_Motoyama_Mounted_Off|Motoyama Mounted Officer{***}
-qstr_Motoyama_Master_Gunn|Motoyama Master Gunner{***}
-qstr_Motoyama_Master_Arch|Motoyama Master Archer{***}
-qstr_Motoyama_Hatamoto_Gu|Motoyama Hatamoto Guard{***}
-qstr_Motoyama_Hatamoto_Ar|Motoyama Hatamoto Archer{***}
-qstr_Motoyama_Messenger|Motoyama Messenger{***}
-qstr_Motoyama_Deserter|Motoyama Deserter{***}
-qstr_Motoyama_Prison_Guar|Motoyama Prison Guard{***}
-qstr_Motoyama_Castle_Guar|Motoyama Castle Guard{***}
-qstr_Motoyama_Spearmen|Motoyama Spearmen{***}
-qstr_Motoyama_Skirmishers|Motoyama Skirmishers{***}
-qstr_Motoyama_Trained_Spea|Motoyama Trained Spearmen{***}
-qstr_Motoyama_Trained_Skir|Motoyama Trained Skirmishers{***}
-qstr_Motoyama_Veteran_Spea|Motoyama Veteran Spearmen{***}
-qstr_Motoyama_Veteran_Skir|Motoyama Veteran Skirmishers{***}
-qstr_Motoyama_Elite_Skirmi|Motoyama Elite Skirmishers{***}
-qstr_Motoyama_Retainers|Motoyama Retainers{***}
-qstr_Motoyama_Marksmen|Motoyama Marksmen{***}
-qstr_Motoyama_Veteran_Reta|Motoyama Veteran Retainers{***}
-qstr_Motoyama_Mounted_Reta|Motoyama Mounted Retainers{***}
-qstr_Motoyama_Samurai_Gunn|Motoyama Samurai Gunners{***}
-qstr_Motoyama_Samurai_Arch|Motoyama Samurai Archers{***}
-qstr_Motoyama_Officers|Motoyama Officers{***}
-qstr_Motoyama_Mounted_Offi|Motoyama Mounted Officers{***}
-qstr_Motoyama_Master_Gunne|Motoyama Master Gunners{***}
-qstr_Motoyama_Master_Arche|Motoyama Master Archers{***}
-qstr_Motoyama_Hatamoto_Gua|Motoyama Hatamoto Guards{***}
-qstr_Motoyama_Hatamoto_Arc|Motoyama Hatamoto Archers{***}
-qstr_Motoyama_Messengers|Motoyama Messengers{***}
-qstr_Motoyama_Deserters|Motoyama Deserters{***}
-qstr_Motoyama_Prison_Guard|Motoyama Prison Guards{***}
-qstr_Motoyama_Castle_Guard|Motoyama Castle Guards{***}
+qstr_Ashina_Spearman|Ashina Spearman
+qstr_Ashina_Skirmisher|Ashina Skirmisher
+qstr_Ashina_Trained_Spear|Ashina Trained Spearman
+qstr_Ashina_Trained_Skirm|Ashina Trained Skirmisher
+qstr_Ashina_Veteran_Spear|Ashina Veteran Spearman
+qstr_Ashina_Veteran_Skirm|Ashina Veteran Skirmisher
+qstr_Ashina_Elite_Spearma|Ashina Elite Spearman*
+qstr_Ashina_Retainer|Ashina Retainer
+qstr_Ashina_Marksman|Ashina Marksman
+qstr_Ashina_Veteran_Retai|Ashina Veteran Retainer
+qstr_Ashina_Mounted_Retai|Ashina Mounted Retainer
+qstr_Ashina_Samurai_Gunne|Ashina Samurai Gunner
+qstr_Ashina_Samurai_Arche|Ashina Samurai Archer
+qstr_Ashina_Officer|Ashina Officer
+qstr_Ashina_Mounted_Offic|Ashina Mounted Officer
+qstr_Ashina_Master_Gunner|Ashina Master Gunner
+qstr_Ashina_Master_Archer|Ashina Master Archer
+qstr_Ashina_Hatamoto_Guar|Ashina Hatamoto Guard
+qstr_Ashina_Hatamoto_Cava|Ashina Hatamoto Cavalry
+qstr_Ashina_Messenger|Ashina Messenger
+qstr_Ashina_Deserter|Ashina Deserter
+qstr_Ashina_Prison_Guard|Ashina Prison Guard
+qstr_Ashina_Castle_Guard|Ashina Castle Guard
+qstr_Ashina_Spearmen|Ashina Spearmen
+qstr_Ashina_Skirmishers|Ashina Skirmishers
+qstr_Ashina_Trained_Spearm|Ashina Trained Spearmen
+qstr_Ashina_Trained_Skirmi|Ashina Trained Skirmishers
+qstr_Ashina_Veteran_Spearm|Ashina Veteran Spearmen
+qstr_Ashina_Veteran_Skirmi|Ashina Veteran Skirmishers
+qstr_Ashina_Elite_Spearme|Ashina Elite Spearmen
+qstr_Ashina_Retainers|Ashina Retainers
+qstr_Ashina_Marksmen|Ashina Marksmen
+qstr_Ashina_Veteran_Retain|Ashina Veteran Retainers
+qstr_Ashina_Mounted_Retain|Ashina Mounted Retainers
+qstr_Ashina_Samurai_Gunner|Ashina Samurai Gunners
+qstr_Ashina_Samurai_Archer|Ashina Samurai Archers
+qstr_Ashina_Officers|Ashina Officers
+qstr_Ashina_Mounted_Office|Ashina Mounted Officers
+qstr_Ashina_Master_Gunners|Ashina Master Gunners
+qstr_Ashina_Master_Archers|Ashina Master Archers
+qstr_Ashina_Hatamoto_Guard|Ashina Hatamoto Guards
+qstr_Ashina_Messengers|Ashina Messengers
+qstr_Ashina_Deserters|Ashina Deserters
+qstr_Ashina_Prison_Guards|Ashina Prison Guards
+qstr_Ashina_Castle_Guards|Ashina Castle Guards
+qstr_Motoyama_Clan|Motoyama Clan
+qstr_Motoyama_Spearman|Motoyama Spearman
+qstr_Motoyama_Skirmisher|Motoyama Skirmisher
+qstr_Motoyama_Trained_Spe|Motoyama Trained Spearman
+qstr_Motoyama_Trained_Ski|Motoyama Trained Skirmisher
+qstr_Motoyama_Veteran_Spe|Motoyama Veteran Spearman
+qstr_Motoyama_Veteran_Ski|Motoyama Veteran Skirmisher
+qstr_Motoyama_Elite_Skirm|Motoyama Elite Skirmisher
+qstr_Motoyama_Retainer|Motoyama Retainer
+qstr_Motoyama_Marksman|Motoyama Marksman
+qstr_Motoyama_Veteran_Ret|Motoyama Veteran Retainer
+qstr_Motoyama_Mounted_Ret|Motoyama Mounted Retainer
+qstr_Motoyama_Samurai_Gun|Motoyama Samurai Gunner
+qstr_Motoyama_Samurai_Arc|Motoyama Samurai Archer
+qstr_Motoyama_Officer|Motoyama Officer
+qstr_Motoyama_Mounted_Off|Motoyama Mounted Officer
+qstr_Motoyama_Master_Gunn|Motoyama Master Gunner
+qstr_Motoyama_Master_Arch|Motoyama Master Archer
+qstr_Motoyama_Hatamoto_Gu|Motoyama Hatamoto Guard
+qstr_Motoyama_Hatamoto_Ar|Motoyama Hatamoto Archer
+qstr_Motoyama_Messenger|Motoyama Messenger
+qstr_Motoyama_Deserter|Motoyama Deserter
+qstr_Motoyama_Prison_Guar|Motoyama Prison Guard
+qstr_Motoyama_Castle_Guar|Motoyama Castle Guard
+qstr_Motoyama_Spearmen|Motoyama Spearmen
+qstr_Motoyama_Skirmishers|Motoyama Skirmishers
+qstr_Motoyama_Trained_Spea|Motoyama Trained Spearmen
+qstr_Motoyama_Trained_Skir|Motoyama Trained Skirmishers
+qstr_Motoyama_Veteran_Spea|Motoyama Veteran Spearmen
+qstr_Motoyama_Veteran_Skir|Motoyama Veteran Skirmishers
+qstr_Motoyama_Elite_Skirmi|Motoyama Elite Skirmishers
+qstr_Motoyama_Retainers|Motoyama Retainers
+qstr_Motoyama_Marksmen|Motoyama Marksmen
+qstr_Motoyama_Veteran_Reta|Motoyama Veteran Retainers
+qstr_Motoyama_Mounted_Reta|Motoyama Mounted Retainers
+qstr_Motoyama_Samurai_Gunn|Motoyama Samurai Gunners
+qstr_Motoyama_Samurai_Arch|Motoyama Samurai Archers
+qstr_Motoyama_Officers|Motoyama Officers
+qstr_Motoyama_Mounted_Offi|Motoyama Mounted Officers
+qstr_Motoyama_Master_Gunne|Motoyama Master Gunners
+qstr_Motoyama_Master_Arche|Motoyama Master Archers
+qstr_Motoyama_Hatamoto_Gua|Motoyama Hatamoto Guards
+qstr_Motoyama_Hatamoto_Arc|Motoyama Hatamoto Archers
+qstr_Motoyama_Messengers|Motoyama Messengers
+qstr_Motoyama_Deserters|Motoyama Deserters
+qstr_Motoyama_Prison_Guard|Motoyama Prison Guards
+qstr_Motoyama_Castle_Guard|Motoyama Castle Guards
 qstr_Ouchi_Clan|大 内 氏 
-qstr_Ouchi_Spearman|Ouchi Spearman{***}
-qstr_Ouchi_Skirmisher|Ouchi Skirmisher{***}
-qstr_Ouchi_Trained_Spearm|Ouchi Trained Spearman{***}
-qstr_Ouchi_Trained_Skirmi|Ouchi Trained Skirmisher{***}
-qstr_Ouchi_Veteran_Spearm|Ouchi Veteran Spearman{***}
-qstr_Ouchi_Veteran_Skirmi|Ouchi Veteran Skirmisher{***}
-qstr_Ouchi_Elite_Spearman|Ouchi Elite Spearman{***}
-qstr_Ouchi_Retainer|Ouchi Retainer{***}
-qstr_Ouchi_Marksman|Ouchi Marksman{***}
-qstr_Ouchi_Veteran_Retain|Ouchi Veteran Retainer{***}
-qstr_Ouchi_Mounted_Retain|Ouchi Mounted Retainer{***}
-qstr_Ouchi_Samurai_Gunner|Ouchi Samurai Gunner{***}
-qstr_Ouchi_Samurai_Archer|Ouchi Samurai Archer{***}
-qstr_Ouchi_Officer|Ouchi Officer{***}
-qstr_Ouchi_Mounted_Office|Ouchi Mounted Officer{***}
-qstr_Ouchi_Master_Gunner|Ouchi Master Gunner{***}
-qstr_Ouchi_Master_Archer|Ouchi Master Archer{***}
-qstr_Ouchi_Hatamoto_Guard|Ouchi Hatamoto Guard{***}
-qstr_Ouchi_Hatamoto_Caval|Ouchi Hatamoto Cavalry{***}
-qstr_Ouchi_Messenger|Ouchi Messenger{***}
-qstr_Ouchi_Deserter|Ouchi Deserter{***}
-qstr_Ouchi_Prison_Guard|Ouchi Prison Guard{***}
-qstr_Ouchi_Castle_Guard|Ouchi Castle Guard{***}
-qstr_Ouchi_Spearmen|Ouchi Spearmen{***}
-qstr_Ouchi_Skirmishers|Ouchi Skirmishers{***}
-qstr_Ouchi_Trained_Spearme|Ouchi Trained Spearmen{***}
-qstr_Ouchi_Trained_Skirmis|Ouchi Trained Skirmishers{***}
-qstr_Ouchi_Veteran_Spearme|Ouchi Veteran Spearmen{***}
-qstr_Ouchi_Veteran_Skirmis|Ouchi Veteran Skirmishers{***}
-qstr_Ouchi_Elite_Spearmen|Ouchi Elite Spearmen{***}
-qstr_Ouchi_Retainers|Ouchi Retainers{***}
-qstr_Ouchi_Marksmen|Ouchi Marksmen{***}
-qstr_Ouchi_Veteran_Retaine|Ouchi Veteran Retainers{***}
-qstr_Ouchi_Mounted_Retaine|Ouchi Mounted Retainers{***}
-qstr_Ouchi_Samurai_Gunners|Ouchi Samurai Gunners{***}
-qstr_Ouchi_Samurai_Archers|Ouchi Samurai Archers{***}
-qstr_Ouchi_Officers|Ouchi Officers{***}
-qstr_Ouchi_Mounted_Officer|Ouchi Mounted Officers{***}
-qstr_Ouchi_Master_Gunners|Ouchi Master Gunners{***}
-qstr_Ouchi_Master_Archers|Ouchi Master Archers{***}
-qstr_Ouchi_Hatamoto_Guards|Ouchi Hatamoto Guards{***}
-qstr_Ouchi_Messengers|Ouchi Messengers{***}
-qstr_Ouchi_Deserters|Ouchi Deserters{***}
-qstr_Ouchi_Prison_Guards|Ouchi Prison Guards{***}
-qstr_Ouchi_Castle_Guards|Ouchi Castle Guards{***}
-qstr_Tachibana_Clan|Tachibana Clan{***}
-qstr_Tachibana_Spearman|Tachibana Spearman{***}
-qstr_Tachibana_Skirmisher|Tachibana Skirmisher{***}
-qstr_Tachibana_Trained_Sp|Tachibana Trained Spearman{***}
-qstr_Tachibana_Trained_Sk|Tachibana Trained Skirmisher{***}
-qstr_Tachibana_Veteran_Sp|Tachibana Veteran Spearman{***}
-qstr_Tachibana_Veteran_Sk|Tachibana Veteran Skirmisher{***}
-qstr_Tachibana_Elite_Spea|Tachibana Elite Spearman{***}
-qstr_Tachibana_Retainer|Tachibana Retainer{***}
-qstr_Tachibana_Marksman|Tachibana Marksman{***}
-qstr_Tachibana_Veteran_Re|Tachibana Veteran Retainer{***}
-qstr_Tachibana_Mounted_Re|Tachibana Mounted Retainer{***}
-qstr_Tachibana_Samurai_Gu|Tachibana Samurai Gunner{***}
-qstr_Tachibana_Samurai_Ar|Tachibana Samurai Archer{***}
-qstr_Tachibana_Officer|Tachibana Officer{***}
-qstr_Tachibana_Mounted_Of|Tachibana Mounted Officer{***}
-qstr_Tachibana_Master_Gun|Tachibana Master Gunner{***}
-qstr_Tachibana_Master_Arc|Tachibana Master Archer{***}
-qstr_Tachibana_Hatamoto_C|Tachibana Hatamoto Cavalry{***}
-qstr_Tachibana_Hatamoto_G|Tachibana Hatamoto Gunner{***}
-qstr_Tachibana_Messenger|Tachibana Messenger{***}
-qstr_Tachibana_Deserter|Tachibana Deserter{***}
-qstr_Tachibana_Prison_Gua|Tachibana Prison Guard{***}
-qstr_Tachibana_Castle_Gua|Tachibana Castle Guard{***}
-qstr_Tachibana_Spearmen|Tachibana Spearmen{***}
-qstr_Tachibana_Skirmishers|Tachibana Skirmishers{***}
-qstr_Tachibana_Trained_Spe|Tachibana Trained Spearmen{***}
-qstr_Tachibana_Trained_Ski|Tachibana Trained Skirmishers{***}
-qstr_Tachibana_Veteran_Spe|Tachibana Veteran Spearmen{***}
-qstr_Tachibana_Veteran_Ski|Tachibana Veteran Skirmishers{***}
-qstr_Tachibana_Elite_Spear|Tachibana Elite Spearmen{***}
-qstr_Tachibana_Retainers|Tachibana Retainers{***}
-qstr_Tachibana_Marksmen|Tachibana Marksmen{***}
-qstr_Tachibana_Veteran_Ret|Tachibana Veteran Retainers{***}
-qstr_Tachibana_Mounted_Ret|Tachibana Mounted Retainers{***}
-qstr_Tachibana_Samurai_Gun|Tachibana Samurai Gunners{***}
-qstr_Tachibana_Samurai_Arc|Tachibana Samurai Archers{***}
-qstr_Tachibana_Officers|Tachibana Officers{***}
-qstr_Tachibana_Mounted_Off|Tachibana Mounted Officers{***}
-qstr_Tachibana_Master_Gunn|Tachibana Master Gunners{***}
-qstr_Tachibana_Master_Arch|Tachibana Master Archers{***}
-qstr_Tachibana_Hatamoto_Gu|Tachibana Hatamoto Gunners{***}
-qstr_Tachibana_Messengers|Tachibana Messengers{***}
-qstr_Tachibana_Deserters|Tachibana Deserters{***}
-qstr_Tachibana_Prison_Guar|Tachibana Prison Guards{***}
-qstr_Tachibana_Castle_Guar|Tachibana Castle Guards{***}
+qstr_Ouchi_Spearman|Ouchi Spearman
+qstr_Ouchi_Skirmisher|Ouchi Skirmisher
+qstr_Ouchi_Trained_Spearm|Ouchi Trained Spearman
+qstr_Ouchi_Trained_Skirmi|Ouchi Trained Skirmisher
+qstr_Ouchi_Veteran_Spearm|Ouchi Veteran Spearman
+qstr_Ouchi_Veteran_Skirmi|Ouchi Veteran Skirmisher
+qstr_Ouchi_Elite_Spearman|Ouchi Elite Spearman
+qstr_Ouchi_Retainer|Ouchi Retainer
+qstr_Ouchi_Marksman|Ouchi Marksman
+qstr_Ouchi_Veteran_Retain|Ouchi Veteran Retainer
+qstr_Ouchi_Mounted_Retain|Ouchi Mounted Retainer
+qstr_Ouchi_Samurai_Gunner|Ouchi Samurai Gunner
+qstr_Ouchi_Samurai_Archer|Ouchi Samurai Archer
+qstr_Ouchi_Officer|Ouchi Officer
+qstr_Ouchi_Mounted_Office|Ouchi Mounted Officer
+qstr_Ouchi_Master_Gunner|Ouchi Master Gunner
+qstr_Ouchi_Master_Archer|Ouchi Master Archer
+qstr_Ouchi_Hatamoto_Guard|Ouchi Hatamoto Guard
+qstr_Ouchi_Hatamoto_Caval|Ouchi Hatamoto Cavalry
+qstr_Ouchi_Messenger|Ouchi Messenger
+qstr_Ouchi_Deserter|Ouchi Deserter
+qstr_Ouchi_Prison_Guard|Ouchi Prison Guard
+qstr_Ouchi_Castle_Guard|Ouchi Castle Guard
+qstr_Ouchi_Spearmen|Ouchi Spearmen
+qstr_Ouchi_Skirmishers|Ouchi Skirmishers
+qstr_Ouchi_Trained_Spearme|Ouchi Trained Spearmen
+qstr_Ouchi_Trained_Skirmis|Ouchi Trained Skirmishers
+qstr_Ouchi_Veteran_Spearme|Ouchi Veteran Spearmen
+qstr_Ouchi_Veteran_Skirmis|Ouchi Veteran Skirmishers
+qstr_Ouchi_Elite_Spearmen|Ouchi Elite Spearmen
+qstr_Ouchi_Retainers|Ouchi Retainers
+qstr_Ouchi_Marksmen|Ouchi Marksmen
+qstr_Ouchi_Veteran_Retaine|Ouchi Veteran Retainers
+qstr_Ouchi_Mounted_Retaine|Ouchi Mounted Retainers
+qstr_Ouchi_Samurai_Gunners|Ouchi Samurai Gunners
+qstr_Ouchi_Samurai_Archers|Ouchi Samurai Archers
+qstr_Ouchi_Officers|Ouchi Officers
+qstr_Ouchi_Mounted_Officer|Ouchi Mounted Officers
+qstr_Ouchi_Master_Gunners|Ouchi Master Gunners
+qstr_Ouchi_Master_Archers|Ouchi Master Archers
+qstr_Ouchi_Hatamoto_Guards|Ouchi Hatamoto Guards
+qstr_Ouchi_Messengers|Ouchi Messengers
+qstr_Ouchi_Deserters|Ouchi Deserters
+qstr_Ouchi_Prison_Guards|Ouchi Prison Guards
+qstr_Ouchi_Castle_Guards|Ouchi Castle Guards
+qstr_Tachibana_Clan|Tachibana Clan
+qstr_Tachibana_Spearman|Tachibana Spearman
+qstr_Tachibana_Skirmisher|Tachibana Skirmisher
+qstr_Tachibana_Trained_Sp|Tachibana Trained Spearman
+qstr_Tachibana_Trained_Sk|Tachibana Trained Skirmisher
+qstr_Tachibana_Veteran_Sp|Tachibana Veteran Spearman
+qstr_Tachibana_Veteran_Sk|Tachibana Veteran Skirmisher
+qstr_Tachibana_Elite_Spea|Tachibana Elite Spearman
+qstr_Tachibana_Retainer|Tachibana Retainer
+qstr_Tachibana_Marksman|Tachibana Marksman
+qstr_Tachibana_Veteran_Re|Tachibana Veteran Retainer
+qstr_Tachibana_Mounted_Re|Tachibana Mounted Retainer
+qstr_Tachibana_Samurai_Gu|Tachibana Samurai Gunner
+qstr_Tachibana_Samurai_Ar|Tachibana Samurai Archer
+qstr_Tachibana_Officer|Tachibana Officer
+qstr_Tachibana_Mounted_Of|Tachibana Mounted Officer
+qstr_Tachibana_Master_Gun|Tachibana Master Gunner
+qstr_Tachibana_Master_Arc|Tachibana Master Archer
+qstr_Tachibana_Hatamoto_C|Tachibana Hatamoto Cavalry
+qstr_Tachibana_Hatamoto_G|Tachibana Hatamoto Gunner
+qstr_Tachibana_Messenger|Tachibana Messenger
+qstr_Tachibana_Deserter|Tachibana Deserter
+qstr_Tachibana_Prison_Gua|Tachibana Prison Guard
+qstr_Tachibana_Castle_Gua|Tachibana Castle Guard
+qstr_Tachibana_Spearmen|Tachibana Spearmen
+qstr_Tachibana_Skirmishers|Tachibana Skirmishers
+qstr_Tachibana_Trained_Spe|Tachibana Trained Spearmen
+qstr_Tachibana_Trained_Ski|Tachibana Trained Skirmishers
+qstr_Tachibana_Veteran_Spe|Tachibana Veteran Spearmen
+qstr_Tachibana_Veteran_Ski|Tachibana Veteran Skirmishers
+qstr_Tachibana_Elite_Spear|Tachibana Elite Spearmen
+qstr_Tachibana_Retainers|Tachibana Retainers
+qstr_Tachibana_Marksmen|Tachibana Marksmen
+qstr_Tachibana_Veteran_Ret|Tachibana Veteran Retainers
+qstr_Tachibana_Mounted_Ret|Tachibana Mounted Retainers
+qstr_Tachibana_Samurai_Gun|Tachibana Samurai Gunners
+qstr_Tachibana_Samurai_Arc|Tachibana Samurai Archers
+qstr_Tachibana_Officers|Tachibana Officers
+qstr_Tachibana_Mounted_Off|Tachibana Mounted Officers
+qstr_Tachibana_Master_Gunn|Tachibana Master Gunners
+qstr_Tachibana_Master_Arch|Tachibana Master Archers
+qstr_Tachibana_Hatamoto_Gu|Tachibana Hatamoto Gunners
+qstr_Tachibana_Messengers|Tachibana Messengers
+qstr_Tachibana_Deserters|Tachibana Deserters
+qstr_Tachibana_Prison_Guar|Tachibana Prison Guards
+qstr_Tachibana_Castle_Guar|Tachibana Castle Guards
 qstr_Great_Lord_{s9}|大 名 {s9}
 qstr_^^Note_that_so_long_|^^注 意 只 要 你 还 在 做 总 大 将 ， 这 个 国 家 的 领 主 们 都 会 等 着 让 你 率 领 他 们 进 行 战 役 。 所 以 ， 如 果 你 正 在 准 备 一 场 茶 会 ， 或 者 是 婚 礼 以 及 其 它 活 动 ， 你 也 许 要 去 和 你 的 领 主 谈 谈 以 辞 去 总 大 将 的 职 务 。 
 qstr_Try_as_you_might_you_|尽 你 所 能 ， 你 无 法 击 败 叛 乱 村 庄 。 
@@ -1106,7 +1106,7 @@ qstr_The_trade_pact_betwe|{s1}与 {s2}之 间 的 贸 易 协 定 已 经 失 �
 qstr_{s1}_has_not_respond|{s1}未 对 {s2}的 挑 衅 作 出 回 应 。 
 qstr_Your_recruiter_who_wa|您 被 委 托 向 {s13}招 募 {reg10}新 兵 的 征 兵 官 被 击 败 了 ！ 
 qstr_{s13}_has_been_taken|{s13}已 被 敌 人 夺 走 ， 而 您 委 托 招 募 {reg10}新 兵 的 征 兵 官 消 失 得 无 影 无 踪 ！ 
-qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!{***}
+qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
 qstr_A_recruiter_has_brou|一 名 征 兵 官 已 将 {reg10}名 士 兵 带 到 {s13}。 
 qstr_Distance_between_{s1|{s14}与 {s15}之 间 的 距 离 ， {reg0}
 qstr_Your_caravan_has_bro|您 的 商 队 已 将 {s12}带 到 {s13}。 
@@ -1330,4 +1330,4 @@ qstr_I_am_sad_to_see_you_|看 到 你 离 开 ， 我 很 难 过 。 我 借 �
 qstr_You_are_relieved_of_|你 被 解 职 了 。 
 qstr_For_your_time_in_my_|对 于 你 为 我 服 务 的 时 光 ， 我 也 以 {s13}向 你 们 道 别 。 
 qstr_For_your_time_in_my_s|对 于 你 为 我 的 服 务 ， 我 授 予 您 {s13}。 
-qstr_You_weren_t_with_me_|你 不 在 我 身 边 很 久 了 ， 对 吗 ？
+qstr_You_weren_t_with_me_|你 不 在 我 身 边 很 久 了 ， 对 吗 ？ 

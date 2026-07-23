@@ -60,7 +60,7 @@ dlga_horseman_challenge:horseman_melee_challenge_2|很 好 。 现 在 我 要 �
 dlga_horseman_melee_challenge_2:close_window|好 的 。 我 准 备 好 了 。 
 dlga_horseman_melee_challenge_2:close_window.1|等 一 下 。 我 要 先 去 做 点 别 的 事 情 。 
 dlga_tutorial_troop_default:close_window|嘿 ， 我 正 在 这 里 练 习 呢 。 如 果 你 想 得 到 关 于 远 程 武 器 的 指 导 ， 去 跟 箭 术 教 练 谈 谈 吧 。 
-dlga_prisoner_chat:close_window|NO TEXT{***}
+dlga_prisoner_chat:close_window|哦 。 
 dlga_prisoner_chat:prisoner_chat_accept_confirm|好 的 ， 我 为 你 腾 出 了 房 间 。 
 dlga_prisoner_chat_accept_confirm:prisoner_chat_accept3|听 候 调 遣 , 我 的 {殿 下 /殿 下 } 。 
 dlga_prisoner_chat:close_window.1|对 不 起 ， 我 还 没 有 房 间 给 你 。 你 将 不 得 不 再 等 一 会 儿 。 
@@ -3560,4 +3560,4 @@ dlga_lord_request_promotion_confirm:lord_pretalk|我 考 虑 了 一 下 , 我 �
 dlga_lord_request_promotion:lord_pretalk|我 不 相 信 你 足 以 让 你 更 接 近 我 的 核 心 圈 子 。 
 dlga_lord_request_retire:lord_pretalk|很 好 , {playername}。 {s11} {s12}
 dlga_lord_request_vacation:lord_pretalk|很 好 {playername}。 你 应 该 休 息 一 段 时 间 。 两 周 后 回 来 。 
-dlga_ask_return_from_leave:lord_pretalk|欢 迎 回 来 {playername}。 你 的 战 友 都 挺 想 念 你 的 ， 现 在 回 到 你 的 岗 位 上 吧 。
+dlga_ask_return_from_leave:lord_pretalk|欢 迎 回 来 {playername}。 你 的 战 友 都 挺 想 念 你 的 ， 现 在 回 到 你 的 岗 位 上 吧 。 
